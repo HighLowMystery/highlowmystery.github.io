@@ -141,7 +141,7 @@ Write a "Best X" affiliate article for: **{keyword}**
 Structure:
 1. Open with 1-2 paragraph personal story (remote work pain point)
 2. Quick answer box (40-60 words, answer the query directly)  
-3. Comparison table (5-7 products, with Amazon affiliate links, placeholder tag YOURTAG-20)
+3. Comparison table (5-7 products, with Amazon affiliate links, placeholder tag highlowmyst0e-20)
 4. Individual product reviews (200-300 words each, pros/cons, who it's for)
 5. Buying guide section (what to look for)
 6. FAQ section (5 questions with schema markup)

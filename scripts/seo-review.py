@@ -52,7 +52,7 @@ def audit_articles():
             if "draft = true" in content:
                 article["issues"].append("still draft — not published")
             
-            if "YOURTAG-20" in content:
+            if "highlowmyst0e-20" in content:
                 article["issues"].append("placeholder Amazon tag not replaced")
             
             if "description =" not in content:
@@ -132,7 +132,7 @@ def create_remediation_tasks(issues, health):
     amazon_tag_issues = [i for i in issues if "placeholder Amazon tag" in i]
     if amazon_tag_issues:
         tasks_needed.append({
-            "title": "[Affiliate] Fix: Replace YOURTAG-20 with real Amazon tag",
+            "title": "[Affiliate] Fix: Replace highlowmyst0e-20 with real Amazon tag",
             "description": f"Replace placeholder Amazon affiliate tag in {len(amazon_tag_issues)} articles. Boss needs to provide actual Amazon Associates tag. Check hugo.toml and all content files.",
             "priority": "P0"
         })

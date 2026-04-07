@@ -5,7 +5,7 @@ draft = false
 description = "Two of the most popular standing desks at the $400-500 price point, head-to-head. Here's who wins and who should skip both."
 categories = ["comparisons"]
 tags = ["standing-desk", "flexispot", "uplift", "comparison"]
-amazonTag = "YOURTAG-20"
+amazonTag = "highlowmyst0e-20"
 +++
 
 ## Quick Answer
@@ -30,8 +30,8 @@ For most remote workers on a budget, the E7 is the call. For people who want to 
   rating1="4.7"
   rating2="4.8"
   winner="1"
-  link1="https://www.amazon.com/s?k=flexispot+e7+pro+standing+desk&tag=YOURTAG-20"
-  link2="https://www.amazon.com/s?k=uplift+v2+standing+desk&tag=YOURTAG-20"
+  link1="https://www.amazon.com/s?k=flexispot+e7+pro+standing+desk&tag=highlowmyst0e-20"
+  link2="https://www.amazon.com/s?k=uplift+v2+standing+desk&tag=highlowmyst0e-20"
   rows="Motor:Dual,Dual|Weight Capacity:450 lbs,355 lbs|Memory Presets:4,4|Height Range:22.8-48.4 in,25.5-51.1 in|Frame Warranty:10 years,15 years|Parts/Labor Warranty:5 years,5 years|Stability at Max:Excellent,Excellent|Customization:Limited,Extensive|Customer Support:Decent,Excellent|Ships From:China (longer wait),US (faster)"
 >}}
 

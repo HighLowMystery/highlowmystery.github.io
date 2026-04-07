@@ -1,4 +1,4 @@
-baseURL = "https://highlowmystery.github.io/"
+baseURL = "https://highlowmystery.pages.dev/"
 languageCode = "en-us"
 title = "Work From Home Pro"
 theme = "affiliate-base"
@@ -6,7 +6,7 @@ theme = "affiliate-base"
 [params]
   description = "Honest reviews and guides for remote workers, home office builders, and ergonomics nerds."
   author = "Work From Home Pro"
-  amazonTag = "YOURTAG-20"
+  amazonTag = "highlowmyst0e-20"
   sharesaleId = ""
 
 [taxonomies]

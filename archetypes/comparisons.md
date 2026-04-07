@@ -5,7 +5,7 @@ draft = true
 description = ""
 categories = ["comparisons"]
 tags = []
-amazonTag = "YOURTAG-20"
+amazonTag = "highlowmyst0e-20"
 +++
 
 <!--

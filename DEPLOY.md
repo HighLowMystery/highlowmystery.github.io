@@ -21,7 +21,7 @@ git push -u origin main
 #    First deploy takes 2-3 minutes after the push.
 
 # 5. Replace Amazon tag in hugo.toml:
-#    Find: amazonTag = "YOURTAG-20"
+#    Find: amazonTag = "highlowmyst0e-20"
 #    Replace with your actual tag from: https://affiliate-program.amazon.com
 #    Then: git add hugo.toml && git commit -m "config: add Amazon tag" && git push
 ```
@@ -32,7 +32,7 @@ git push -u origin main
 2. Sign in with your Amazon account
 3. Enter your website URL: https://highlowmystery.github.io
 4. Choose your tag (usually firstname-20 or sitename-20)
-5. Copy the tag and replace YOURTAG-20 in hugo.toml
+5. Copy the tag and replace highlowmyst0e-20 in hugo.toml
 
 ## What's Live Right Now (After Push)
 
