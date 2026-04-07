@@ -1,0 +1,41 @@
+baseURL = "https://yourusername.github.io/affiliate-hub/"
+languageCode = "en-us"
+title = "Work From Home Pro"
+theme = "affiliate-base"
+
+[params]
+  description = "Honest reviews and guides for remote workers, home office builders, and ergonomics nerds."
+  author = "Work From Home Pro"
+  amazonTag = "YOURTAG-20"
+  sharesaleId = ""
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "best-picks"
+    name = "Best Picks"
+    url = "/best-picks/"
+    weight = 1
+  [[menu.main]]
+    identifier = "comparisons"
+    name = "Comparisons"
+    url = "/comparisons/"
+    weight = 2
+  [[menu.main]]
+    identifier = "how-to"
+    name = "How To"
+    url = "/how-to/"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 4
