@@ -1,0 +1,58 @@
+{{/*
+  Comparison table shortcode — for X vs Y posts
+  Usage: {{< compare
+    product1="Herman Miller Aeron"
+    product2="Secretlab Titan"
+    price1="$1,495"
+    price2="$549"
+    rating1="4.8"
+    rating2="4.5"
+    winner="1"
+    link1="https://amazon.com/dp/ASIN1?tag=YOURTAG-20"
+    link2="https://amazon.com/dp/ASIN2?tag=YOURTAG-20"
+    rows="Lumbar Support:Exceptional,Good|Armrests:4D,4D|Warranty:12 years,2 years|Weight Capacity:350 lbs,290 lbs"
+  >}}
+*/}}
+<div class="compare-table-wrap">
+  <table class="compare-table">
+    <thead>
+      <tr>
+        <th>Feature</th>
+        <th class="{{ if eq .Params.winner "1" }}winner{{ end }}">
+          {{ .Params.product1 }}
+          {{ if eq .Params.winner "1" }}<span class="winner-badge">👑 Our Pick</span>{{ end }}
+        </th>
+        <th class="{{ if eq .Params.winner "2" }}winner{{ end }}">
+          {{ .Params.product2 }}
+          {{ if eq .Params.winner "2" }}<span class="winner-badge">👑 Our Pick</span>{{ end }}
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Price</td>
+        <td>{{ .Params.price1 }}</td>
+        <td>{{ .Params.price2 }}</td>
+      </tr>
+      <tr>
+        <td>Rating</td>
+        <td>⭐ {{ .Params.rating1 }}</td>
+        <td>⭐ {{ .Params.rating2 }}</td>
+      </tr>
+      {{ range split .Params.rows "|" }}
+        {{ $parts := split . ":" }}
+        {{ $vals := split (index $parts 1) "," }}
+        <tr>
+          <td>{{ index $parts 0 }}</td>
+          <td>{{ index $vals 0 }}</td>
+          <td>{{ index $vals 1 }}</td>
+        </tr>
+      {{ end }}
+      <tr class="cta-row">
+        <td>Buy</td>
+        <td><a href="{{ .Params.link1 }}" class="btn btn-buy" target="_blank" rel="nofollow noopener sponsored">Check Price →</a></td>
+        <td><a href="{{ .Params.link2 }}" class="btn btn-buy" target="_blank" rel="nofollow noopener sponsored">Check Price →</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

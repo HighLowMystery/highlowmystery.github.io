@@ -1,0 +1,33 @@
+{{/*
+  Product card shortcode — use in posts to display a product with affiliate link
+  Usage: {{< product name="Herman Miller Aeron" price="$1,495" rating="4.8" pros="Best lumbar support,Premium build,12-year warranty" cons="Expensive,Takes time to adjust" link="https://amazon.com/dp/ASIN?tag=YOURTAG-20" badge="Editor's Pick" >}}
+*/}}
+<div class="product-card">
+  {{ with .Params.badge }}<span class="product-badge">{{ . }}</span>{{ end }}
+  <div class="product-card-body">
+    <h3 class="product-name">{{ .Params.name }}</h3>
+    <div class="product-rating">
+      {{ $rating := .Params.rating | float }}
+      {{ range seq 5 }}
+        {{ if le . (int $rating) }}⭐{{ else }}☆{{ end }}
+      {{ end }}
+      <span class="rating-num">{{ .Params.rating }}/5</span>
+    </div>
+    {{ with .Params.price }}<div class="product-price">{{ . }}</div>{{ end }}
+    <div class="product-pros-cons">
+      <div class="pros">
+        <strong>✅ Pros</strong>
+        <ul>{{ range split .Params.pros "," }}<li>{{ strings.TrimSpace . }}</li>{{ end }}</ul>
+      </div>
+      <div class="cons">
+        <strong>❌ Cons</strong>
+        <ul>{{ range split .Params.cons "," }}<li>{{ strings.TrimSpace . }}</li>{{ end }}</ul>
+      </div>
+    </div>
+    {{ with .Params.link }}
+    <a href="{{ . }}" class="btn btn-buy" target="_blank" rel="nofollow noopener sponsored">
+      Check Price on Amazon →
+    </a>
+    {{ end }}
+  </div>
+</div>

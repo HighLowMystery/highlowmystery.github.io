@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="container">
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1>Honest Home Office Reviews</h1>
+    <p>Real-world gear reviews for remote workers. No fluff, no paid placements — just what actually works.</p>
+  </section>
+
+  <!-- Featured Posts Grid -->
+  <section class="posts-section">
+    <h2 class="section-title">Latest Reviews & Guides</h2>
+    <div class="posts-grid">
+      {{ range first 9 (where .Site.RegularPages "Section" "!=" "") }}
+      <article class="post-card">
+        {{ with .Params.image }}
+        <div class="post-card-img">
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="post-card-body">
+          <span class="post-card-category">{{ .Section | humanize }}</span>
+          <h3 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p class="post-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
+          <a href="{{ .Permalink }}" class="btn btn-read">Read More →</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- Category Nav -->
+  <section class="categories-section">
+    <div class="category-cards">
+      <a href="/best-picks/" class="category-card">
+        <span class="cat-icon">🏆</span>
+        <span class="cat-name">Best Picks</span>
+        <span class="cat-desc">Top-rated gear by category</span>
+      </a>
+      <a href="/comparisons/" class="category-card">
+        <span class="cat-icon">⚖️</span>
+        <span class="cat-name">Comparisons</span>
+        <span class="cat-desc">Head-to-head product battles</span>
+      </a>
+      <a href="/how-to/" class="category-card">
+        <span class="cat-icon">💡</span>
+        <span class="cat-name">How-To Guides</span>
+        <span class="cat-desc">Setup, ergonomics, optimization</span>
+      </a>
+    </div>
+  </section>
+
+</div>
+{{ end }}

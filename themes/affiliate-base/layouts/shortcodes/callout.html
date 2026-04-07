@@ -1,0 +1,11 @@
+{{/* 
+  Callout box — highlight tips, warnings, disclaimers
+  Usage: {{< callout type="tip" >}} Your text here {{< /callout >}}
+  Types: tip, warning, info, verdict
+*/}}
+{{ $type := .Params.type | default "info" }}
+{{ $icons := dict "tip" "💡" "warning" "⚠️" "info" "ℹ️" "verdict" "🏆" }}
+<div class="callout callout-{{ $type }}">
+  <span class="callout-icon">{{ index $icons $type }}</span>
+  <div class="callout-body">{{ .Inner | markdownify }}</div>
+</div>

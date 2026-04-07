@@ -1,0 +1,28 @@
+{{/*
+  Quick picks table — summary table at top of "Best X" posts
+  Usage: {{< quickpicks
+    items="Herman Miller Aeron:Best Overall:$1495:https://amazon.com/dp/ASIN?tag=YOURTAG-20,Autonomous ErgoChair Pro:Best Budget:$499:https://amazon.com"
+  >}}
+*/}}
+<div class="quickpicks-wrap">
+  <h3 class="quickpicks-title">⚡ Quick Picks</h3>
+  <table class="quickpicks-table">
+    <thead>
+      <tr><th>#</th><th>Product</th><th>Why We Like It</th><th>Price</th><th></th></tr>
+    </thead>
+    <tbody>
+      {{ $i := 0 }}
+      {{ range split .Params.items "," }}
+        {{ $i = add $i 1 }}
+        {{ $parts := split . ":" }}
+        <tr>
+          <td class="pick-num">{{ $i }}</td>
+          <td class="pick-name">{{ index $parts 0 }}</td>
+          <td class="pick-why">{{ index $parts 1 }}</td>
+          <td class="pick-price">{{ index $parts 2 }}</td>
+          <td><a href="{{ index $parts 3 }}" class="btn btn-sm btn-buy" target="_blank" rel="nofollow noopener sponsored">Buy →</a></td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

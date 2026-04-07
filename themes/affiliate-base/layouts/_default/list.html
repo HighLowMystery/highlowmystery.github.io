@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+  <div class="list-header">
+    <h1>{{ .Title | default (.Section | humanize) }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </div>
+  <div class="posts-grid">
+    {{ range .Pages }}
+    <article class="post-card">
+      {{ with .Params.image }}
+      <div class="post-card-img">
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+      </div>
+      {{ end }}
+      <div class="post-card-body">
+        <span class="post-card-category">{{ .Section | humanize }}</span>
+        <h2 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="post-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
+        <div class="post-card-meta">
+          <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+          <a href="{{ .Permalink }}" class="btn btn-read">Read →</a>
+        </div>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

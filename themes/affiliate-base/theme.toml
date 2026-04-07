@@ -1,0 +1,8 @@
+name = "affiliate-base"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Fast, conversion-optimized affiliate theme for Hugo. Built for product reviews, comparisons, and buying guides."
+homepage = "https://highlowmystery.github.io"
+tags = ["affiliate", "blog", "product-review", "amazon"]
+features = ["responsive", "fast", "dark-mode", "comparison-tables"]
+min_version = "0.110.0"

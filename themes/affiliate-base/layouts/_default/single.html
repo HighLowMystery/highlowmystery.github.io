@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="container article-container">
+  <article class="post">
+
+    <!-- Affiliate Disclosure Banner -->
+    <div class="disclosure-banner">
+      <span>⚠️</span> This post contains affiliate links. <a href="/disclaimer/">Learn more.</a>
+    </div>
+
+    <header class="post-header">
+      <div class="post-meta">
+        <span class="post-category">{{ .Section | humanize }}</span>
+        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+        {{ if ne .Date .Lastmod }}<span class="post-updated">Updated: {{ .Lastmod.Format "January 2, 2006" }}</span>{{ end }}
+      </div>
+      <h1 class="post-title">{{ .Title }}</h1>
+      {{ with .Description }}<p class="post-desc">{{ . }}</p>{{ end }}
+    </header>
+
+    <!-- Table of Contents (auto-generated if headings exist) -->
+    {{ if .TableOfContents }}
+    <div class="toc-box">
+      <h3>Quick Navigation</h3>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <!-- Author Box -->
+    <div class="author-box">
+      <div class="author-avatar">🖥️</div>
+      <div class="author-info">
+        <strong>{{ .Site.Params.author }}</strong>
+        <p>Remote worker and home office obsessive. Been working from home for years — I've bought the gear, made the mistakes, and figured out what actually works.</p>
+      </div>
+    </div>
+
+    <!-- Related Posts -->
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+    <div class="related-posts">
+      <h3>You Might Also Like</h3>
+      <div class="related-grid">
+        {{ range . }}
+        <a href="{{ .Permalink }}" class="related-card">
+          <span class="related-cat">{{ .Section | humanize }}</span>
+          <span class="related-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+  </article>
+</div>
+{{ end }}
