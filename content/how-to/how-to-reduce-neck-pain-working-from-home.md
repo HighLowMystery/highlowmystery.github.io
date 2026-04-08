@@ -8,6 +8,11 @@ tags = ["neck-pain", "ergonomics", "home-office", "monitor-arm", "posture", "wfh
 amazonTag = "highlowmyst0e-20"
 +++
 
+{{< quick-answer >}}
+Neck pain from working at home is almost always caused by a monitor that's too low — the fix is raising your screen so the top of the display sits at or just below eye level. Pairing a laptop stand or monitor arm with an external keyboard eliminates the root cause for most people within one to two weeks.
+{{< /quick-answer >}}
+
+
 Six months into working from home I started waking up with a stiff neck. Not the "slept on it funny" kind — the kind where turning to check your blind spot while driving makes you wince.
 
 My doctor told me what my setup was screaming: I was spending 8 hours a day looking slightly down and forward at a laptop screen. That forward head posture adds roughly 10 pounds of effective stress per inch of forward lean on your cervical spine. At 2–3 inches of lean, I was doing what amounted to carrying a bowling ball sideways. All day.

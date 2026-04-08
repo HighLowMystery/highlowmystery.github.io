@@ -8,6 +8,11 @@ tags = ["monitor", "home-office", "remote-work", "budget"]
 amazonTag = "highlowmyst0e-20"
 +++
 
+{{< quick-answer >}}
+The best monitor under $300 for home office work is a 27-inch 1440p IPS display — enough resolution for crisp text, enough screen space to run two windows side-by-side without squinting. The LG 27QN600-B and Dell S2722QC are the most recommended options at this price point.
+{{< /quick-answer >}}
+
+
 The laptop screen is the enemy of your neck. It's too low, too small, and it forces you to look down for eight hours a day. The fix is simple and it doesn't have to cost much.
 
 I've been through four monitors in six years. One had terrible color. One died after 14 months. Two are still running. Here's what I know now.

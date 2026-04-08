@@ -7,6 +7,11 @@ categories = ["how-to"]
 tags = ["home-office-setup", "budget", "ergonomics", "remote-work"]
 +++
 
+{{< quick-answer >}}
+A complete, ergonomic home office setup under $1,000 is achievable with a used ergonomic chair ($200–400), a budget standing desk frame with an IKEA top ($400–500), and a 27-inch monitor ($150–250). Prioritize the chair first — it's what you sit in for 8 hours a day and has the highest impact on health and productivity.
+{{< /quick-answer >}}
+
+
 My first home office was a kitchen table and a folding chair. My back hurt within a week. Six years later — and after spending way too much on gear I didn't need and not enough on gear I did — here's what I'd tell myself if I could do it over.
 
 You don't need $3,000 worth of equipment. You need the right $700-900 worth.

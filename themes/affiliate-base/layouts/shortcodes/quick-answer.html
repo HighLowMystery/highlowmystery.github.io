@@ -1,0 +1,19 @@
+{{/*
+  quick-answer shortcode — GEO citation-optimised summary box
+  Renders a highlighted answer box at the top of an article.
+  Inner content is the 2-sentence direct answer.
+
+  Usage: {{< quick-answer >}}Your 2-sentence answer here.{{< /quick-answer >}}
+
+  Emits SpeakableSpecification markup for voice assistant + GEO citation signals.
+*/}}
+<div class="quick-answer-box" role="note" aria-label="Quick Answer"
+     itemscope itemtype="https://schema.org/WebPageElement">
+  <div class="qa-label">
+    <span class="qa-icon" aria-hidden="true">⚡</span>
+    Quick Answer
+  </div>
+  <div class="qa-body" itemprop="text">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

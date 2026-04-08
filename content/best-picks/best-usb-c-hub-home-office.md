@@ -8,6 +8,11 @@ tags = ["usb-c-hub", "home-office", "macbook", "windows", "docking-station", "20
 amazonTag = "highlowmyst0e-20"
 +++
 
+{{< quick-answer >}}
+The best USB-C hub for most home offices is the Anker 555 8-in-1 ($50) — it runs cool, passes 100W charging, supports 4K HDMI, and works reliably on both Mac and Windows. For Mac users who care about aesthetics, the Satechi Slim V2 ($60) is the premium alternative.
+{{< /quick-answer >}}
+
+
 My MacBook Pro has two USB-C ports. My monitor needs DisplayPort. My keyboard and mouse are USB-A. My Ethernet cable is... not USB-C. The math doesn't work without a hub, and the first two hubs I bought were, in descending order of frustration: one that throttled my SSD speeds in half, and one that ran so hot I was afraid to leave it unattended.
 
 So I tested five of them systematically — same MacBook M3 Pro, same Windows Dell XPS 15, same use-case (4K monitor + keyboard + mouse + Ethernet + charging), and here's what actually works.

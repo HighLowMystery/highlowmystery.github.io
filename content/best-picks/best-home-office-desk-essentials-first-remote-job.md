@@ -8,6 +8,11 @@ tags = ["home-office", "remote-work", "desk-setup", "first-job", "essentials"]
 amazonTag = "highlowmyst0e-20"
 +++
 
+{{< quick-answer >}}
+The essential items for a first home office are an external monitor, ergonomic chair, and a reliable keyboard and mouse — these three changes eliminate the biggest sources of discomfort and distraction. Everything else (desk lamp, cable management, standing desk) can be added incrementally as you identify what your specific setup needs.
+{{< /quick-answer >}}
+
+
 My first remote job started on a dining table. Laptop balanced on a stack of books, a kitchen chair that destroyed my back within two weeks, video calls where coworkers could see my refrigerator. I figured it out eventually — but I spent money in the wrong order and bought things I didn't need before I bought things I did.
 
 This guide is what I wish someone had handed me on day one.

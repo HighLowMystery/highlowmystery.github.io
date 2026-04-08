@@ -8,6 +8,11 @@ tags = ["ergonomic-chair", "budget", "home-office", "back-pain", "2026"]
 amazonTag = "highlowmyst0e-20"
 +++
 
+{{< quick-answer >}}
+The best budget ergonomic chair for back pain is the SIHOO M57 ($279) for most people, or the Flexispot C7 ($339) if you're taller than 6 feet. Both have adjustable lumbar support — the feature that matters most — and are significantly better than anything under $200.
+{{< /quick-answer >}}
+
+
 # Best Budget Ergonomic Chair for Back Pain (2026)
 
 *Published: April 7, 2026 | By: Work From Home Pro*

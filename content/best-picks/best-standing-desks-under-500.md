@@ -8,6 +8,11 @@ tags = ["standing-desk", "home-office", "ergonomics", "budget"]
 amazonTag = "highlowmyst0e-20"
 +++
 
+{{< quick-answer >}}
+The best standing desk under $500 is the Flexispot E7 Pro, which delivers a dual-motor lift, 450 lb weight capacity, and four memory presets at around $449. It consistently outperforms similarly priced competitors on stability and build quality.
+{{< /quick-answer >}}
+
+
 I bought my first standing desk in 2021. It wobbled when I typed. The motor died in month eight. I bought a second one — better brand, same price range — and it's been running without a hiccup for two years now.
 
 The difference between a good $400 desk and a bad $400 desk isn't marketing. It's frame construction, motor quality, and whether the company actually answers support tickets. I've sorted that out for you.
