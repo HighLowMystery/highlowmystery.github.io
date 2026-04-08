@@ -1,44 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.Language.Lang | default "en" }}" dir="ltr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  <title>{{ if .IsHome }}{{ .Site.Title }} — Home Office & Ergonomics Reviews{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-  <link rel="canonical" href="{{ .Permalink }}">
-  {{ if .Params.noindex }}<meta name="robots" content="noindex">{{ end }}
-
-  <!-- Open Graph -->
-  <meta property="og:title" content="{{ .Title }}">
-  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-  {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
-
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-  <!-- Affiliate disclosure schema -->
-  {{ if .IsPage }}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{{ .Title }}",
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-    "author": {"@type": "Person", "name": "{{ .Site.Params.author }}"}
-  }
-  </script>
-  {{ end }}
+  {{ partial "head.html" . }}
 </head>
-<body>
+<body class="{{ if .IsHome }}page-home{{ else if .IsPage }}page-single{{ else }}page-list{{ end }}">
+
   {{ partial "header.html" . }}
-  <main class="site-main">
+
+  <main id="main-content" class="site-main" role="main">
     {{ block "main" . }}{{ end }}
   </main>
+
   {{ partial "footer.html" . }}
-  <script src="{{ "js/main.js" | relURL }}" defer></script>
+
+  {{/* ── Minimal inline JS: mobile nav toggle (CSS-first, JS fallback) ── */}}
+  <script>
+    (function(){
+      var toggle = document.querySelector('.nav-toggle');
+      var nav = document.querySelector('.site-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', function() {
+          nav.classList.toggle('open');
+          toggle.setAttribute('aria-expanded', nav.classList.contains('open'));
+        });
+      }
+    })();
+  </script>
+
 </body>
 </html>
