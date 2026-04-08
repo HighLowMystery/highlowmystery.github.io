@@ -37,7 +37,7 @@ Fast-forward to today: I’ve owned and tested more budget ergonomic chairs than
   winner="2"
   link1="https://www.amazon.com/dp/B086XMQD4V?tag=highlowmyst0e-20"
   link2="https://www.amazon.com/dp/B0C7Z7KZY2?tag=highlowmyst0e-20"
-  rows="Lumbar Support:Adjustable Height,Integrated|Seat Depth:17.5",18.1"|Armrests:3D Adjustable,3D Adjustable|Max Height:47.6",49.2"|Weight Limit:300 lbs,275 lbs|Warranty:3 Years,5 Years"
+  rows="Lumbar Support:Adjustable Height,Integrated|Seat Depth:17.5 in,18.1 in|Armrests:3D Adjustable,3D Adjustable|Max Height:47.6 in,49.2 in|Weight Limit:300 lbs,275 lbs|Warranty:3 Years,5 Years"
 >}}
 
 ---
@@ -85,22 +85,7 @@ For truly ultra-budget buyers (<$150), ComHoma is the only chair I’d steer you
 
 ## FAQ
 
-{{< faq >}}
-q="How much should I spend on a budget ergonomic chair?"
-a="If you're working 6+ hours/day, spend at least $220. Anything below $150 is just a temporary solution."
----
-q="Is mesh or foam better for long hours?"
-a="Mesh is better for airflow and summer. Good foam can be comfier for long days, but bad foam will wear fast."
----
-q="What if my back still hurts after upgrading?"
-a="Check your monitor height—top of screen just below eye level, elbows at 90°, feet flat. No chair alone will fix posture."
----
-q="Can you get a good ergonomic chair for under $200?"
-a="Yes, but with trade-offs. You lose adjustability and warranty. Look at ComHoma for short stints, but plan to upgrade."
----
-q="Are gaming chairs ergonomic?"
-a="99%: no. They look cool, but lack lumbar support and real adjustability. Get a real task chair for actual work."
-{{< /faq >}}
+{{< faq items="How much should I spend on a budget ergonomic chair?|If you're working 6+ hours/day, spend at least $220. Anything below $150 is just a temporary solution.||Is mesh or foam better for long hours?|Mesh is better for airflow and summer. Good foam can be comfier for long days, but bad foam will wear fast.||What if my back still hurts after upgrading?|Check your monitor height — top of screen just below eye level, elbows at 90 degrees, feet flat. No chair alone will fix posture.||Can you get a good ergonomic chair for under $200?|Yes, but with trade-offs. You lose adjustability and warranty. Look at ComHoma for short stints, but plan to upgrade.||Are gaming chairs ergonomic?|99%: no. They look cool, but lack lumbar support and real adjustability. Get a real task chair for actual work." >}}
 
 ---
 
