@@ -1,54 +1,165 @@
 {{ define "main" }}
-<div class="container">
+{{/*
+  Homepage — ErgoRemote 2026
+  Spec: THEME-SPEC-v2.md
+  Sections: Hero · Quick Picks · Trust Bar · Latest Reviews · Category Sections
+*/}}
 
-  <!-- Hero -->
-  <section class="hero">
-    <h1>Honest Home Office Reviews</h1>
-    <p>Real-world gear reviews for remote workers. No fluff, no paid placements — just what actually works.</p>
-  </section>
+{{/* ── Hero ── */}}
+<section class="hero" aria-label="Site introduction">
+  <div class="container hero-inner">
+    <div class="hero-content">
+      <p class="hero-eyebrow">🖥️ Home Office &amp; Ergonomics Reviews</p>
+      <h1 class="hero-headline">Your Home Office<br>Shouldn't Hurt</h1>
+      <p class="hero-subhead">
+        Tested reviews for remote workers. We buy, test, and compare
+        standing desks, ergonomic chairs, and WFH gear — so you spend money once.
+      </p>
+      <div class="hero-ctas">
+        <a href="{{ "/best-picks/" | relURL }}" class="btn btn-amazon btn-lg">
+          See Top Picks →
+        </a>
+        <a href="{{ "/comparisons/" | relURL }}" class="btn btn-ghost btn-lg">
+          Compare Products
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 
-  <!-- Featured Posts Grid -->
-  <section class="posts-section">
-    <h2 class="section-title">Latest Reviews & Guides</h2>
+{{/* ── Quick Picks Bar ── */}}
+<section class="quick-picks-section" aria-label="Top product picks">
+  <div class="container">
+    <h2 class="section-title">⚡ Quick Picks</h2>
+    <p class="section-sub">The best in each category — no research required.</p>
+    <div class="quick-picks-bar">
+
+      <div class="qp-card">
+        <div class="qp-badge">Best Chair</div>
+        <div class="qp-name">Flexispot C7</div>
+        <div class="qp-price">From $339</div>
+        <div class="qp-note">Adjustable lumbar · 5-year warranty</div>
+        <a href="{{ "/best-picks/best-budget-ergonomic-chair-back-pain/" | relURL }}"
+           class="btn btn-amazon btn-sm">See Top Chairs →</a>
+      </div>
+
+      <div class="qp-card">
+        <div class="qp-badge">Best Desk</div>
+        <div class="qp-name">Flexispot E7 Pro</div>
+        <div class="qp-price">From $449</div>
+        <div class="qp-note">450 lb capacity · 4 memory presets</div>
+        <a href="{{ "/comparisons/flexispot-e7-vs-uplift-v2/" | relURL }}"
+           class="btn btn-amazon btn-sm">Compare Desks →</a>
+      </div>
+
+      <div class="qp-card">
+        <div class="qp-badge">Best Hub</div>
+        <div class="qp-name">Anker 555 8-in-1</div>
+        <div class="qp-price">From $50</div>
+        <div class="qp-note">100W PD · runs cool · Mac + Windows</div>
+        <a href="{{ "/best-picks/best-usb-c-hub-home-office/" | relURL }}"
+           class="btn btn-amazon btn-sm">See Top Hubs →</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{{/* ── Trust Bar ── */}}
+<div class="trust-bar" role="note" aria-label="Trust signals">
+  <div class="container trust-inner">
+    <span class="trust-item">✓ Amazon Verified</span>
+    <span class="trust-sep" aria-hidden="true">·</span>
+    <span class="trust-item">✓ Tested by Remote Workers</span>
+    <span class="trust-sep" aria-hidden="true">·</span>
+    <span class="trust-item">✓ Updated April 2026</span>
+    <span class="trust-sep" aria-hidden="true">·</span>
+    <span class="trust-item">✓ No Sponsored Rankings</span>
+  </div>
+</div>
+
+{{/* ── Latest Reviews Grid ── */}}
+<section class="reviews-section" aria-label="Latest reviews"
+         style="content-visibility:auto; contain:layout style;">
+  <div class="container">
+    <h2 class="section-title">Latest Reviews &amp; Guides</h2>
+    <p class="section-sub">Everything published recently — tested, verified, and kept up to date.</p>
     <div class="posts-grid">
-      {{ range first 9 (where .Site.RegularPages "Section" "!=" "") }}
+      {{ range first 6 (where .Site.RegularPages "Section" "ne" "") }}
       <article class="post-card">
-        {{ with .Params.image }}
-        <div class="post-card-img">
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
-        </div>
-        {{ end }}
         <div class="post-card-body">
-          <span class="post-card-category">{{ .Section | humanize }}</span>
-          <h3 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <p class="post-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
-          <a href="{{ .Permalink }}" class="btn btn-read">Read More →</a>
+          <div class="post-card-top">
+            <span class="post-card-category">{{ .Section | humanize }}</span>
+            <span class="post-card-date">{{ .Date.Format "Jan 2006" }}</span>
+          </div>
+          <h3 class="post-card-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h3>
+          <p class="post-card-desc">{{ .Description | default (.Summary | truncate 130) }}</p>
+          <div class="post-card-footer">
+            <span class="post-card-read">{{ .ReadingTime }} min read</span>
+            <a href="{{ .Permalink }}" class="btn btn-read" aria-label="Read {{ .Title }}">
+              Read Review →
+            </a>
+          </div>
         </div>
       </article>
       {{ end }}
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Category Nav -->
-  <section class="categories-section">
+{{/* ── Category Sections ── */}}
+<section class="categories-section" aria-label="Browse by category"
+         style="content-visibility:auto;">
+  <div class="container">
+    <h2 class="section-title">Browse by Category</h2>
     <div class="category-cards">
-      <a href="/best-picks/" class="category-card">
-        <span class="cat-icon">🏆</span>
-        <span class="cat-name">Best Picks</span>
-        <span class="cat-desc">Top-rated gear by category</span>
-      </a>
-      <a href="/comparisons/" class="category-card">
-        <span class="cat-icon">⚖️</span>
-        <span class="cat-name">Comparisons</span>
-        <span class="cat-desc">Head-to-head product battles</span>
-      </a>
-      <a href="/how-to/" class="category-card">
-        <span class="cat-icon">💡</span>
-        <span class="cat-name">How-To Guides</span>
-        <span class="cat-desc">Setup, ergonomics, optimization</span>
-      </a>
-    </div>
-  </section>
 
-</div>
+      <div class="category-card">
+        <span class="cat-icon" aria-hidden="true">🏆</span>
+        <div class="cat-body">
+          <h3 class="cat-name">Best Picks</h3>
+          <p class="cat-desc">
+            Top-rated ergonomic chairs, standing desks, lighting, and accessories —
+            one clear winner per category with full reviews.
+          </p>
+          <a href="{{ "/best-picks/" | relURL }}" class="btn btn-ghost btn-sm">
+            Browse Best Picks →
+          </a>
+        </div>
+      </div>
+
+      <div class="category-card">
+        <span class="cat-icon" aria-hidden="true">⚖️</span>
+        <div class="cat-body">
+          <h3 class="cat-name">Comparisons</h3>
+          <p class="cat-desc">
+            Head-to-head breakdowns of the biggest WFH gear decisions —
+            Herman Miller vs Steelcase, Flexispot vs Uplift, and more.
+          </p>
+          <a href="{{ "/comparisons/" | relURL }}" class="btn btn-ghost btn-sm">
+            Browse Comparisons →
+          </a>
+        </div>
+      </div>
+
+      <div class="category-card">
+        <span class="cat-icon" aria-hidden="true">💡</span>
+        <div class="cat-body">
+          <h3 class="cat-name">How-To Guides</h3>
+          <p class="cat-desc">
+            Step-by-step ergonomics and setup guides — reduce neck pain,
+            build a proper workstation, fix your monitor height.
+          </p>
+          <a href="{{ "/how-to/" | relURL }}" class="btn btn-ghost btn-sm">
+            Browse Guides →
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 {{ end }}
