@@ -1,0 +1,5 @@
+name = "ergoremote"
+compatibility_date = "2026-04-07"
+
+[site]
+bucket = "./public"
