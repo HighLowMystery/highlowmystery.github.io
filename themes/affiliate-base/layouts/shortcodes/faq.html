@@ -1,0 +1,73 @@
+{{/*
+  FAQ shortcode — renders an accordion FAQ block with FAQPage schema markup
+  Usage:
+    {{< faq >}}
+    q="How much should I spend on an ergonomic chair?"
+    a="For 6+ hours/day, spend at least $300. Under that, you're buying aesthetics."
+    ---
+    q="Is mesh or foam better?"
+    a="Good mesh beats cheap foam. Bad mesh sags within a year."
+    {{< /faq >}}
+
+  Simple flat usage (all in params, pipe-delimited):
+    {{< faq items="Q1|A1||Q2|A2" >}}
+*/}}
+{{ $items := slice }}
+{{ with .Params.items }}
+  {{ $pairs := split . "||" }}
+  {{ range $pairs }}
+    {{ $parts := split . "|" }}
+    {{ if ge (len $parts) 2 }}
+      {{ $items = $items | append (dict "q" (index $parts 0) "a" (index $parts 1)) }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $inner := .Inner | strings.TrimSpace }}
+  {{ range split $inner "---" }}
+    {{ $block := strings.TrimSpace . }}
+    {{ $q := "" }}{{ $a := "" }}
+    {{ range split $block "\n" }}
+      {{ $line := strings.TrimSpace . }}
+      {{ if hasPrefix $line "q=" }}
+        {{ $q = strings.TrimPrefix "q=" $line | strings.Trim "\"" }}
+      {{ else if hasPrefix $line "a=" }}
+        {{ $a = strings.TrimPrefix "a=" $line | strings.Trim "\"" }}
+      {{ end }}
+    {{ end }}
+    {{ if and $q $a }}
+      {{ $items = $items | append (dict "q" $q "a" $a) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if $items }}
+<!-- FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $item := $items }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.a | jsonify }}
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+<div class="faq-block">
+  <h2 class="faq-title">Frequently Asked Questions</h2>
+  {{ range $i, $item := $items }}
+  <details class="faq-item" {{ if eq $i 0 }}open{{ end }}>
+    <summary class="faq-question">{{ $item.q }}</summary>
+    <div class="faq-answer"><p>{{ $item.a }}</p></div>
+  </details>
+  {{ end }}
+</div>
+{{ end }}

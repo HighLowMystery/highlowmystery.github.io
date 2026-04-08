@@ -1,19 +1,33 @@
 {{/*
   Product card shortcode — use in posts to display a product with affiliate link
-  Usage: {{< product name="Herman Miller Aeron" price="$1,495" rating="4.8" pros="Best lumbar support,Premium build,12-year warranty" cons="Expensive,Takes time to adjust" link="https://amazon.com/dp/ASIN?tag=YOURTAG-20" badge="Editor's Pick" >}}
+  Usage: {{< product name="Herman Miller Aeron" price="$1,495" rating="4.8"
+    pros="Best lumbar support,Premium build,12-year warranty"
+    cons="Expensive,Takes time to adjust"
+    link="https://amazon.com/dp/ASIN?tag=highlowmyst0e-20"
+    badge="Editor's Pick" >}}
 */}}
+{{ $rating := 0.0 }}
+{{ with .Params.rating }}{{ $rating = . | float }}{{ end }}
+{{ $fullStars  := int $rating }}
+{{ $halfStar   := gt (sub $rating (float $fullStars)) 0.4 }}
+{{ $emptyStars := sub 5 $fullStars }}
+{{ if $halfStar }}{{ $emptyStars = sub $emptyStars 1 }}{{ end }}
+
 <div class="product-card">
   {{ with .Params.badge }}<span class="product-badge">{{ . }}</span>{{ end }}
   <div class="product-card-body">
     <h3 class="product-name">{{ .Params.name }}</h3>
-    <div class="product-rating">
-      {{ $rating := .Params.rating | float }}
-      {{ range seq 5 }}
-        {{ if le . (int $rating) }}⭐{{ else }}☆{{ end }}
-      {{ end }}
+
+    <!-- Star rating -->
+    <div class="product-rating" aria-label="Rating: {{ .Params.rating }} out of 5">
+      {{ range seq $fullStars }}<span class="star star-full">★</span>{{ end }}
+      {{ if $halfStar }}<span class="star star-half">½</span>{{ end }}
+      {{ range seq $emptyStars }}<span class="star star-empty">☆</span>{{ end }}
       <span class="rating-num">{{ .Params.rating }}/5</span>
     </div>
+
     {{ with .Params.price }}<div class="product-price">{{ . }}</div>{{ end }}
+
     <div class="product-pros-cons">
       <div class="pros">
         <strong>✅ Pros</strong>
@@ -24,9 +38,10 @@
         <ul>{{ range split .Params.cons "," }}<li>{{ strings.TrimSpace . }}</li>{{ end }}</ul>
       </div>
     </div>
+
     {{ with .Params.link }}
-    <a href="{{ . }}" class="btn btn-buy" target="_blank" rel="nofollow noopener sponsored">
-      Check Price on Amazon →
+    <a href="{{ . }}" class="btn btn-buy btn-amazon" target="_blank" rel="nofollow noopener sponsored">
+      <span class="btn-amazon-icon">🛒</span> Check Price on Amazon →
     </a>
     {{ end }}
   </div>

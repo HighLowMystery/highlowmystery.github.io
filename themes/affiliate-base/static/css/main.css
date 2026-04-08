@@ -198,3 +198,26 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 480px) {
   .quickpicks-table th:nth-child(3), .quickpicks-table td:nth-child(3) { display: none; }
 }
+
+/* --- Star Ratings --- */
+.star { font-style: normal; line-height: 1; }
+.star-full  { color: #f59e0b; }
+.star-half  { color: #f59e0b; font-size: 0.85em; vertical-align: middle; }
+.star-empty { color: #4b5563; }
+
+/* --- Amazon CTA Button (orange) --- */
+.btn-amazon { background: #ff9900; color: #111; border: none; padding: 11px 24px; font-size: 0.95rem; font-weight: 700; border-radius: 6px; display: inline-flex; align-items: center; gap: 7px; }
+.btn-amazon:hover { background: #e68800; color: #111; text-decoration: none; }
+.btn-amazon-icon { font-size: 1.05rem; }
+
+/* --- FAQ Block --- */
+.faq-block { margin: 36px 0; }
+.faq-title { font-size: 1.4rem; color: var(--text-heading); font-weight: 700; margin-bottom: 16px; }
+.faq-item { border: 1px solid var(--border); border-radius: 8px; margin-bottom: 10px; background: var(--bg2); overflow: hidden; }
+.faq-item[open] { border-color: var(--accent); }
+.faq-question { padding: 14px 18px; font-weight: 600; color: var(--text-heading); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; font-size: 0.97rem; }
+.faq-question::-webkit-details-marker { display: none; }
+.faq-question::after { content: '+'; color: var(--accent); font-size: 1.2rem; font-weight: 400; transition: transform 0.2s; }
+.faq-item[open] .faq-question::after { content: '−'; }
+.faq-answer { padding: 0 18px 14px; font-size: 0.92rem; color: var(--text-muted); line-height: 1.65; border-top: 1px solid var(--border); }
+.faq-answer p { margin: 10px 0 0; }
