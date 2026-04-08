@@ -1,57 +1,115 @@
 {{ define "main" }}
+{{/* ── Article page — 2026 spec
+     Breadcrumb · E-E-A-T header · Quick Answer · Disclosure · Content
+     Author Box (Person schema) · Related Posts · Was This Helpful
+*/}}
+
 <div class="container article-container">
-  <article class="post">
+  <article class="post" itemscope itemtype="https://schema.org/Article">
 
-    <!-- Affiliate Disclosure Banner -->
-    <div class="disclosure-banner">
-      <span>⚠️</span> This post contains affiliate links. <a href="/disclaimer/">Learn more.</a>
-    </div>
+    {{/* ── Breadcrumb ── */}}
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ "/" | relURL }}">Home</a>
+      <span class="bc-sep" aria-hidden="true">›</span>
+      {{ with .CurrentSection }}{{ if not .IsHome }}
+      <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
+      <span class="bc-sep" aria-hidden="true">›</span>
+      {{ end }}{{ end }}
+      <span class="bc-current" aria-current="page">{{ .Title }}</span>
+    </nav>
 
+    {{/* ── Article header ── */}}
     <header class="post-header">
       <div class="post-meta">
         <span class="post-category">{{ .Section | humanize }}</span>
-        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
-        {{ if ne .Date .Lastmod }}<span class="post-updated">Updated: {{ .Lastmod.Format "January 2, 2006" }}</span>{{ end }}
+        <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+        <time class="post-updated" datetime="{{ .Lastmod.Format "2006-01-02" }}" itemprop="dateModified">
+          Updated: {{ .Lastmod.Format "January 2, 2006" }}
+        </time>
+        <span class="post-readtime">{{ .ReadingTime }} min read</span>
+        <span class="post-wordcount">{{ .WordCount }} words</span>
+        <a href="{{ "about" | relURL }}" class="post-author-link" rel="author" itemprop="author"
+           itemscope itemtype="https://schema.org/Person">
+          <span itemprop="name">{{ .Params.author | default "ErgoRemote Team" }}</span>
+        </a>
       </div>
-      <h1 class="post-title">{{ .Title }}</h1>
-      {{ with .Description }}<p class="post-desc">{{ . }}</p>{{ end }}
+      <h1 class="post-title" itemprop="headline">{{ .Title }}</h1>
+      {{ with .Description }}<p class="post-desc" itemprop="description">{{ . }}</p>{{ end }}
     </header>
 
-    <!-- Table of Contents (auto-generated if headings exist) -->
-    {{ if .TableOfContents }}
-    <div class="toc-box">
-      <h3>Quick Navigation</h3>
-      {{ .TableOfContents }}
+    {{/* ── Quick Answer box (opt-in via front matter: quickanswer = "...") ── */}}
+    {{ with .Params.quickanswer }}
+    <div class="quick-answer-box" role="note">
+      <div class="qa-label">⚡ Quick Answer</div>
+      <p>{{ . }}</p>
     </div>
     {{ end }}
 
-    <div class="post-content">
+    {{/* ── Affiliate disclosure ── */}}
+    <div class="disclosure-banner">
+      <span aria-hidden="true">ℹ️</span>
+      <strong>Affiliate Disclosure:</strong> This post contains affiliate links.
+      We earn a small commission if you buy — at no extra cost to you.
+      <a href="{{ "/privacy/" | relURL }}">Learn more.</a>
+    </div>
+
+    {{/* ── Table of Contents ── */}}
+    {{ if and .TableOfContents (gt .WordCount 800) }}
+    <details class="toc-box" open>
+      <summary class="toc-title">📋 Table of Contents</summary>
+      <div class="toc-content">{{ .TableOfContents }}</div>
+    </details>
+    {{ end }}
+
+    {{/* ── Main content ── */}}
+    <div class="post-content" itemprop="articleBody">
       {{ .Content }}
     </div>
 
-    <!-- Author Box -->
-    <div class="author-box">
-      <div class="author-avatar">🖥️</div>
-      <div class="author-info">
-        <strong>{{ .Site.Params.author }}</strong>
-        <p>Remote worker and home office obsessive. Been working from home for years — I've bought the gear, made the mistakes, and figured out what actually works.</p>
-      </div>
+    {{/* ── Share buttons (no tracking — plain anchor links) ── */}}
+    <div class="share-bar" aria-label="Share this article">
+      <span class="share-label">Share:</span>
+      <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}"
+         class="share-btn share-twitter" target="_blank" rel="noopener noreferrer nofollow"
+         aria-label="Share on Twitter">𝕏 Twitter</a>
+      <a href="https://www.reddit.com/submit?url={{ .Permalink | urlize }}&title={{ .Title | urlize }}"
+         class="share-btn share-reddit" target="_blank" rel="noopener noreferrer nofollow"
+         aria-label="Share on Reddit">Reddit</a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlize }}"
+         class="share-btn share-linkedin" target="_blank" rel="noopener noreferrer nofollow"
+         aria-label="Share on LinkedIn">LinkedIn</a>
     </div>
 
-    <!-- Related Posts -->
+    {{/* ── Was this helpful? (static links, zero JS) ── */}}
+    <div class="helpful-bar" role="complementary" aria-label="Article feedback">
+      <span class="helpful-label">Was this helpful?</span>
+      <a href="{{ "/contact/" | relURL }}?ref=helpful&page={{ .RelPermalink | urlize }}"
+         class="helpful-btn helpful-yes" aria-label="Yes, this was helpful">👍 Yes</a>
+      <a href="{{ "/contact/" | relURL }}?ref=nothelpful&page={{ .RelPermalink | urlize }}"
+         class="helpful-btn helpful-no" aria-label="No, this needs improvement">👎 No</a>
+    </div>
+
+    {{/* ── Author box (Person schema partial) ── */}}
+    {{ partial "author-box.html" . }}
+
+    {{/* ── Related Posts (same section, max 3) ── */}}
     {{ $related := .Site.RegularPages.Related . | first 3 }}
     {{ with $related }}
-    <div class="related-posts">
-      <h3>You Might Also Like</h3>
+    <section class="related-posts" aria-label="Related articles"
+             style="content-visibility:auto; contain:layout style;">
+      <h2 class="related-title">Related Articles</h2>
       <div class="related-grid">
         {{ range . }}
         <a href="{{ .Permalink }}" class="related-card">
           <span class="related-cat">{{ .Section | humanize }}</span>
-          <span class="related-title">{{ .Title }}</span>
+          <span class="related-title-text">{{ .Title }}</span>
+          <span class="related-meta">{{ .ReadingTime }} min · {{ .Date.Format "Jan 2006" }}</span>
         </a>
         {{ end }}
       </div>
-    </div>
+    </section>
     {{ end }}
 
   </article>

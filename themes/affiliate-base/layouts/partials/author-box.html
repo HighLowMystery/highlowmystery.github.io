@@ -1,0 +1,50 @@
+{{/*
+  author-box.html — Person schema (E-E-A-T entity verification) + author byline HTML
+  Include in single.html at article bottom
+  Spec: THEME-SPEC-v2.md §3 Person Schema / E-E-A-T Entity Verification
+*/}}
+{{ $author     := .Params.author | default "ErgoRemote Team" }}
+{{ $authorUrl  := "about" | absURL }}
+
+{{/* ── Person JSON-LD — sameAs entity verification ── */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ $author | jsonify }},
+  "url": {{ $authorUrl | jsonify }},
+  "sameAs": [
+    "https://twitter.com/highlowmystery",
+    "https://linkedin.com/in/highlowmystery"
+  ],
+  "jobTitle": "Remote Work & Ergonomics Reviewer",
+  "description": "Remote worker since 2019, testing home office gear since 2021.",
+  "knowsAbout": [
+    "Ergonomic furniture",
+    "Home office setup",
+    "Standing desks",
+    "Ergonomic chairs",
+    "Remote work health"
+  ]
+}
+</script>
+
+{{/* ── Author Box HTML ── */}}
+<div class="author-box" itemscope itemtype="https://schema.org/Person">
+  <div class="author-avatar" aria-hidden="true">🖥️</div>
+  <div class="author-info">
+    <div class="author-name">
+      Written by <a href="{{ $authorUrl }}" itemprop="url" rel="author">
+        <span itemprop="name">{{ $author }}</span>
+      </a>
+    </div>
+    <p class="author-bio" itemprop="description">
+      Remote worker since 2019, testing home office gear since 2021.
+      All products reviewed are purchased or tested personally — no sponsored reviews.
+    </p>
+    <div class="author-links">
+      <a href="https://twitter.com/highlowmystery" rel="noopener noreferrer" target="_blank"
+         itemprop="sameAs" class="author-social">𝕏 @highlowmystery</a>
+    </div>
+  </div>
+</div>

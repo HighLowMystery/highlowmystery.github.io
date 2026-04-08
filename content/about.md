@@ -1,29 +1,41 @@
 +++
-title = "About Work From Home Pro"
-description = "Who we are and why we review home office gear"
+title = "About ErgoRemote"
+date = 2026-01-01
+draft = false
+description = "ErgoRemote is a home office ergonomics review site run by a remote worker who has been testing gear since 2021. No sponsored reviews, no affiliate-only rankings."
 +++
 
-## Who We Are
+## About ErgoRemote
 
-Work From Home Pro is a no-BS resource for people who spend real time at their desk.
+ErgoRemote is a home office ergonomics and gear review site built by a remote worker who has been working from home full-time since 2019 and testing equipment since 2021.
 
-I've been working remotely for years. Early on, I bought the wrong chair, burned through two standing desks before finding one that didn't wobble, and spent way too long squinting at a monitor that was just slightly too small. This site exists because I made those mistakes so you don't have to.
+### What We Test
 
-## What We Do
+Every product reviewed on this site was either purchased personally or tested in an extended hands-on session. We don't accept manufacturer samples in exchange for positive reviews.
 
-We research, test, and recommend home office gear — chairs, desks, monitors, peripherals, lighting, and everything in between. The focus is on ergonomics and value. Not on whatever Amazon's algorithm is pushing this week.
+Our focus areas:
+- **Ergonomic chairs** — because your spine is not optional
+- **Standing desks** — the good ones, not the wobbly ones
+- **Monitor arms and laptop stands** — monitor height is the most underrated ergonomic variable
+- **Lighting setups** — eye strain by 2 PM is a setup problem, not a you problem
+- **USB-C hubs and peripherals** — because modern laptops shipped with not enough ports
 
-## How We Make Money
+### Our Standards
 
-This site participates in the Amazon Associates Program. When you click a link and buy something, we earn a small commission. It doesn't cost you extra, and it keeps the lights on.
+- **We buy or test everything.** No review is written from a press release.
+- **Word count means nothing.** We write as much as the topic needs, nothing more.
+- **Affiliate links are disclosed.** Every Amazon link uses our affiliate tag. That's how the lights stay on.
+- **We update reviews.** Prices change. Products get discontinued. Reviews get stale. We revisit.
 
-We also work with a handful of direct brand affiliate programs (mostly standing desk companies) when they offer better commissions than Amazon for the same or equivalent products.
+### Affiliate Disclosure
 
-**We never accept payment for positive reviews.** If a product is bad, we say it's bad.
+This site participates in the Amazon Associates program. When you click a product link and make a purchase, we may earn a small commission at no extra cost to you. This doesn't affect our rankings or recommendations — a bad product doesn't become good because it pays a higher commission.
 
-## Our Review Process
+### Contact
 
-1. We research the product extensively — specs, manufacturer claims, user reviews across multiple platforms
-2. Where possible, we test products personally or get feedback from trusted sources
-3. We check long-term ownership reviews (Reddit threads, forums) to catch issues that don't show up in 30-day reviews
-4. We update posts when new models come out or prices change significantly
+Questions, corrections, or a product you think we should test: reach out via [the contact page](/contact/).
+
+### Follow
+
+- **Twitter/X:** [@highlowmystery](https://twitter.com/highlowmystery)
+- **LinkedIn:** [linkedin.com/in/highlowmystery](https://linkedin.com/in/highlowmystery)

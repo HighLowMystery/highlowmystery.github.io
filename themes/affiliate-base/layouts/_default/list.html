@@ -1,28 +1,51 @@
 {{ define "main" }}
-<div class="container">
-  <div class="list-header">
+{{/* ── List page — category index
+     H1 + description · filter bar · article grid · pagination
+     content-visibility:auto on grid for INP spec compliance
+*/}}
+
+<div class="container" style="contain:layout;">
+
+  <header class="list-header">
     <h1>{{ .Title | default (.Section | humanize) }}</h1>
-    {{ with .Description }}<p>{{ . }}</p>{{ end }}
-  </div>
-  <div class="posts-grid">
-    {{ range .Pages }}
+    {{ with .Description }}<p class="list-desc">{{ . }}</p>{{ end }}
+  </header>
+
+  {{/* ── Filter bar (static links — no JS) ── */}}
+  {{ if eq .Section "best-picks" }}
+  <nav class="filter-bar" aria-label="Filter by price">
+    <a href="{{ .Permalink }}" class="filter-btn{{ if not .Params.filter }} active{{ end }}">All</a>
+    <a href="{{ .Permalink }}?filter=under200" class="filter-btn">Under $200</a>
+    <a href="{{ .Permalink }}?filter=under500" class="filter-btn">Under $500</a>
+    <a href="{{ .Permalink }}?filter=premium" class="filter-btn">Premium</a>
+  </nav>
+  {{ end }}
+
+  {{/* ── Article grid ── */}}
+  <div class="posts-grid" style="content-visibility:auto; contain:layout style;">
+    {{ range .Paginator.Pages }}
     <article class="post-card">
       {{ with .Params.image }}
       <div class="post-card-img">
-        <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy" width="400" height="225">
       </div>
       {{ end }}
       <div class="post-card-body">
         <span class="post-card-category">{{ .Section | humanize }}</span>
         <h2 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <p class="post-card-desc">{{ .Description | default (.Summary | truncate 120) }}</p>
+        <p class="post-card-desc">{{ .Description | default (.Summary | truncate 130) }}</p>
         <div class="post-card-meta">
-          <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-          <a href="{{ .Permalink }}" class="btn btn-read">Read →</a>
+          <span class="post-card-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+          <span class="post-card-read">{{ .ReadingTime }} min read</span>
+          <a href="{{ .Permalink }}" class="btn btn-read" aria-label="Read {{ .Title }}">Read →</a>
         </div>
       </div>
     </article>
     {{ end }}
   </div>
+
+  {{/* ── Pagination ── */}}
+  {{ template "_internal/pagination.html" . }}
+
 </div>
 {{ end }}
