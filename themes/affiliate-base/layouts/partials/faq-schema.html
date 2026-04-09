@@ -1,0 +1,28 @@
+{{/*
+  faq-schema.html — Emits FAQPage JSON-LD from front-matter `faq` array.
+
+  Front matter format (TOML):
+    [[faq]]
+    q = 'Question one?'
+    a = 'Answer one.'
+*/}}
+{{ with .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $item := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ index $item "q" }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ index $item "a" }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}

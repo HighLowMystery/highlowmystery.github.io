@@ -11,6 +11,9 @@ tags = ["home-office-setup", "budget", "ergonomics", "remote-work"]
 A complete, ergonomic home office setup under $1,000 is achievable with a used ergonomic chair ($200–400), a budget standing desk frame with an IKEA top ($400–500), and a 27-inch monitor ($150–250). Prioritize the chair first — it's what you sit in for 8 hours a day and has the highest impact on health and productivity.
 {{< /quick-answer >}}
 
+*Disclosure: As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
 
 My first home office was a kitchen table and a folding chair. My back hurt within a week. Six years later — and after spending way too much on gear I didn't need and not enough on gear I did — here's what I'd tell myself if I could do it over.
 
@@ -125,20 +128,21 @@ Natural light is free — position your desk facing a window if possible. Never 
 
 ---
 
-## FAQ
+## My Honest Verdict
 
-**Should I get a standing desk first or a chair?**
-Chair first. Always. You sit more than you stand, and a bad chair causes more cumulative damage than a missing standing desk. Once your chair is sorted, add a standing desk.
+After six years of remote work and two complete home office overhauls, here's the order I'd spend money in if I were starting from scratch with $1,000:
 
-**Is a monitor arm necessary?**
-Not strictly necessary, but worth the $25-35. It frees up desk space, lets you position the screen precisely, and lasts forever. Buy it the same time as the monitor.
+1. **Chair first, always.** I got this backwards my first time and paid for it with three months of back pain. A $300 ergonomic chair with proper lumbar adjustment will do more for your productivity and health than anything else on this list.
 
-**My back hurts even with a good chair. What's wrong?**
-Check three things: (1) Is the lumbar support hitting your L4-L5 vertebrae specifically? (2) Are your hips slightly higher than your knees? (3) Is your screen at eye level? If all three check out and your back still hurts, see a physical therapist — gear can't fix a structural issue.
+2. **Standing desk second.** Not because standing is that much healthier, but because being able to *change position* during an 8-hour day matters. I use a Flexispot E7 frame with an IKEA Linnmon top and it's been rock solid for two years.
 
-**Can I make a cheap chair feel better?**
-Sometimes. A lumbar roll ($15-20) can help with lower back support. A seat cushion helps if the seat is too firm. But these are band-aids — if you're in serious pain, spend the money on a real chair.
+3. **Monitor third.** I was using a laptop on a stand for my first year. The moment I added an external monitor, my output went up noticeably — mostly because I stopped squinting and hunching over.
+
+If I had to cut to $700: chair ($280), desk frame + IKEA top ($380), use your laptop as the screen until you can upgrade. Don't buy a bad chair to afford a monitor earlier. Your back will win that argument every time.
 
 ---
 
-**→ Read next:** [Best Ergonomic Chairs Under $500](/best-picks/best-ergonomic-chairs-under-500/) | [Best Standing Desks Under $500](/best-picks/best-standing-desks-under-500/)
+## FAQ
+
+{{< faq items="Should I get a standing desk first or a chair?|Chair first. Always. You sit more than you stand, and a bad chair causes more cumulative damage than a missing standing desk. Once your chair is sorted, add a standing desk.||Is a monitor arm necessary?|Not strictly necessary, but worth the $25-35. It frees up desk space, lets you position the screen precisely, and lasts forever. Buy it the same time as the monitor.||My back hurts even with a good chair. What's wrong?|Check three things: (1) Is the lumbar support hitting your L4-L5 vertebrae specifically? (2) Are your hips slightly higher than your knees? (3) Is your screen at eye level? If all three check out and your back still hurts, see a physical therapist — gear can't fix a structural issue.||Can I make a cheap chair feel better?|Sometimes. A lumbar roll ($15-20) can help with lower back support. A seat cushion helps if the seat is too firm. But these are band-aids — if you're in serious pain, spend the money on a real chair. ---" >}}
+

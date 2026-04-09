@@ -12,6 +12,9 @@ amazonTag = "highlowmyst0e-20"
 Neck pain from working at home is almost always caused by a monitor that's too low — the fix is raising your screen so the top of the display sits at or just below eye level. Pairing a laptop stand or monitor arm with an external keyboard eliminates the root cause for most people within one to two weeks.
 {{< /quick-answer >}}
 
+*Disclosure: As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
 
 Six months into working from home I started waking up with a stiff neck. Not the "slept on it funny" kind — the kind where turning to check your blind spot while driving makes you wince.
 

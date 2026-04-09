@@ -1,5 +1,5 @@
 /* =============================================================
-   Work From Home Pro — Affiliate Base Theme
+   ErgoRemote — Affiliate Base Theme
    Design: Clean, fast, conversion-focused. No frameworks.
    ============================================================= */
 
@@ -357,3 +357,5 @@ img { max-width: 100%; height: auto; display: block; }
 .cat-desc { font-size: 0.875rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 14px; }
 .post-card-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
 .post-card-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+
+.price-disclaimer { font-size: 0.72rem; color: #888; margin: 4px 0 0; font-style: italic; }

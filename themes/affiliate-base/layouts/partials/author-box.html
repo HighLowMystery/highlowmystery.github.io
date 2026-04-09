@@ -3,7 +3,7 @@
   Include in single.html at article bottom
   Spec: THEME-SPEC-v2.md §3 Person Schema / E-E-A-T Entity Verification
 */}}
-{{ $author     := .Params.author | default "ErgoRemote Team" }}
+{{ $author     := .Params.author | default "Alex Sabr" }}
 {{ $authorUrl  := "about" | absURL }}
 
 {{/* ── Person JSON-LD — sameAs entity verification ── */}}
@@ -18,7 +18,7 @@
     "https://linkedin.com/in/highlowmystery"
   ],
   "jobTitle": "Remote Work & Ergonomics Reviewer",
-  "description": "Remote worker since 2019, testing home office gear since 2021.",
+  "description": "Winnipeg-based remote worker and ergonomics reviewer since 2019. Tests all gear personally in a real home office — including through Manitoba winters at −30°C.",
   "knowsAbout": [
     "Ergonomic furniture",
     "Home office setup",
@@ -39,8 +39,9 @@
       </a>
     </div>
     <p class="author-bio" itemprop="description">
-      Remote worker since 2019, testing home office gear since 2021.
-      All products reviewed are purchased or tested personally — no sponsored reviews.
+      Winnipeg-based remote worker since 2019, testing home office gear since 2021.
+      I buy and test everything personally — no sponsored reviews, no rankings-for-hire.
+      Based in Manitoba, Canada, so when I say a chair runs hot, I've experienced both sides.
     </p>
     <div class="author-links">
       <a href="https://twitter.com/highlowmystery" rel="noopener noreferrer" target="_blank"

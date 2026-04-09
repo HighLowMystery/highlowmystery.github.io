@@ -12,6 +12,9 @@ amazonTag = "highlowmyst0e-20"
 The essential items for a first home office are an external monitor, ergonomic chair, and a reliable keyboard and mouse — these three changes eliminate the biggest sources of discomfort and distraction. Everything else (desk lamp, cable management, standing desk) can be added incrementally as you identify what your specific setup needs.
 {{< /quick-answer >}}
 
+*Disclosure: As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
 
 My first remote job started on a dining table. Laptop balanced on a stack of books, a kitchen chair that destroyed my back within two weeks, video calls where coworkers could see my refrigerator. I figured it out eventually — but I spent money in the wrong order and bought things I didn't need before I bought things I did.
 
@@ -149,25 +152,5 @@ Your laptop's built-in mic picks up keyboard noise, room echo, and background so
 
 ## FAQ
 
-**Does my company cover home office equipment?**
-Many do. Ask HR about a home office stipend before buying anything. Common amounts: $200-500 one-time or $50-100/month. Some companies will even ship you equipment directly.
+{{< faq items="Does my company cover home office equipment?|Many do. Ask HR about a home office stipend before buying anything. Common amounts: $200-500 one-time or $50-100/month. Some companies will even ship you equipment directly.||What order should I buy things in?|Chair → neck fix (monitor or laptop stand) → webcam → everything else. Comfort and appearance on calls matter most, in that order.||Is a standing desk worth it for a first remote job?|Not as your first purchase. Get the chair right, establish your sitting habits, and add a standing desk in 3-6 months if you're still feeling the desire to stand during the day.||How much desk space do I actually need?|Minimum 48 inches wide for a proper setup. 55-60 inches is comfortable. If you're stuck with less, prioritize a laptop stand setup over a large monitor — it takes less horizontal space.||What if I work from a small space?|A folding desk or wall-mounted desk plus a quality chair can fit in surprisingly tight spaces. The chair is still the non-negotiable — everything else can adapt to the space constraints. ---" >}}
 
-**What order should I buy things in?**
-Chair → neck fix (monitor or laptop stand) → webcam → everything else. Comfort and appearance on calls matter most, in that order.
-
-**Is a standing desk worth it for a first remote job?**
-Not as your first purchase. Get the chair right, establish your sitting habits, and add a standing desk in 3-6 months if you're still feeling the desire to stand during the day.
-
-**How much desk space do I actually need?**
-Minimum 48 inches wide for a proper setup. 55-60 inches is comfortable. If you're stuck with less, prioritize a laptop stand setup over a large monitor — it takes less horizontal space.
-
-**What if I work from a small space?**
-A folding desk or wall-mounted desk plus a quality chair can fit in surprisingly tight spaces. The chair is still the non-negotiable — everything else can adapt to the space constraints.
-
----
-
-{{< callout type="verdict" >}}
-**Bottom line for your first remote job:** Fix your neck first (laptop stand + keyboard or external monitor), then fix your back (chair). Everything else is a nice upgrade. If your company has a stipend, use it on the chair — you sit in it for 2,000+ hours a year.
-{{< /callout >}}
-
-**→ Read next:** [Best Ergonomic Chairs Under $500](/best-picks/best-ergonomic-chairs-under-500/) | [How to Set Up a Home Office Under $1,000](/how-to/home-office-setup-under-1000/)

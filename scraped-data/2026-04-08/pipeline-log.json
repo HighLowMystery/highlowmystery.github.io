@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-08",
+  "run_time": "2026-04-08T07:01:11.885850",
+  "scrapers": {
+    "reddit": true,
+    "keywords": true
+  },
+  "data": {
+    "keywords_found": 100,
+    "reddit_insights": 50
+  },
+  "tasks_created": [
+    {
+      "id": "68lg7drc",
+      "keyword": "best home office chair for lower back pain"
+    },
+    {
+      "id": "1wf852u7",
+      "keyword": "best budget ergonomic chair malaysia"
+    }
+  ],
+  "articles_total": 15
+}

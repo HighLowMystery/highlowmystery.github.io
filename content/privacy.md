@@ -2,14 +2,14 @@
 title = "Privacy Policy"
 date = 2026-04-07
 draft = false
-description = "Privacy policy for Work From Home Pro — how we collect, use, and protect your data."
+description = "Privacy policy for ErgoRemote — how we collect, use, and protect your data."
 +++
 
 ## Privacy Policy
 
 **Last updated:** April 7, 2026
 
-Work From Home Pro ("we," "us," or "our") respects your privacy. This policy explains what information we collect and how we use it.
+ErgoRemote ("we," "us," or "our") respects your privacy. This policy explains what information we collect and how we use it.
 
 ---
 

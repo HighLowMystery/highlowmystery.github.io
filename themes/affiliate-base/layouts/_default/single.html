@@ -32,7 +32,7 @@
         <span class="post-wordcount">{{ .WordCount }} words</span>
         <a href="{{ "about" | relURL }}" class="post-author-link" rel="author" itemprop="author"
            itemscope itemtype="https://schema.org/Person">
-          <span itemprop="name">{{ .Params.author | default "ErgoRemote Team" }}</span>
+          <span itemprop="name">{{ .Params.author | default "Alex Sabr" }}</span>
         </a>
       </div>
       <h1 class="post-title" itemprop="headline">{{ .Title }}</h1>
@@ -90,6 +90,9 @@
       <a href="{{ "/contact/" | relURL }}?ref=nothelpful&page={{ .RelPermalink | urlize }}"
          class="helpful-btn helpful-no" aria-label="No, this needs improvement">👎 No</a>
     </div>
+
+    {{/* ── FAQ Schema (FAQPage JSON-LD from front matter) ── */}}
+    {{ partial "faq-schema.html" . }}
 
     {{/* ── Author box (Person schema partial) ── */}}
     {{ partial "author-box.html" . }}

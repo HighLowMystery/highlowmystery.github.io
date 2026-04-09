@@ -2,7 +2,7 @@
 title = "Contact"
 date = 2026-04-07
 draft = false
-description = "Get in touch with Work From Home Pro — questions, feedback, or partnership inquiries."
+description = "Get in touch with ErgoRemote — questions, feedback, or partnership inquiries."
 +++
 
 ## Contact Us

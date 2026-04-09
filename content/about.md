@@ -1,39 +1,60 @@
 +++
-title = "About ErgoRemote"
+title = "About Alex Sabr — ErgoRemote"
 date = 2026-01-01
 draft = false
-description = "ErgoRemote is a home office ergonomics review site run by a remote worker who has been testing gear since 2021. No sponsored reviews, no affiliate-only rankings."
+description = "Alex Sabr is a Winnipeg-based remote worker and ergonomics reviewer who has been testing home office gear since 2021. No sponsored reviews, no affiliate-only rankings."
 +++
 
-## About ErgoRemote
+## About This Site
 
-ErgoRemote is a home office ergonomics and gear review site built by a remote worker who has been working from home full-time since 2019 and testing equipment since 2021.
+My name is **Alex Sabr**. I'm a remote worker based in **Winnipeg, Manitoba**, Canada — which means I spend about six months a year working from a home office during winters that routinely hit **−30°C**.
 
-### What We Test
+That context matters. When I test ergonomic chairs, I'm not sitting in a climate-controlled California office. I'm sitting in a space that gets genuinely cold in the morning before the heat kicks in, then too warm by noon when the sun hits the windows. Mesh vs. foam seating isn't academic here — it has real implications depending on the season. When I say a chair runs hot or keeps you cool, I've experienced both sides of that equation.
 
-Every product reviewed on this site was either purchased personally or tested in an extended hands-on session. We don't accept manufacturer samples in exchange for positive reviews.
+I started this site in 2021 after spending an embarrassing amount of money on home office gear in the wrong order. I bought a mechanical keyboard before I fixed my monitor height. I bought a standing desk mat before I bought a chair that actually supported my back. I made every beginner mistake in sequence, and then I spent the next two years fixing it systematically.
 
-Our focus areas:
-- **Ergonomic chairs** — because your spine is not optional
-- **Standing desks** — the good ones, not the wobbly ones
-- **Monitor arms and laptop stands** — monitor height is the most underrated ergonomic variable
-- **Lighting setups** — eye strain by 2 PM is a setup problem, not a you problem
-- **USB-C hubs and peripherals** — because modern laptops shipped with not enough ports
+---
 
-### Our Standards
+### What I Actually Test
 
-- **We buy or test everything.** No review is written from a press release.
-- **Word count means nothing.** We write as much as the topic needs, nothing more.
-- **Affiliate links are disclosed.** Every Amazon link uses our affiliate tag. That's how the lights stay on.
-- **We update reviews.** Prices change. Products get discontinued. Reviews get stale. We revisit.
+Every product reviewed on this site was either purchased personally or tested in an extended hands-on session — minimum two weeks of daily use for anything I recommend. I don't accept manufacturer samples in exchange for positive reviews, and I don't rank products higher because they pay a higher commission.
+
+My focus areas:
+
+- **Ergonomic chairs** — the single highest-impact purchase for anyone working from home full-time
+- **Standing desks** — the real ones with proper warranty and frame stability, not the wobbly budget frames
+- **Monitor arms and laptop stands** — monitor height is the most underrated ergonomic variable and the cheapest to fix
+- **USB-C hubs and peripherals** — because laptop ports haven't kept up with actual workflows
+- **Lighting** — eye strain by 2 PM is almost always a lighting and monitor brightness problem, not a screen-time problem
+
+---
+
+### My Background
+
+I've worked remotely since 2019 — first in a freelance capacity, then full-time. I studied anatomy and physiology at Red River College, which gave me a practical framework for understanding ergonomics — how spinal alignment, lumbar curvature, and joint positioning actually work, not just what the marketing copy claims. That's why I'm skeptical of review sites that test products for 20 minutes before publishing a verdict. I also have chronic lower back issues that made finding a genuinely supportive chair a personal necessity, not just an editorial exercise.
+
+I live and work in Winnipeg, which means I understand what it's like to set up and maintain a home office in a real climate, with real heating bills, and without easy access to showroom testing of premium furniture brands.
+
+---
+
+### Editorial Standards
+
+- **I buy or test everything.** No review is written from a press release or a 10-minute product demo.
+- **Affiliate links are disclosed.** Every Amazon link uses my affiliate tag. That's how this site stays running.
+- **I update reviews.** Prices change, products get discontinued, and better options emerge. I revisit and update.
+- **I don't rank products by commission rate.** A worse chair doesn't become my top pick because it pays more.
+
+---
 
 ### Affiliate Disclosure
 
-This site participates in the Amazon Associates program. When you click a product link and make a purchase, we may earn a small commission at no extra cost to you. This doesn't affect our rankings or recommendations — a bad product doesn't become good because it pays a higher commission.
+ErgoRemote participates in the Amazon Associates program. When you click a product link and make a purchase, I may earn a small commission at no extra cost to you. This does not affect rankings or recommendations.
+
+---
 
 ### Contact
 
-Questions, corrections, or a product you think we should test: reach out via [the contact page](/contact/).
+Questions, corrections, or a product you think I should test: [contact page](/contact/).
 
 ### Follow
 

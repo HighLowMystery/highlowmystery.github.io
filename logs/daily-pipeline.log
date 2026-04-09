@@ -1,0 +1,36 @@
+
+============================================================
+🚀 AFFILIATE PIPELINE DAILY RUN — 2026-04-08 07:00 CDT
+============================================================
+
+📡 STEP 1: Running scrapers...
+  Running reddit-scraper.py...
+  ✅ reddit-scraper.py completed
+  Running keyword-scraper.py...
+  ✅ keyword-scraper.py completed
+
+📊 STEP 2: Loading scraped data...
+  Keywords found: 100
+  Reddit insights: 50
+
+📝 STEP 3: Selecting content opportunities...
+  ✅ Task created: [Affiliate] Write: best home office chair for lower back pain
+  ✅ Task created: [Affiliate] Write: best budget ergonomic chair malaysia
+
+🏗️ **Affiliate Pipeline Daily Run — 2026-04-08**
+
+📡 Scrapers: Reddit ✅ | Keywords ✅
+📊 Data: 100 keyword opps | 50 Reddit insights
+📝 Tasks created: 2 (dispatched to Master Coder)
+📄 Articles live: 15
+
+🔥 Top opportunities today:
+  • best ergonomic chair for back pain
+  • best home office chair for back pain
+  • best home office chair for lower back pain
+  • best monitor for work from home india under 10000
+  • best monitor for work from home under 10000
+
+Tasks: 68lg7drc, 1wf852u7
+
+✅ Pipeline run complete. Log: /home/Apollo/sites/affiliate-hub/scraped-data/2026-04-08/pipeline-log.json

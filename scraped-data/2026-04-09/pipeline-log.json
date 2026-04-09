@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-09",
+  "run_time": "2026-04-09T06:02:32.495279",
+  "scrapers": {
+    "reddit": true,
+    "keywords": true
+  },
+  "data": {
+    "keywords_found": 100,
+    "reddit_insights": 50
+  },
+  "tasks_created": [
+    {
+      "id": "1i9c99x3",
+      "keyword": "best monitor for work from home under 10000"
+    },
+    {
+      "id": "4oa7hdsv",
+      "keyword": "best budget ergonomic chair for gaming"
+    }
+  ],
+  "articles_total": 21
+}

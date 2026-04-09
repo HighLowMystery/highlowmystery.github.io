@@ -38,8 +38,8 @@
       "position": 1,
       "item": {
         "@type": "Product",
-        "name": {{ $name | jsonify }},
-        {{ with $link }}"url": {{ . | jsonify }},{{ end }}
+        "name": "{{ $name }}",
+        {{ with $link }}"url": "{{ . }}",{{ end }}
         "offers": {
           "@type": "Offer",
           "price": "{{ $priceNum }}",
@@ -55,13 +55,13 @@
           },
           "author": {
             "@type": "Person",
-            "name": "ErgoRemote Team"
+            "name": "Alex Sabr"
           },
           "positiveNotes": {
             "@type": "ItemList",
             "itemListElement": [
               {{ range $i, $pro := $pros }}{{ if $i }},{{ end }}
-              {"@type": "ListItem", "position": {{ add $i 1 }}, "name": {{ strings.TrimSpace $pro | jsonify }}}
+              {"@type": "ListItem", "position": {{ add $i 1 }}, "name": "{{ strings.TrimSpace $pro }}"}
               {{ end }}
             ]
           },
@@ -69,7 +69,7 @@
             "@type": "ItemList",
             "itemListElement": [
               {{ range $i, $con := $cons }}{{ if $i }},{{ end }}
-              {"@type": "ListItem", "position": {{ add $i 1 }}, "name": {{ strings.TrimSpace $con | jsonify }}}
+              {"@type": "ListItem", "position": {{ add $i 1 }}, "name": "{{ strings.TrimSpace $con }}"}
               {{ end }}
             ]
           }
@@ -124,6 +124,7 @@
        itemprop="url">
       <span class="btn-amazon-icon" aria-hidden="true">🛒</span> Check Price on Amazon →
     </a>
+    <p class="price-disclaimer">Prices and availability may vary by color, size, and date. If the link shows an Amazon error, search the product name directly on Amazon — our associate tag is pending approval.</p>
     {{ end }}
   </div>
 </div>

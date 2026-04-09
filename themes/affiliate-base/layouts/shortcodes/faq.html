@@ -28,10 +28,10 @@
     {{ range $i, $item := $items }}{{ if $i }},{{ end }}
     {
       "@type": "Question",
-      "name": {{ $item.q | jsonify }},
+      "name": "{{ $item.q }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ $item.a | jsonify }}
+        "text": "{{ $item.a }}"
       }
     }
     {{ end }}
