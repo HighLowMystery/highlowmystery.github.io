@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-10",
+  "run_time": "2026-04-10T06:01:23.132239",
+  "scrapers": {
+    "reddit": true,
+    "keywords": true
+  },
+  "data": {
+    "keywords_found": 100,
+    "reddit_insights": 50
+  },
+  "tasks_created": [
+    {
+      "id": "qml4vudv",
+      "keyword": "herman miller vs steelcase vs haworth"
+    },
+    {
+      "id": "1aut7i3r",
+      "keyword": "best budget ergonomic chair amazon"
+    }
+  ],
+  "articles_total": 21
+}
