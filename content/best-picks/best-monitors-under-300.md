@@ -20,7 +20,7 @@ The laptop screen is the enemy of your neck. It's too low, too small, and it for
 
 I've been through four monitors in six years. One had terrible color. One died after 14 months. Two are still running. Here's what I know now.
 
-{{< quickpicks items="LG 27MN60T-B:Best Overall 27 inch Under $200:$189:https://www.amazon.com/s?k=LG+27MN60T+monitor&tag=highlowmyst0e-20,Dell S2722DC:Best USB-C Monitor Under $300:$279:https://www.amazon.com/dp/B09W5B2NVH?tag=highlowmyst0e-20,LG 24MK430H-B:Best Budget 24 inch:$149:https://www.amazon.com/dp/B07WNS2ZM6?tag=highlowmyst0e-20,Samsung LS27R354FHNXZA:Best for Video Calls Under $200:$179:https://www.amazon.com/s?k=Samsung+27+inch+monitor+1080p&tag=highlowmyst0e-20,AOC 24B2XHM2:Best Ultra-Budget Under $130:$129:https://www.amazon.com/s?k=AOC+24B2XHM2+monitor&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="LG 27MN60T-B:Best Overall 27 inch Under $200:$189:https://www.amazon.com/s?k=LG+27MN60T+monitor&tag=highlowmyst0e-20,Dell S2722DC:Best USB-C Monitor Under $300:$279:https://www.amazon.com/dp/B09W5B2NVH?tag=highlowmyst0e-20,LG 24MK430H-B:Best Budget 24 inch:$149:https://www.amazon.com/dp/B07D1L34VD?tag=highlowmyst0e-20,Samsung LS27R354FHNXZA:Best for Video Calls Under $200:$179:https://www.amazon.com/s?k=Samsung+27+inch+monitor+1080p&tag=highlowmyst0e-20,AOC 24B2XHM2:Best Ultra-Budget Under $130:$129:https://www.amazon.com/s?k=AOC+24B2XHM2+monitor&tag=highlowmyst0e-20" >}}
 
 ---
 

@@ -22,7 +22,7 @@ A laptop stand fixed most of it. The right laptop stand, anyway. I've gone throu
 
 ---
 
-{{< quickpicks items="Nexstand K2:Best Overall Portable:$35:https://www.amazon.com/dp/B01HHYQBB8?tag=highlowmyst0e-20,Rain Design mStand:Best Aluminum Desk Stand:$43:https://www.amazon.com/dp/B000OOYECC?tag=highlowmyst0e-20,Nulaxy C3:Best Adjustable Budget Pick:$27:https://www.amazon.com/dp/B07HFBZS4X?tag=highlowmyst0e-20,Twelve South Curve:Best Premium Stand:$79:https://www.amazon.com/dp/B07ZF3HRPQ?tag=highlowmyst0e-20,Boyata Laptop Stand:Best for MacBook & Large Screens:$39:https://www.amazon.com/dp/B07BNSP7TN?tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Nexstand K2:Best Overall Portable:$35:https://www.amazon.com/dp/B01HHYQBB8?tag=highlowmyst0e-20,Rain Design mStand:Best Aluminum Desk Stand:$43:https://www.amazon.com/dp/B000OOYECC?tag=highlowmyst0e-20,Nulaxy C3:Best Adjustable Budget Pick:$27:https://www.amazon.com/dp/B07HFBZS4X?tag=highlowmyst0e-20,Twelve South Curve:Best Premium Stand:$79:https://www.amazon.com/dp/B07ZF3HRPQ?tag=highlowmyst0e-20,Boyata Laptop Stand:Best for MacBook & Large Screens:$39:https://www.amazon.com/s?k=Boyata+laptop+stand&tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -90,7 +90,7 @@ I wouldn't recommend this for everyone — $79 is a lot for a stand. But if you 
 
 ### 5. Boyata Laptop Stand — Best for Large MacBooks
 
-{{< product name="Boyata Laptop Stand" price="$39" rating="4.4" badge="Large Screen" pros="Adjustable height and angle,Fits up to 17.3\",Good stability,Folds flat" cons="Plastic finish shows scratches,Angle lock can stick" link="https://www.amazon.com/dp/B07BNSP7TN?tag=highlowmyst0e-20" >}}
+{{< product name="Boyata Laptop Stand" price="$39" rating="4.4" badge="Large Screen" pros="Adjustable height and angle,Fits up to 17.3\",Good stability,Folds flat" cons="Plastic finish shows scratches,Angle lock can stick" link="https://www.amazon.com/s?k=Boyata+laptop+stand&tag=highlowmyst0e-20" >}}
 
 Most stands have trouble with the 16-inch MacBook Pro — it's heavy and large enough to wobble at height. The Boyata handles it without complaint. The hinges stay firm, the height positions are useful, and at $39 it punches above its price for larger screen support.
 

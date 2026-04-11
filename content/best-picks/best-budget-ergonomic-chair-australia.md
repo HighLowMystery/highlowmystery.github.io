@@ -134,7 +134,7 @@ If you're in a major Australian city with access to secondhand office furniture 
   rating="4.6"
   pros="Commercial-grade build quality,Multi-adjustment mechanism,Common in AU office liquidations,Significantly better than new chairs at same price"
   cons="Requires in-person inspection before buying,No new warranty coverage,Condition varies,Mainly available in major cities"
-  link="https://www.amazon.com.au/dp/B01N4FXF8W?tag=highlowmyst0e-20"
+  link="https://www.amazon.com.au/s?k=Herman+Miller+Aeron+chair&tag=highlowmyst0e-20"
   badge="Best Secondhand Value"
 >}}
 

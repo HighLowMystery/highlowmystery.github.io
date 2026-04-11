@@ -66,7 +66,7 @@ It's expensive. But a refurbished Aeron from a reputable dealer runs $600–800 
   rating="4.9"
   pros="PostureFit SL supports sacrum + lumbar,12-year warranty,Three sizes (A/B/C) for any body type,Industry-leading build quality,Excellent resale value"
   cons="High price new,Requires size selection (A/B/C),Minimal seat padding (mesh-only)"
-  link="https://www.amazon.com/dp/B01N4FXF8W?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B01N4N08OS?tag=highlowmyst0e-20"
   badge="Premium Pick"
 >}}
 

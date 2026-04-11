@@ -64,7 +64,7 @@ The PostureFit SL holds the sacrum in a neutral tilt, which naturally preserves 
   rating="4.9"
   pros="PostureFit SL: sacrum + lumbar support,Three sizes (A/B/C),12-year warranty,8Z Pellicle pressure distribution,Best resale value in category"
   cons="Expensive new,No traditional seat foam (mesh only),Requires correct size selection"
-  link="https://www.amazon.com/dp/B01N4FXF8W?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B01N4N08OS?tag=highlowmyst0e-20"
   badge="Best Lumbar Engineering"
 >}}
 
