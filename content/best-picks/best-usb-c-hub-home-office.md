@@ -22,7 +22,7 @@ So I tested five of them systematically — same MacBook M3 Pro, same Windows De
 
 ---
 
-{{< quickpicks items="Anker 555 USB-C Hub:Best Overall:$50:https://www.amazon.com/dp/B08CKPNMD8?tag=highlowmyst0e-20,CalDigit TS4:Best Premium Dock:$249:https://www.amazon.com/dp/B09GK8LBWS?tag=highlowmyst0e-20,Satechi Slim V2:Best for MacBook:$60:https://www.amazon.com/dp/B06XRVX3XM?tag=highlowmyst0e-20,UGREEN 9-in-1 Hub:Best Value Ports:$45:https://www.amazon.com/dp/B07K1FGQCS?tag=highlowmyst0e-20,j5create JCD397:Best for Windows:$55:https://www.amazon.com/s?k=j5create+JCD397+USB-C+hub&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Anker 555 USB-C Hub:Best Overall:$50:https://www.amazon.com/dp/B08CKPNMD8?tag=highlowmyst0e-20,CalDigit TS4:Best Premium Dock:$249:https://www.amazon.com/dp/B09GK8LBWS?tag=highlowmyst0e-20,Satechi Slim V2:Best for MacBook:$60:https://www.amazon.com/s?k=satechi+slim+v2+multiport&tag=highlowmyst0e-20,UGREEN 9-in-1 Hub:Best Value Ports:$45:https://www.amazon.com/dp/B07K1FGQCS?tag=highlowmyst0e-20,j5create JCD397:Best for Windows:$55:https://www.amazon.com/s?k=j5create+JCD397&tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -68,7 +68,7 @@ If you have a Thunderbolt 4-equipped MacBook or Windows laptop and work is payin
 
 **Verdict:** Best slim hub for MacBook users who want a clean aluminum finish that looks like it shipped with the laptop. Passthrough charging tops out at 60W — not enough for 16-inch MacBook Pro at full load.
 
-{{< product name="Satechi Slim Aluminum Multi-Port Adapter V2" price="$60" rating="4.4" badge="MacBook Pick" pros="Silver matches MacBook finish,Compact design,4K HDMI,SD + MicroSD readers" cons="Only 85W PD passthrough,USB-A speeds capped at USB 3.0,Gets warm under sustained use" link="https://www.amazon.com/dp/B06XRVX3XM?tag=highlowmyst0e-20" >}}
+{{< product name="Satechi Slim Aluminum Multi-Port Adapter V2" price="$60" rating="4.4" badge="MacBook Pick" pros="Silver matches MacBook finish,Compact design,4K HDMI,SD + MicroSD readers" cons="Only 85W PD passthrough,USB-A speeds capped at USB 3.0,Gets warm under sustained use" link="https://www.amazon.com/s?k=satechi+slim+v2+multiport&tag=highlowmyst0e-20" >}}
 
 It's designed to sit flush with the MacBook like it belongs there — and it does. If you care about your desk aesthetic and want something that looks intentional rather than plugged-in, this is it. Functional caveat: 85W PD passthrough is fine for 13/14-inch MacBooks but will slow-charge the 16-inch under load. USB-A tops out at USB 3.0 speeds (~130MB/s), not 3.2.
 
@@ -86,7 +86,7 @@ For pure port count at the lowest price, the UGREEN wins. VGA + HDMI simultaneou
 
 ### 5. j5create JCD397 — Best for Windows Laptops
 
-{{< product name="j5create JCD397 USB-C Universal Docking Station" price="$55" rating="4.3" badge="Windows Pick" pros="Windows-optimised drivers,Dual monitor support,Gigabit Ethernet,100W PD" cons="Driver install required on first use,Bulkier than competitors,Occasional Windows update conflicts" link="https://www.amazon.com/s?k=j5create+JCD397+USB-C+docking+station&tag=highlowmyst0e-20" >}}
+{{< product name="j5create JCD397 USB-C Universal Docking Station" price="$55" rating="4.3" badge="Windows Pick" pros="Windows-optimised drivers,Dual monitor support,Gigabit Ethernet,100W PD" cons="Driver install required on first use,Bulkier than competitors,Occasional Windows update conflicts" link="https://www.amazon.com/s?k=j5create+JCD397&tag=highlowmyst0e-20" >}}
 
 Tested on two Windows machines (Dell XPS 15 and a ThinkPad). Dual monitor support worked reliably where other hubs didn't — j5create has a tight Windows driver relationship that shows. First-time setup requires a driver install, which is annoying once but then invisible forever. I'd still take the Anker 555 on a Mac; on Windows, this is my pick.
 
@@ -103,7 +103,7 @@ Tested on two Windows machines (Dell XPS 15 and a ThinkPad). Dual monitor suppor
   rating2="4.4"
   winner="1"
   link1="https://www.amazon.com/dp/B08CKPNMD8?tag=highlowmyst0e-20"
-  link2="https://www.amazon.com/dp/B06XRVX3XM?tag=highlowmyst0e-20"
+  link2="https://www.amazon.com/s?k=satechi+slim+v2+multiport&tag=highlowmyst0e-20"
   rows="4K Resolution:30Hz,30Hz|PD Passthrough:100W,85W|USB-A Speed:3.2 Gen1,3.0|SD Card:No,Yes|Heat:Cool,Warm|Best For:All-round WFH,MacBook aesthetics"
 >}}
 

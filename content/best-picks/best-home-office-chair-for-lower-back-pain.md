@@ -64,7 +64,7 @@ The PostureFit SL holds the sacrum in a neutral tilt, which naturally preserves 
   rating="4.9"
   pros="PostureFit SL: sacrum + lumbar support,Three sizes (A/B/C),12-year warranty,8Z Pellicle pressure distribution,Best resale value in category"
   cons="Expensive new,No traditional seat foam (mesh only),Requires correct size selection"
-  link="https://www.amazon.com/dp/B01N4N08OS?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B01N6Q8LXV?tag=highlowmyst0e-20"
   badge="Best Lumbar Engineering"
 >}}
 
@@ -112,7 +112,7 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
   rating="4.6"
   pros="Lumbar height + depth adjustment,4D armrests,Comfortable foam seat,5-year warranty,Fast 20-minute assembly"
   cons="Foam seat warmer than mesh,Headrest sold separately,Newer brand"
-  link="https://www.amazon.com/s?k=Branch+ergonomic+chair&tag=highlowmyst0e-20"
+  link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Value Under $350"
 >}}
 

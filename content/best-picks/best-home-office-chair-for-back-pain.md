@@ -66,7 +66,7 @@ It's expensive. But a refurbished Aeron from a reputable dealer runs $600–800 
   rating="4.9"
   pros="PostureFit SL supports sacrum + lumbar,12-year warranty,Three sizes (A/B/C) for any body type,Industry-leading build quality,Excellent resale value"
   cons="High price new,Requires size selection (A/B/C),Minimal seat padding (mesh-only)"
-  link="https://www.amazon.com/dp/B01N4N08OS?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B01N6Q8LXV?tag=highlowmyst0e-20"
   badge="Premium Pick"
 >}}
 
@@ -138,7 +138,7 @@ It ships free and assembles in about 20 minutes — the clearest instructions I'
   rating="4.6"
   pros="Adjustable lumbar depth + height,4D armrests,Comfortable foam seat,Clean modern design,Fast assembly"
   cons="Less airflow than full-mesh chairs,Newer brand (less long-term data),Headrest sold separately"
-  link="https://www.amazon.com/s?k=Branch+ergonomic+chair&tag=highlowmyst0e-20"
+  link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Value"
 >}}
 

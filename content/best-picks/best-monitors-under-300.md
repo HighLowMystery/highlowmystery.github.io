@@ -20,7 +20,7 @@ The laptop screen is the enemy of your neck. It's too low, too small, and it for
 
 I've been through four monitors in six years. One had terrible color. One died after 14 months. Two are still running. Here's what I know now.
 
-{{< quickpicks items="LG 27MN60T-B:Best Overall 27 inch Under $200:$189:https://www.amazon.com/s?k=LG+27MN60T+monitor&tag=highlowmyst0e-20,Dell S2722DC:Best USB-C Monitor Under $300:$279:https://www.amazon.com/dp/B09W5B2NVH?tag=highlowmyst0e-20,LG 24MK430H-B:Best Budget 24 inch:$149:https://www.amazon.com/dp/B07D1L34VD?tag=highlowmyst0e-20,Samsung LS27R354FHNXZA:Best for Video Calls Under $200:$179:https://www.amazon.com/s?k=Samsung+27+inch+monitor+1080p&tag=highlowmyst0e-20,AOC 24B2XHM2:Best Ultra-Budget Under $130:$129:https://www.amazon.com/s?k=AOC+24B2XHM2+monitor&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="LG 27MN60T-B:Best Overall 27 inch Under $200:$189:https://www.amazon.com/s?k=LG+27MN60T+IPS+monitor&tag=highlowmyst0e-20,Dell S2722DC:Best USB-C Monitor Under $300:$279:https://www.amazon.com/dp/B09W5B2NVH?tag=highlowmyst0e-20,LG 24MK430H-B:Best Budget 24 inch:$149:https://www.amazon.com/dp/B07D1L34VD?tag=highlowmyst0e-20,Samsung LS27R354FHNXZA:Best for Video Calls Under $200:$179:https://www.amazon.com/s?k=Samsung+27+inch+monitor+1080p&tag=highlowmyst0e-20,AOC 24B2XHM2:Best Ultra-Budget Under $130:$129:https://www.amazon.com/s?k=AOC+24B2XHM2+monitor&tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -56,7 +56,7 @@ The fix is a 24-27 inch monitor at eye level — top of screen at or just below 
 
 **Verdict:** Best overall 27-inch home office monitor under $200 — IPS panel, height adjustment, and USB-C for a single-cable laptop setup. No USB-C on this model; you'll need a separate hub if your laptop is USB-C only.
 
-{{< product name="LG 27MN60T-B 27-Inch FHD IPS Monitor" price="$189" rating="4.5" badge="Best Overall" pros="IPS panel with good color accuracy,HDMI + DisplayPort inputs,75Hz (smoother than 60Hz for scrolling),Decent contrast for IPS,FreeSync support" cons="No USB-C,Stand only adjusts tilt (not height — buy a monitor arm),Bezels aren't slim" link="https://www.amazon.com/s?k=LG+27MN60T+monitor&tag=highlowmyst0e-20" >}}
+{{< product name="LG 27MN60T-B 27-Inch FHD IPS Monitor" price="$189" rating="4.5" badge="Best Overall" pros="IPS panel with good color accuracy,HDMI + DisplayPort inputs,75Hz (smoother than 60Hz for scrolling),Decent contrast for IPS,FreeSync support" cons="No USB-C,Stand only adjusts tilt (not height — buy a monitor arm),Bezels aren't slim" link="https://www.amazon.com/s?k=LG+27MN60T+IPS+monitor&tag=highlowmyst0e-20" >}}
 
 This is the monitor I'd recommend to someone building their first real home office setup. At $189, the IPS panel delivers good color accuracy and wide viewing angles — important for both work and video calls where you want accurate skin tones.
 
@@ -102,7 +102,7 @@ One honest note: 24 inches feels a bit small once you've used a 27-inch screen. 
   rating1="4.5"
   rating2="4.6"
   winner="2"
-  link1="https://www.amazon.com/s?k=LG+27MN60T+monitor&tag=highlowmyst0e-20"
+  link1="https://www.amazon.com/s?k=LG+27MN60T+IPS+monitor&tag=highlowmyst0e-20"
   link2="https://www.amazon.com/s?k=Dell+S2722DC+USB-C+monitor&tag=highlowmyst0e-20"
   rows="Resolution:1080p,1440p (QHD)|USB-C Power Delivery:No,Yes (65W)|Stand Height Adjust:No,Yes|Panel:IPS,IPS|Best For:Value buyers,USB-C laptop users"
 >}}

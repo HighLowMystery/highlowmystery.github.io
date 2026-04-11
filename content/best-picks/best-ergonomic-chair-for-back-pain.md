@@ -60,7 +60,7 @@ Why it works: Aeron's PostureFit SL system provides the only true dual-zone supp
   rating="4.9"
   pros="PostureFit SL,12-year warranty,Mesh never sags,Size choice (A/B/C),Strong used market"
   cons="Very expensive new,Requires correct sizing,No foam seat (all mesh)"
-  link="https://www.amazon.com/s?k=Branch+Ergonomic+Chair&tag=highlowmyst0e-20"
+  link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best for Committed Sitter"
 >}}
 

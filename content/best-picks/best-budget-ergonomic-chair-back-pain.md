@@ -29,7 +29,7 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
 
 ---
 
-{{< quickpicks items="SIHOO M57:Best Under $300:$279:https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$339:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:$329:https://www.amazon.com/s?k=Branch+Ergonomic+Chair&tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:$349:https://www.amazon.com/dp/B07J5GZFMK?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:$139:https://www.amazon.com/dp/B07Y5KJ292?tag=highlowmyst0e-20" >}}
+{{< quickpicks items="SIHOO M57:Best Under $300:$279:https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$339:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:$329:https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:$349:https://www.amazon.com/dp/B07J5GZFMK?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:$139:https://www.amazon.com/dp/B07Y5KJ292?tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -79,7 +79,7 @@ I'm 6'2" and struggled to find a chair that felt like it fit my legs. The C7 was
 
 **Verdict:** Best warranty-per-dollar on the market at $329 — 5-year coverage on a chair that actually adjusts lumbar height and depth. The foam seat runs firm, which some people love and others hate; sit in it for 30 minutes before committing.
 
-{{< product name="Branch Ergonomic Chair" price="$329" rating="4.3" badge="Warranty" pros="5-year warranty,Easy recline,Breathable back,Good support" cons="Seat cushion a bit stiff,Assembly takes 45+ min" link="https://www.amazon.com/s?k=Branch+Ergonomic+Chair&tag=highlowmyst0e-20" >}}
+{{< product name="Branch Ergonomic Chair" price="$329" rating="4.3" badge="Warranty" pros="5-year warranty,Easy recline,Breathable back,Good support" cons="Seat cushion a bit stiff,Assembly takes 45+ min" link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20" >}}
 
 This is the only chair here with a true 5-year full warranty. That alone is rare territory under $400. Everything is *decent*-support, feel, build-but the seat will need a break-in period. Not plush, not hard, just...firm.
 
