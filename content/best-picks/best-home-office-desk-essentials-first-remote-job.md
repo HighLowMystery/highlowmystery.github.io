@@ -20,7 +20,7 @@ My first remote job started on a dining table. Laptop balanced on a stack of boo
 
 This guide is what I wish someone had handed me on day one.
 
-{{< quickpicks items="Monitor + stand:Single biggest productivity upgrade:$150-250,Ergonomic chair:Single biggest comfort upgrade:$279-400,Laptop stand + keyboard:Fixes your neck immediately:$40-80,Good webcam:Makes you look professional on day one:$65,Desk lamp or key light:Transforms video call quality:$40-60" >}}
+{{< quickpicks items="Monitor + stand:Single biggest productivity upgrade:$150-250:https://www.amazon.com/s?k=27+inch+monitor+home+office&tag=highlowmyst0e-20,Ergonomic chair:Single biggest comfort upgrade:$279-400:https://www.amazon.com/dp/B086XMQD4V?tag=highlowmyst0e-20,Laptop stand + keyboard:Fixes your neck immediately:$40-80:https://www.amazon.com/dp/B01HHYQBB8?tag=highlowmyst0e-20,Good webcam:Makes you look professional on day one:$65:https://www.amazon.com/s?k=1080p+webcam+home+office&tag=highlowmyst0e-20,Desk lamp or key light:Transforms video call quality:$40-60:https://www.amazon.com/s?k=key+light+desk+lamp&tag=highlowmyst0e-20" >}}
 
 ---
 

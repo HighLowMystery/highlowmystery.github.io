@@ -21,7 +21,7 @@ So I started researching properly. Not just reading the Amazon listing — actua
 
 Here's what I learned.
 
-{{< quickpicks items="Autonomous ErgoChair Pro:Best Overall Under $500:$449,Sihoo M57:Best Budget Pick Under $300:$279,HAG Capisco (Used):Best for Standing Desk Users:$350-500 used,Branch Ergonomic Chair:Best Warranty Under $500:$499,Flexispot C7:Best for Tall People:$399" >}}
+{{< quickpicks items="Autonomous ErgoChair Pro:Best Overall Under $500:$449:https://www.amazon.com/dp/B086XMQD4V?tag=highlowmyst0e-20,Sihoo M57:Best Budget Pick Under $300:$279:https://www.amazon.com/dp/B086XMQD4V?tag=highlowmyst0e-20,HAG Capisco (Used):Best for Standing Desk Users:$350-500 used:https://www.amazon.com/s?k=HAG+Capisco+chair&tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty Under $500:$499:https://www.amazon.com/dp/B086VRGBDV?tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$399:https://www.amazon.com/dp/B0C7Z7KZY2?tag=highlowmyst0e-20" >}}
 
 ---
 
