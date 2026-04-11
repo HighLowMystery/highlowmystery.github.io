@@ -104,7 +104,7 @@ Why it works: Adjustable lumbar (not just height, also depth), 4D arms, good ret
   rating="4.6"
   pros="Adjustable lumbar depth,4D armrests,Foam seat,Fast/simple assembly,5-yr warranty"
   cons="Less airflow than mesh,Barebones brand (less legacy),Headrest sold separtely"
-  link="https://www.amazon.com/dp/B08CF9GZL6?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/s?k=Branch+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Value Mesh"
 >}}
 

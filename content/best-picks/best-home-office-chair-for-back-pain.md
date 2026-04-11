@@ -138,7 +138,7 @@ It ships free and assembles in about 20 minutes — the clearest instructions I'
   rating="4.6"
   pros="Adjustable lumbar depth + height,4D armrests,Comfortable foam seat,Clean modern design,Fast assembly"
   cons="Less airflow than full-mesh chairs,Newer brand (less long-term data),Headrest sold separately"
-  link="https://www.amazon.com/dp/B08CF9GZL6?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/s?k=Branch+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Value"
 >}}
 

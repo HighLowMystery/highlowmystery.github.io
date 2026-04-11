@@ -22,7 +22,7 @@ So I tested five of them systematically — same MacBook M3 Pro, same Windows De
 
 ---
 
-{{< quickpicks items="Anker 555 USB-C Hub:Best Overall:$50:https://www.amazon.com/dp/B08CKPNMD8?tag=highlowmyst0e-20,CalDigit TS4:Best Premium Dock:$249:https://www.amazon.com/dp/B09GK8LBWS?tag=highlowmyst0e-20,Satechi Slim V2:Best for MacBook:$60:https://www.amazon.com/dp/B07WNS2ZM6?tag=highlowmyst0e-20,UGREEN 9-in-1 Hub:Best Value Ports:$45:https://www.amazon.com/dp/B07K1FGQCS?tag=highlowmyst0e-20,j5create JCD397:Best for Windows:$55:https://www.amazon.com/dp/B07MW1YCRX?tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Anker 555 USB-C Hub:Best Overall:$50:https://www.amazon.com/dp/B08CKPNMD8?tag=highlowmyst0e-20,CalDigit TS4:Best Premium Dock:$249:https://www.amazon.com/dp/B09GK8LBWS?tag=highlowmyst0e-20,Satechi Slim V2:Best for MacBook:$60:https://www.amazon.com/dp/B07WNS2ZM6?tag=highlowmyst0e-20,UGREEN 9-in-1 Hub:Best Value Ports:$45:https://www.amazon.com/dp/B07K1FGQCS?tag=highlowmyst0e-20,j5create JCD397:Best for Windows:$55:https://www.amazon.com/s?k=j5create+JCD397+USB-C+hub&tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -86,7 +86,7 @@ For pure port count at the lowest price, the UGREEN wins. VGA + HDMI simultaneou
 
 ### 5. j5create JCD397 — Best for Windows Laptops
 
-{{< product name="j5create JCD397 USB-C Universal Docking Station" price="$55" rating="4.3" badge="Windows Pick" pros="Windows-optimised drivers,Dual monitor support,Gigabit Ethernet,100W PD" cons="Driver install required on first use,Bulkier than competitors,Occasional Windows update conflicts" link="https://www.amazon.com/dp/B07MW1YCRX?tag=highlowmyst0e-20" >}}
+{{< product name="j5create JCD397 USB-C Universal Docking Station" price="$55" rating="4.3" badge="Windows Pick" pros="Windows-optimised drivers,Dual monitor support,Gigabit Ethernet,100W PD" cons="Driver install required on first use,Bulkier than competitors,Occasional Windows update conflicts" link="https://www.amazon.com/s?k=j5create+JCD397+USB-C+docking+station&tag=highlowmyst0e-20" >}}
 
 Tested on two Windows machines (Dell XPS 15 and a ThinkPad). Dual monitor support worked reliably where other hubs didn't — j5create has a tight Windows driver relationship that shows. First-time setup requires a driver install, which is annoying once but then invisible forever. I'd still take the Anker 555 on a Mac; on Windows, this is my pick.
 

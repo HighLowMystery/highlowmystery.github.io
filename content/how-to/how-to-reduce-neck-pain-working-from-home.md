@@ -93,7 +93,7 @@ If your lumbar support is a detachable pillow held on by a strap, it doesn't cou
 {{< /callout >}}
 
 Budget chairs with real lumbar support:
-- **[SIHOO M57](https://www.amazon.com/dp/B086XMQD4V?tag=highlowmyst0e-20)** — $279, adjustable lumbar height, mesh back
+- **[SIHOO M57](https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20)** — $279, adjustable lumbar height, mesh back
 - **[Flexispot C7](https://www.amazon.com/dp/B0C7Z7KZY2?tag=highlowmyst0e-20)** — $339, integrated lumbar, good for taller users
 
 ---

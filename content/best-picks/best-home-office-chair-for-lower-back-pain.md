@@ -112,7 +112,7 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
   rating="4.6"
   pros="Lumbar height + depth adjustment,4D armrests,Comfortable foam seat,5-year warranty,Fast 20-minute assembly"
   cons="Foam seat warmer than mesh,Headrest sold separately,Newer brand"
-  link="https://www.amazon.com/dp/B08CF9GZL6?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/s?k=Branch+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Value Under $350"
 >}}
 
