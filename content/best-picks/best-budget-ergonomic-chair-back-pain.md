@@ -29,7 +29,7 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
 
 ---
 
-{{< quickpicks items="SIHOO M57:Best Under $300:$279:https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$339:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:$329:https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:$349:https://www.amazon.com/dp/B07J5GZFMK?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:$139:https://www.amazon.com/dp/B07Y5KJ292?tag=highlowmyst0e-20" >}}
+{{< quickpicks items="SIHOO M57:Best Under $300:$279:https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$339:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:$329:https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:$349:https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:$139:https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -79,7 +79,7 @@ I'm 6'2" and struggled to find a chair that felt like it fit my legs. The C7 was
 
 **Verdict:** Best warranty-per-dollar on the market at $329 — 5-year coverage on a chair that actually adjusts lumbar height and depth. The foam seat runs firm, which some people love and others hate; sit in it for 30 minutes before committing.
 
-{{< product name="Branch Ergonomic Chair" price="$329" rating="4.3" badge="Warranty" pros="5-year warranty,Easy recline,Breathable back,Good support" cons="Seat cushion a bit stiff,Assembly takes 45+ min" link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20" >}}
+{{< product name="Branch Ergonomic Chair" price="$329" rating="4.3" badge="Warranty" pros="5-year warranty,Easy recline,Breathable back,Good support" cons="Seat cushion a bit stiff,Assembly takes 45+ min" link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20" >}}
 
 This is the only chair here with a true 5-year full warranty. That alone is rare territory under $400. Everything is *decent*-support, feel, build-but the seat will need a break-in period. Not plush, not hard, just...firm.
 
@@ -87,13 +87,13 @@ This is the only chair here with a true 5-year full warranty. That alone is rare
 
 **Verdict:** Most adjustment points under $300 — elbow rests, recline tension, and seat slide all move independently. Build quality feels closer to $200 than $300; tighten all bolts at assembly and re-check at 6 months.
 
-{{< product name="NOUHAUS Ergo3D" price="$349" rating="4.4" badge="Adjustability" pros="Max lumbar range,4D arms,Strong mesh,Good for tall & short users" cons="Wobbly arms at max height,Heavy frame" link="https://www.amazon.com/dp/B07J5GZFMK?tag=highlowmyst0e-20" >}}
+{{< product name="NOUHAUS Ergo3D" price="$349" rating="4.4" badge="Adjustability" pros="Max lumbar range,4D arms,Strong mesh,Good for tall & short users" cons="Wobbly arms at max height,Heavy frame" link="https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20" >}}
 
 You want *maximum* tweakability? The NOUHAUS wins for sheer number of adjustments. True 4D armrests (very rare at this price), mesh holds up well over time. Drawbacks: arms & headrest wobble under stress, visually a bit bulky.
 
 ### 5. ComHoma Office Chair - Best Pick Under $150
 
-{{< product name="ComHoma Office Chair" price="$139" rating="4.2" badge="Ultra Budget" pros="Price,Simple adjustability,Quieter casters,Small room friendly" cons="Limited lumbar,Thin seat,Short warranty" link="https://www.amazon.com/dp/B07Y5KJ292?tag=highlowmyst0e-20" >}}
+{{< product name="ComHoma Office Chair" price="$139" rating="4.2" badge="Ultra Budget" pros="Price,Simple adjustability,Quieter casters,Small room friendly" cons="Limited lumbar,Thin seat,Short warranty" link="https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" >}}
 
 For truly ultra-budget buyers (<$150), ComHoma is the only chair I'd steer you toward. Can't match the support or features above, but it is actually comfortable for 3–5 hour stints at a desk. Set your expectations. One specific thing it does right: the casters are surprisingly quiet on hardwood — a small thing that matters when you share a space.
 

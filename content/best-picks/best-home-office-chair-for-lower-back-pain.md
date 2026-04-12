@@ -40,7 +40,7 @@ The seat depth slider is also worth calling out: it lets you sit with your back 
   rating="4.7"
   pros="Lumbar adjusts height + depth,Seat depth slider,4D armrests,Breathable mesh,5-year warranty"
   cons="Assembly 45–60 minutes,Seat cushion firm initially,Limited colors"
-  link="https://www.amazon.com/dp/B08HGDZ2WH?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
 >}}
 
@@ -64,7 +64,7 @@ The PostureFit SL holds the sacrum in a neutral tilt, which naturally preserves 
   rating="4.9"
   pros="PostureFit SL: sacrum + lumbar support,Three sizes (A/B/C),12-year warranty,8Z Pellicle pressure distribution,Best resale value in category"
   cons="Expensive new,No traditional seat foam (mesh only),Requires correct size selection"
-  link="https://www.amazon.com/dp/B01N6Q8LXV?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best Lumbar Engineering"
 >}}
 
@@ -88,7 +88,7 @@ This works particularly well for people whose lower back pain comes from sustain
   rating="4.8"
   pros="LiveBack flexes with spine movement,Lower back firmness adjustable,Encourages natural posture variation,12-year warranty,Excellent for tall users"
   cons="No headrest standard,Expensive new,Seat can feel firm"
-  link="https://www.amazon.com/dp/B00BX7CBWW?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best Dynamic Support"
 >}}
 
@@ -112,7 +112,7 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
   rating="4.6"
   pros="Lumbar height + depth adjustment,4D armrests,Comfortable foam seat,5-year warranty,Fast 20-minute assembly"
   cons="Foam seat warmer than mesh,Headrest sold separately,Newer brand"
-  link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B0C15B3HN1&tag=highlowmyst0e-20"
   badge="Best Value Under $350"
 >}}
 

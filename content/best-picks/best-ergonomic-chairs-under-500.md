@@ -21,7 +21,7 @@ So I started researching properly. Not just reading the Amazon listing — actua
 
 Here's what I learned.
 
-{{< quickpicks items="Autonomous ErgoChair Pro:Best Overall Under $500:$449:https://www.amazon.com/s?k=Autonomous+ErgoChair+Pro&tag=highlowmyst0e-20,Sihoo M57:Best Budget Pick Under $300:$279:https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20,HAG Capisco (Used):Best for Standing Desk Users:$350-500 used:https://www.amazon.com/s?k=HAG+Capisco+chair&tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty Under $500:$499:https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$399:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Autonomous ErgoChair Pro:Best Overall Under $500:$449:https://www.amazon.com/dp/B0FL2JGMK5&tag=highlowmyst0e-20,Sihoo M57:Best Budget Pick Under $300:$279:https://www.amazon.com/s?k=SIHOO+M57+ergonomic+chair&tag=highlowmyst0e-20,HAG Capisco (Used):Best for Standing Desk Users:$350-500 used:https://www.amazon.com/s?k=HAG+Capisco+chair&tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty Under $500:$499:https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$399:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -57,7 +57,7 @@ Before the reviews, let me save you from the marketing fluff:
 
 **Verdict:** Best overall under $500 with adjustable lumbar, 4D armrests, and a breathable mesh back in one package. Assembly takes 45+ minutes and the lumbar dial requires trial and error to dial in correctly.
 
-{{< product name="Autonomous ErgoChair Pro" price="$449" rating="4.6" badge="Best Overall" pros="Adjustable lumbar height and depth,4D armrests included,Breathable mesh back,Recline with tension control" cons="Assembly takes 45+ minutes,Seat cushion is firm (softens over time),Lumbar adjustment takes trial and error" link="https://www.amazon.com/s?k=autonomous+ergochair+pro&tag=highlowmyst0e-20" >}}
+{{< product name="Autonomous ErgoChair Pro" price="$449" rating="4.6" badge="Best Overall" pros="Adjustable lumbar height and depth,4D armrests included,Breathable mesh back,Recline with tension control" cons="Assembly takes 45+ minutes,Seat cushion is firm (softens over time),Lumbar adjustment takes trial and error" link="https://www.amazon.com/dp/B0FL2JGMK5&tag=highlowmyst0e-20" >}}
 
 I've been in this chair for eight months. The lumbar support is what sold me — you can move it up and down about 3 inches AND adjust the depth. That combination is rare under $500. Herman Miller chairs do it. Most $200 chairs don't.
 
@@ -91,7 +91,7 @@ What I'd skip it for: if you're tall (over 6'1") or if back pain is a real issue
   rating1="4.6"
   rating2="4.4"
   winner="1"
-  link1="https://www.amazon.com/s?k=autonomous+ergochair+pro&tag=highlowmyst0e-20"
+  link1="https://www.amazon.com/dp/B0FL2JGMK5&tag=highlowmyst0e-20"
   link2="https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=highlowmyst0e-20"
   rows="Lumbar Adjustment:Height + Depth,Fixed position|Armrest Type:4D (full adjust),2D (height only)|Seat Depth Adjust:Yes,No|Headrest:Optional add-on,Included|Best For:Back pain sufferers,Budget buyers"
 >}}

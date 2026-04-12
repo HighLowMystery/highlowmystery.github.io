@@ -20,7 +20,7 @@ I bought my first standing desk in 2021. It wobbled when I typed. The motor died
 
 The difference between a good $400 desk and a bad $400 desk isn't marketing. It's frame construction, motor quality, and whether the company actually answers support tickets. I've sorted that out for you.
 
-{{< quickpicks items="Flexispot E7:Best Overall Under $500:$449:https://www.amazon.com/s?k=Flexispot+E7+standing+desk&tag=highlowmyst0e-20,Vivo Electric 55x24:Best Budget Under $300:$249:https://www.amazon.com/s?k=Vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20,Uplift V2 (used/refurb):Best Premium Under $500:$400-500 used:https://www.amazon.com/s?k=UPLIFT+V2+standing+desk&tag=highlowmyst0e-20,Flexispot EC1:Best for Small Spaces:$299:https://www.amazon.com/dp/B08M2WJNCN?tag=highlowmyst0e-20,Fezibo Triple Motor:Most Stable Budget Pick:$389:https://www.amazon.com/s?k=Fezibo+triple+motor+standing+desk&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Flexispot E7:Best Overall Under $500:$449:https://www.amazon.com/s?k=Flexispot+E7+standing+desk&tag=highlowmyst0e-20,Vivo Electric 55x24:Best Budget Under $300:$249:https://www.amazon.com/s?k=Vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20,Uplift V2 (used/refurb):Best Premium Under $500:$400-500 used:https://www.amazon.com/s?k=UPLIFT+V2+standing+desk&tag=highlowmyst0e-20,Flexispot EC1:Best for Small Spaces:$299:https://www.amazon.com/dp/B08KXW53KY?tag=highlowmyst0e-20,Fezibo Triple Motor:Most Stable Budget Pick:$389:https://www.amazon.com/s?k=Fezibo+triple+motor+standing+desk&tag=highlowmyst0e-20" >}}
 
 ---
 

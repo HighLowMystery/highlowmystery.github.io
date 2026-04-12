@@ -40,7 +40,7 @@ The 5-year warranty is significantly longer than the 2–3 years typical of comp
   rating="4.7"
   pros="Adjustable lumbar height + depth,Breathable mesh (important in Malaysian heat),4D armrests,Seat depth slider,5-year warranty"
   cons="Assembly 45–60 minutes,Near the top of budget range,Limited colour options locally"
-  link="https://www.amazon.com/dp/B08HGDZ2WH?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall MY"
 >}}
 
@@ -112,7 +112,7 @@ The support and warranty experience is consistently well-reviewed by Malaysian c
   rating="4.7"
   pros="Local Malaysian/Singapore support,5-year warranty,11 adjustment points,Lumbar height + depth + curve,Strong regional reputation"
   cons="Higher price than SIHOO/Hbada,Available primarily through own website,Less widely stocked locally"
-  link="https://www.amazon.com/dp/B08HGDZ2WH?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Local Support"
 >}}
 

@@ -38,7 +38,7 @@ I've spent eight months in a Herman Miller Aeron (Size B) and four months in a S
   rating1="4.8"
   rating2="4.7"
   winner="1"
-  link1="https://www.amazon.com/dp/B01N6Q8LXV?tag=highlowmyst0e-20"
+  link1="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   link2="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   rows="Back Material:8Z Pellicle Mesh,Upholstered foam|Lumbar:PostureFit SL (adjustable),LiveBack (dynamic)|Armrests:4D fully adjustable,4D fully adjustable|Seat Material:Mesh (breathable),Foam (warm)|Forward Tilt:Optional add-on,Built-in|Best For:Average build + heat,Active sitters + larger builds|Warranty:12 years,12 years"
 >}}
@@ -47,7 +47,7 @@ I've spent eight months in a Herman Miller Aeron (Size B) and four months in a S
 
 ## The Herman Miller Aeron
 
-{{< product name="Herman Miller Aeron Chair (Size B)" price="$1,495" rating="4.8" badge="Editor's Pick" pros="Best-in-class breathability,12-year warranty,PostureFit SL lumbar system,Proven 30-year track record,Resale value holds well" cons="Mesh seat uncomfortable for some bodies,Size system confusing,Forward tilt costs extra,Heavy to move" link="https://www.amazon.com/dp/B01N6Q8LXV?tag=highlowmyst0e-20" >}}
+{{< product name="Herman Miller Aeron Chair (Size B)" price="$1,495" rating="4.8" badge="Editor's Pick" pros="Best-in-class breathability,12-year warranty,PostureFit SL lumbar system,Proven 30-year track record,Resale value holds well" cons="Mesh seat uncomfortable for some bodies,Size system confusing,Forward tilt costs extra,Heavy to move" link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20" >}}
 
 The Aeron is the reference point everything else gets compared to. The 8Z Pellicle mesh back is genuinely unlike anything else — sitting in a warm room with a laptop on your desk, it's the difference between running a fan and not running one. The lumbar support system (PostureFit SL) supports both the sacrum and lumbar simultaneously, which is uncommon and genuinely effective.
 

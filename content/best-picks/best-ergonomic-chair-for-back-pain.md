@@ -38,7 +38,7 @@ Why it works: The C7's lumbar support adjusts both vertically (to match your lum
   rating="4.7"
   pros="Lumbar adjusts height + depth,Breathable mesh,4D armrests,Seat depth slider,5-year warranty"
   cons="Assembly can take 45-60 minutes,Mesh a bit firm at first,Not many color options"
-  link="https://www.amazon.com/dp/B08HGDZ2WH?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
 >}}
 
@@ -60,7 +60,7 @@ Why it works: Aeron's PostureFit SL system provides the only true dual-zone supp
   rating="4.9"
   pros="PostureFit SL,12-year warranty,Mesh never sags,Size choice (A/B/C),Strong used market"
   cons="Very expensive new,Requires correct sizing,No foam seat (all mesh)"
-  link="https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best for Committed Sitter"
 >}}
 
@@ -82,7 +82,7 @@ Why it works: The Leap's LiveBack system contours to your shape and moves with y
   rating="4.8"
   pros="LiveBack flexes w/you,Lower firmness adjustment,Strong build,12-year warranty,Multiple finishes"
   cons="No headrest on base model,Seat is firm at first,Pricey new"
-  link="https://www.amazon.com/dp/B00BX7CBWW?tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Movers"
 >}}
 

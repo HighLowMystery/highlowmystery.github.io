@@ -40,7 +40,7 @@ Flexispot Australia ships from local warehouses with standard delivery. The 5-ye
   rating="4.7"
   pros="Adjustable lumbar height + depth,4D armrests,Seat depth slider,5-year warranty,Local AU shipping and support"
   cons="Assembly 45–60 minutes,Near top of budget range,Mesh seat firm initially"
-  link="https://www.amazon.com.au/dp/B08HGDZ2WH?tag=highlowmyst0e-20"
+  link="https://www.amazon.com.au/s?k=Flexispot+C7+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Overall AU"
 >}}
 

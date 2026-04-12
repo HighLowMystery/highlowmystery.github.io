@@ -51,7 +51,7 @@ You need to raise the screen. A laptop stand + external keyboard is the cheapest
 A $30 laptop stand + $25 keyboard = the best $55 you'll spend on your home office.
 {{< /callout >}}
 
-- **[Nexstand K2](https://www.amazon.com/dp/B01HHYQBB8?tag=highlowmyst0e-20)** — $35, foldable, 11 height positions. Best portable option.
+- **[Nexstand K2](https://www.amazon.com/s?k=nexstand+k2+laptop+stand&tag=highlowmyst0e-20)** — $35, foldable, 11 height positions. Best portable option.
 - **[Rain Design mStand](https://www.amazon.com/dp/B000OOYECC?tag=highlowmyst0e-20)** — $43, aluminum, permanent desk setup.
 
 ### External Monitor Users
