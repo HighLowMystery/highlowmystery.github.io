@@ -44,8 +44,21 @@
           "@type": "Offer",
           "price": "{{ $priceNum }}",
           "priceCurrency": "USD",
-          "availability": "https://schema.org/InStock"
+          "availability": "https://schema.org/InStock",
+          "url": "{{ $link }}",
+          "seller": {
+            "@type": "Organization",
+            "name": "Amazon"
+          }
         },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "{{ $rating }}",
+          "bestRating": "5",
+          "worstRating": "1",
+          "reviewCount": "1"
+        },
+        "image": "https://ergoremote.com/images/products/{{ $name | urlize }}.jpg",
         "review": {
           "@type": "Review",
           "reviewRating": {
@@ -90,6 +103,8 @@
          itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
       <meta itemprop="ratingValue" content="{{ $rating }}">
       <meta itemprop="bestRating" content="5">
+      <meta itemprop="worstRating" content="1">
+      <meta itemprop="reviewCount" content="1">
       {{ range seq $fullStars }}<span class="star star-full" aria-hidden="true">★</span>{{ end }}
       {{ if $halfStar }}<span class="star star-half" aria-hidden="true">½</span>{{ end }}
       {{ range seq $emptyStars }}<span class="star star-empty" aria-hidden="true">☆</span>{{ end }}
