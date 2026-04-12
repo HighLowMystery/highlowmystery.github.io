@@ -49,6 +49,37 @@
           "seller": {
             "@type": "Organization",
             "name": "Amazon"
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "US",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 30,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0",
+              "currency": "USD"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              }
+            }
           }
         },
         "aggregateRating": {
@@ -58,7 +89,7 @@
           "worstRating": "1",
           "reviewCount": "1"
         },
-        "image": "https://ergoremote.com/images/products/{{ $name | urlize }}.jpg",
+        "image": "https://ergoremote.com/images/logo.png",
         "review": {
           "@type": "Review",
           "reviewRating": {
