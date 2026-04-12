@@ -39,6 +39,7 @@
       "item": {
         "@type": "Product",
         "name": "{{ $name }}",
+        "description": "{{ with .Params.description }}{{ . }}{{ else }}{{ $name }} — reviewed for home office use.{{ end }}",
         {{ with $link }}"url": "{{ . }}",{{ end }}
         "offers": {
           "@type": "Offer",
@@ -70,7 +71,7 @@
               "handlingTime": {
                 "@type": "QuantitativeValue",
                 "minValue": 0,
-                "maxValue": 1,
+                "maxValue": 2,
                 "unitCode": "DAY"
               },
               "transitTime": {
