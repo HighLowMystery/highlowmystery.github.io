@@ -115,7 +115,7 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
   rating="4.6"
   pros="Lumbar height + depth adjustment,4D armrests,Comfortable foam seat,5-year warranty,Fast 20-minute assembly"
   cons="Foam seat warmer than mesh,Headrest sold separately,Newer brand"
-  link="https://www.amazon.com/dp/B0C15B3HN1&tag=highlowmyst0e-20"
+  link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value Under $350"
   image="https://m.media-amazon.com/images/I/61YaJCnhpnL._AC_SL1500_.jpg"
 >}}

@@ -17,17 +17,28 @@
       {{ range split .Params.items "," }}
         {{ $i = add $i 1 }}
         {{ $parts := split . ":" }}
+        {{ $name  := index $parts 0 }}
+        {{ $why   := index $parts 1 }}
+        {{ $price := index $parts 2 }}
+        {{/* Reconstruct URL: parts 3 onward joined by ":" to handle https:// correctly */}}
+        {{ $linkParts := after 3 $parts }}
+        {{ $link := "" }}
+        {{ if gt (len $parts) 3 }}
+          {{ $link = index $parts 3 }}
+          {{ range $idx, $p := $linkParts }}
+            {{ if gt $idx 0 }}
+              {{ $link = printf "%s:%s" $link $p }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
         <tr>
           <td class="pick-num">{{ $i }}</td>
-          <td class="pick-name">{{ index $parts 0 }}</td>
-          <td class="pick-why">{{ index $parts 1 }}</td>
-          <td class="pick-price">{{ index $parts 2 }}</td>
+          <td class="pick-name">{{ $name }}</td>
+          <td class="pick-why">{{ $why }}</td>
+          <td class="pick-price">{{ $price }}</td>
           <td>
-            {{ if gt (len $parts) 3 }}
-              {{ $link := index $parts 3 }}
-              {{ if $link }}
-                <a href="{{ $link }}" class="btn btn-sm btn-buy" target="_blank" rel="nofollow noopener sponsored">Buy →</a>
-              {{ end }}
+            {{ if $link }}
+              <a href="{{ $link }}" class="btn btn-sm btn-buy" target="_blank" rel="nofollow noopener sponsored">Buy →</a>
             {{ end }}
           </td>
         </tr>
