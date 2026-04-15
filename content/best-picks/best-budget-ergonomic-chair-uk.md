@@ -44,6 +44,7 @@ The headrest is adjustable in both height and angle, and the recline has a lock 
   cons="Assembly around 45 minutes,Seat cushion slightly firm,Newer brand"
   link="https://www.amazon.co.uk/dp/B09W5B2NVH?tag=highlowmyst0e-20"
   badge="Best Overall UK"
+  image="https://m.media-amazon.com/images/I/61dYrFtVIiL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** UK remote workers who want genuine ergonomic adjustability without crossing the £300 mark.
@@ -68,6 +69,7 @@ The main limitation: armrests only adjust height, not angle or depth. If you res
   cons="Armrests height-only (1D),No lumbar depth adjustment,Assembly instructions unclear"
   link="https://www.amazon.co.uk/dp/B08R3CLQDD?tag=highlowmyst0e-20"
   badge="Best Under £200"
+  image="https://m.media-amazon.com/images/I/61HMzq0GKZL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** UK buyers on a tighter budget who still need functional lumbar support rather than a budget chair with ergonomic branding.
@@ -92,6 +94,7 @@ If you're planning to use this chair for 3–5 years, the extra £50 over the E3
   cons="Slightly over £300,Assembly 45–60 minutes,Limited colour options in UK"
   link="https://www.amazon.co.uk/dp/B08HGDZ2WH?tag=highlowmyst0e-20"
   badge="Best Build Quality"
+  image="https://m.media-amazon.com/images/I/71j0BOH8jkL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** UK buyers willing to spend a bit more for the confidence of a 5-year warranty and better long-term durability.
@@ -116,6 +119,7 @@ Build quality is a step below the SIHOO and Hbada, but for people who specifical
   cons="Build quality below C7/Hbada,2-year warranty only,Less known brand,Armrests basic"
   link="https://www.amazon.co.uk/dp/B09NQMB2TZ?tag=highlowmyst0e-20"
   badge="Best for Recline Support"
+  image="https://m.media-amazon.com/images/I/61dYrFtVIiL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** UK buyers who spend significant time reclined while working and need lumbar support that doesn't disappear when they lean back.
@@ -140,6 +144,7 @@ It fits smaller spaces well and suits home office setups where visual appeal mat
   cons="Lumbar depth not adjustable,Armrests basic (height only),Not ideal for users over 6ft"
   link="https://www.amazon.co.uk/dp/B09P3FV5P4?tag=highlowmyst0e-20"
   badge="Best Design"
+  image="https://m.media-amazon.com/images/I/71j0BOH8jkL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** UK remote workers who want a genuinely ergonomic chair that doesn't look like it was lifted from a call centre.

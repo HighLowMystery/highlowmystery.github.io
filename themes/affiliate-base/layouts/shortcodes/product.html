@@ -11,6 +11,7 @@
 {{ with .Params.rating }}{{ $rating = . | float }}{{ end }}
 {{ $link   := .Params.link   | default "" }}
 {{ $badge  := .Params.badge  | default "" }}
+{{ $image  := .Params.image  | default "" }}
 
 {{/* Stars */}}
 {{ $fullStars  := int $rating }}
@@ -90,7 +91,7 @@
           "worstRating": "1",
           "reviewCount": "1"
         },
-        "image": "https://ergoremote.com/images/logo.png",
+        "image": "{{ if $image }}{{ $image }}{{ else }}https://ergoremote.com/images/logo.png{{ end }}",
         "review": {
           "@type": "Review",
           "reviewRating": {
@@ -129,6 +130,13 @@
 <div class="product-card" itemscope itemtype="https://schema.org/Product">
   {{ with $badge }}<span class="product-badge">{{ . }}</span>{{ end }}
   <div class="product-card-body">
+    {{ with $image }}
+    <div class="product-image">
+      <a href="{{ $link }}" target="_blank" rel="nofollow noopener sponsored">
+        <img src="{{ . }}" alt="{{ $name }}" loading="lazy" width="300" height="300">
+      </a>
+    </div>
+    {{ end }}
     <h3 class="product-name" itemprop="name">{{ $name }}</h3>
 
     <div class="product-rating" aria-label="Rating: {{ $rating }} out of 5"

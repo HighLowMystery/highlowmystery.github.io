@@ -42,6 +42,7 @@ Flexispot Australia ships from local warehouses with standard delivery. The 5-ye
   cons="Assembly 45–60 minutes,Near top of budget range,Mesh seat firm initially"
   link="https://www.amazon.com.au/s?k=Flexispot+C7+ergonomic+chair&tag=highlowmyst0e-20"
   badge="Best Overall AU"
+  image="https://m.media-amazon.com/images/I/71j0BOH8jkL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Australian remote workers who want the most ergonomic adjustability under AU$500 and want a local warranty.
@@ -66,6 +67,7 @@ Armrests are height-only, which is the main trade-off vs. higher-priced options.
   cons="Armrests height-only (1D),No lumbar depth adjustment,Assembly instructions unclear"
   link="https://www.amazon.com.au/dp/B08R3CLQDD?tag=highlowmyst0e-20"
   badge="Best Under AU$400"
+  image="https://m.media-amazon.com/images/I/61HMzq0GKZL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Australian buyers upgrading from a non-ergonomic chair who need functional lumbar support without crossing AU$400.
@@ -90,6 +92,7 @@ The build quality is competitive with SIHOO at a slightly higher price — the m
   cons="Lumbar height only (no depth),3D armrests (not 4D),Less adjustability than C7"
   link="https://www.amazon.com.au/dp/B09K9XFMFP?tag=highlowmyst0e-20"
   badge="Best Local Brand"
+  image="https://m.media-amazon.com/images/I/61YGlHkTjoL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Australian buyers who want to see the chair in person before buying and prefer domestic brand warranty support.
@@ -114,6 +117,7 @@ The main reason to choose the C7 over the E3 Pro is the 5-year warranty vs. 3 ye
   cons="3-year warranty (vs C7's 5yr),Slightly lower build quality than Flexispot,Assembly 45 minutes"
   link="https://www.amazon.com.au/dp/B09W5B2NVH?tag=highlowmyst0e-20"
   badge="Best Features-Per-Dollar"
+  image="https://m.media-amazon.com/images/I/61dYrFtVIiL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Buyers who want C7-level adjustability at a slightly lower price and are comfortable with the shorter warranty.
@@ -136,6 +140,7 @@ If you're in a major Australian city with access to secondhand office furniture 
   cons="Requires in-person inspection before buying,No new warranty coverage,Condition varies,Mainly available in major cities"
   link="https://www.amazon.com.au/s?k=Herman+Miller+Aeron+chair&tag=highlowmyst0e-20"
   badge="Best Secondhand Value"
+  image="https://m.media-amazon.com/images/I/71sGDLa8iDL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Australian buyers in Sydney, Melbourne, or Brisbane who are comfortable buying secondhand and want the best build quality at budget prices.

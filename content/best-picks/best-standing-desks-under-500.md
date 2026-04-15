@@ -54,7 +54,7 @@ If you're just buying one because it looks cool on video calls, a $200 fixed des
 
 **Verdict:** Best overall standing desk under $500 — dual-motor, 355 lb capacity, and a 10-year frame warranty that competitors don't match. The control box sits under the desk and can feel cluttered; plan your cable management before assembling.
 
-{{< product name="Flexispot E7 Pro Standing Desk" price="$449" rating="4.7" badge="Best Overall" pros="Dual-motor insanely stable,450 lb weight capacity,4 memory presets,Anti-collision protection,10-year frame warranty" cons="Top not included (add $80-120),Assembly takes 90 minutes,Control panel on the basic side" link="https://www.amazon.com/s?k=flexispot+e7+standing+desk&tag=highlowmyst0e-20" >}}
+{{< product name="Flexispot E7 Pro Standing Desk" price="$449" rating="4.7" badge="Best Overall" pros="Dual-motor insanely stable,450 lb weight capacity,4 memory presets,Anti-collision protection,10-year frame warranty" cons="Top not included (add $80-120),Assembly takes 90 minutes,Control panel on the basic side" link="https://www.amazon.com/s?k=flexispot+e7+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71f3mknFTXL._AC_SL1500_.jpg" >}}
 
 The E7 is what I'd buy if I were starting over. The dual-motor setup makes it dramatically more stable than single-motor competitors at this price — I've had both, and the difference is noticeable the moment you start typing at standing height.
 
@@ -70,7 +70,7 @@ Assembly genuinely takes 90 minutes the first time. Watch the YouTube guide, not
 
 **Verdict:** Best budget electric standing desk under $300 for people who just want to stand occasionally without spending serious money. Single motor and narrower frame means slight wobble at full height — acceptable for typing, noticeable for mousing.
 
-{{< product name="Vivo Electric Height Adjustable Desk 55x24" price="$249" rating="4.3" badge="Best Budget" pros="Under $250 with top included,Decent stability for the price,3 memory presets,Good warranty for the price" cons="Single motor wobbles more than dual at full height,Lower weight capacity (110 lbs),Motor is louder than premium options,Customer support is slow" link="https://www.amazon.com/s?k=vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20" >}}
+{{< product name="Vivo Electric Height Adjustable Desk 55x24" price="$249" rating="4.3" badge="Best Budget" pros="Under $250 with top included,Decent stability for the price,3 memory presets,Good warranty for the price" cons="Single motor wobbles more than dual at full height,Lower weight capacity (110 lbs),Motor is louder than premium options,Customer support is slow" link="https://www.amazon.com/s?k=vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71HsAVOUHfL._AC_SL1500_.jpg" >}}
 
 For under $250 with the top included, the Vivo is hard to beat. It's not as stable as the Flexispot at max height, but if you're a laptop-and-one-monitor person, it's more than enough.
 
@@ -84,7 +84,7 @@ Don't buy it if you have a heavy dual-monitor setup. Two 27-inch monitors plus a
 
 **Verdict:** Best compact standing desk for small spaces — fits a 48x24 surface in a studio apartment or shared office corner. Lighter-duty than the E7; fine for a monitor and laptop, but don't expect it to hold dual monitors plus peripherals without sway.
 
-{{< product name="Flexispot EC1 Standing Desk 48x24" price="$299" rating="4.5" badge="Best Small Space" pros="48x24 footprint fits tighter setups,Single motor but cross-beam stability,Decent 154 lb capacity,Straightforward controls" cons="No programmable presets on base model,48 inches wide limits some dual-monitor setups,Single motor — less smooth than E7" link="https://www.amazon.com/s?k=flexispot+EC1+standing+desk&tag=highlowmyst0e-20" >}}
+{{< product name="Flexispot EC1 Standing Desk 48x24" price="$299" rating="4.5" badge="Best Small Space" pros="48x24 footprint fits tighter setups,Single motor but cross-beam stability,Decent 154 lb capacity,Straightforward controls" cons="No programmable presets on base model,48 inches wide limits some dual-monitor setups,Single motor — less smooth than E7" link="https://www.amazon.com/s?k=flexispot+EC1+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71D9z8K0oeL._AC_SL1500_.jpg" >}}
 
 If your home office is tight — a spare bedroom or a corner of a room — the EC1's 48-inch width is a legitimate advantage. I've seen people try to squeeze a 60-inch desk into a space that needed 48 and regret it immediately.
 

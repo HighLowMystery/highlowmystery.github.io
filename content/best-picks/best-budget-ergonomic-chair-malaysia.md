@@ -42,6 +42,7 @@ The 5-year warranty is significantly longer than the 2–3 years typical of comp
   cons="Assembly 45–60 minutes,Near the top of budget range,Limited colour options locally"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall MY"
+  image="https://m.media-amazon.com/images/I/71j0BOH8jkL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Malaysian remote workers who want the most adjustability under RM1,500 and plan to use the chair for 4–5+ years.
@@ -66,6 +67,7 @@ The limitation: armrests only adjust height, not angle or depth. If your desk se
   cons="Armrests height-only (1D),No lumbar depth adjustment,Assembly manual only in English/Chinese"
   link="https://www.amazon.com/dp/B08R3CLQDD?tag=highlowmyst0e-20"
   badge="Best Under RM900"
+  image="https://m.media-amazon.com/images/I/61HMzq0GKZL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Malaysian buyers on a tighter budget who need functional lumbar support and can live with basic armrests.
@@ -90,6 +92,7 @@ If the C7 is slightly out of budget, the E3 Pro is the strongest alternative —
   cons="Newer brand with less track record,Assembly around 45 minutes,Seat cushion slightly firm"
   link="https://www.amazon.com/dp/B09W5B2NVH?tag=highlowmyst0e-20"
   badge="Best Mid-Range MY"
+  image="https://m.media-amazon.com/images/I/61dYrFtVIiL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Malaysian buyers who want lumbar depth adjustment (a meaningful upgrade) without reaching the C7 price point.
@@ -114,6 +117,7 @@ The support and warranty experience is consistently well-reviewed by Malaysian c
   cons="Higher price than SIHOO/Hbada,Available primarily through own website,Less widely stocked locally"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Local Support"
+  image="https://m.media-amazon.com/images/I/71rL5E3JGRL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Malaysian buyers who prioritise local warranty support and want confidence that returns and replacements won't require international shipping.
@@ -136,6 +140,7 @@ Important note: the lumbar "support" here is a cushion attached via strap, not a
   cons="Strap-attached lumbar (less precise than built-in),PU leather gets warm in Malaysian climate,2-year warranty only,Heavier to assemble"
   link="https://www.amazon.com/dp/B07GXKVY7P?tag=highlowmyst0e-20"
   badge="Best Racing Style"
+  image="https://m.media-amazon.com/images/I/71HZmtbnfpL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Malaysian buyers who prefer the gaming/racing chair look or a softer seating surface, and don't need a built-in adjustable lumbar mechanism.

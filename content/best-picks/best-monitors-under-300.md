@@ -56,7 +56,7 @@ The fix is a 24-27 inch monitor at eye level — top of screen at or just below 
 
 **Verdict:** Best overall 27-inch home office monitor under $200 — IPS panel, height adjustment, and USB-C for a single-cable laptop setup. No USB-C on this model; you'll need a separate hub if your laptop is USB-C only.
 
-{{< product name="LG 27MN60T-B 27-Inch FHD IPS Monitor" price="$189" rating="4.5" badge="Best Overall" pros="IPS panel with good color accuracy,HDMI + DisplayPort inputs,75Hz (smoother than 60Hz for scrolling),Decent contrast for IPS,FreeSync support" cons="No USB-C,Stand only adjusts tilt (not height — buy a monitor arm),Bezels aren't slim" link="https://www.amazon.com/dp/B08FC6FFL4?tag=highlowmyst0e-20" >}}
+{{< product name="LG 27MN60T-B 27-Inch FHD IPS Monitor" price="$189" rating="4.5" badge="Best Overall" pros="IPS panel with good color accuracy,HDMI + DisplayPort inputs,75Hz (smoother than 60Hz for scrolling),Decent contrast for IPS,FreeSync support" cons="No USB-C,Stand only adjusts tilt (not height — buy a monitor arm),Bezels aren't slim" link="https://www.amazon.com/dp/B08FC6FFL4?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/81YFe0nGR4L._AC_SL1500_.jpg" >}}
 
 This is the monitor I'd recommend to someone building their first real home office setup. At $189, the IPS panel delivers good color accuracy and wide viewing angles — important for both work and video calls where you want accurate skin tones.
 
@@ -70,7 +70,7 @@ No USB-C is the real limitation. If your laptop charges via USB-C and you want a
 
 **Verdict:** Best USB-C monitor under $300 for MacBook and Dell laptop users — single cable carries power and video simultaneously. The 75Hz refresh rate is fine for productivity but noticeable if you game on the side.
 
-{{< product name="Dell S2722DC 27-Inch USB-C Monitor" price="$279" rating="4.6" badge="Best USB-C Pick" pros="USB-C with 65W power delivery (one cable setup),QHD 1440p resolution,Height-adjustable stand included,Solid IPS color" cons="At $279 it's at the top of this guide's budget,USB-C only delivers 65W (some laptops need 90W+),Speakers are underwhelming" link="https://www.amazon.com/dp/B08FRJ1QCN?tag=highlowmyst0e-20" >}}
+{{< product name="Dell S2722DC 27-Inch USB-C Monitor" price="$279" rating="4.6" badge="Best USB-C Pick" pros="USB-C with 65W power delivery (one cable setup),QHD 1440p resolution,Height-adjustable stand included,Solid IPS color" cons="At $279 it's at the top of this guide's budget,USB-C only delivers 65W (some laptops need 90W+),Speakers are underwhelming" link="https://www.amazon.com/dp/B08FRJ1QCN?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71fGi5QVQSL._AC_SL1500_.jpg" >}}
 
 If you have a MacBook, Dell XPS, or any modern laptop that charges via USB-C, the S2722DC is a genuine quality-of-life upgrade. One USB-C cable: video signal + 65W charging. Clean desk, no adapter clutter.
 
@@ -84,7 +84,7 @@ Check that your laptop supports 65W charging via USB-C before buying — some ol
 
 **Verdict:** Best budget 24-inch pick for a secondary monitor or for desk setups with limited space. The stand only tilts — no height adjustment means you'll need a monitor arm for proper ergonomic positioning.
 
-{{< product name="LG 24MK430H-B 24-Inch FHD IPS" price="$149" rating="4.4" badge="Best Budget" pros="Under $150,IPS panel (rare at this price),Good color for the money,Compact — good for small desks" cons="24 inches feels small once you go 27,No height adjustment on stand,Basic connectivity (HDMI + VGA)" link="https://www.amazon.com/s?k=LG+24MK430H+monitor&tag=highlowmyst0e-20" >}}
+{{< product name="LG 24MK430H-B 24-Inch FHD IPS" price="$149" rating="4.4" badge="Best Budget" pros="Under $150,IPS panel (rare at this price),Good color for the money,Compact — good for small desks" cons="24 inches feels small once you go 27,No height adjustment on stand,Basic connectivity (HDMI + VGA)" link="https://www.amazon.com/s?k=LG+24MK430H+monitor&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71K7ZoH5qJL._AC_SL1500_.jpg" >}}
 
 The 24MK430H is the monitor I'd buy if I had a strict $150 budget. IPS at under $150 used to be hard to find — at this price it's the clear choice over TN alternatives.
 

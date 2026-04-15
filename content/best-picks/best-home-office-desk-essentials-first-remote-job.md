@@ -54,9 +54,9 @@ Option B is the better starter if budget is tight. $70 total (stand + keyboard) 
 
 You're in it for 8 hours. It matters more than almost anything else on this list.
 
-{{< product name="Sihoo M57 Ergonomic Chair" price="$279" rating="4.4" badge="Best First Chair" pros="Under $300 with decent lumbar,Mesh back for breathability,Adjustable headrest included,Looks professional on video calls" cons="Lumbar position is fixed (not height adjustable),Armrests only go up/down (not 4D),Not ideal for people over 6'1" link="https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=highlowmyst0e-20" >}}
+{{< product name="Sihoo M57 Ergonomic Chair" price="$279" rating="4.4" badge="Best First Chair" pros="Under $300 with decent lumbar,Mesh back for breathability,Adjustable headrest included,Looks professional on video calls" cons="Lumbar position is fixed (not height adjustable),Armrests only go up/down (not 4D),Not ideal for people over 6'1" link="https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/61HMzq0GKZL._AC_SL1500_.jpg" >}}
 
-{{< product name="Autonomous ErgoChair Pro" price="$349" rating="4.6" badge="Best Under $400" pros="Adjustable lumbar height AND depth,Full 4D armrests,Great for long hours,Durable mesh back" cons="Assembly takes 45+ minutes,Seat is firm for first 2-3 weeks,Controls take some learning" link="https://www.amazon.com/dp/B0FL2JGMK5&tag=highlowmyst0e-20" >}}
+{{< product name="Autonomous ErgoChair Pro" price="$349" rating="4.6" badge="Best Under $400" pros="Adjustable lumbar height AND depth,Full 4D armrests,Great for long hours,Durable mesh back" cons="Assembly takes 45+ minutes,Seat is firm for first 2-3 weeks,Controls take some learning" link="https://www.amazon.com/dp/B0FL2JGMK5&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71rL5E3JGRL._AC_SL1500_.jpg" >}}
 
 If you're spending 6+ hours sitting daily and your company isn't reimbursing equipment, the ErgoChair Pro is the move. The adjustable lumbar depth is what separates it from everything else at this price.
 
@@ -68,7 +68,7 @@ If your company has a home office stipend (many do — ask HR), use it on this f
 
 Your laptop's built-in webcam is probably fine for casual calls. It becomes a problem when you're meeting with external clients, interviewing, or presenting. A $65 external webcam immediately makes you look more professional — better framing, better low-light performance, better image quality.
 
-{{< product name="Logitech C920x HD Pro Webcam" price="$65" rating="4.6" badge="Best Value Webcam" pros="Sharp 1080p image,Good low-light performance,Works on every platform,Clip mounts on any monitor" cons="Fixed focus (not ideal for macro close-ups),No 4K,Cable is permanently attached" link="https://www.amazon.com/s?k=logitech+c920+webcam&tag=highlowmyst0e-20" >}}
+{{< product name="Logitech C920x HD Pro Webcam" price="$65" rating="4.6" badge="Best Value Webcam" pros="Sharp 1080p image,Good low-light performance,Works on every platform,Clip mounts on any monitor" cons="Fixed focus (not ideal for macro close-ups),No 4K,Cable is permanently attached" link="https://www.amazon.com/s?k=logitech+c920+webcam&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71mk2HNMLEL._AC_SL1500_.jpg" >}}
 
 One honest tip: lighting matters more than the camera. A $65 webcam with a decent light beats a $150 webcam in a dark room every time.
 
@@ -88,7 +88,7 @@ This is the highest-ROI purchase most people ignore. Position a light source in 
 
 Your laptop keyboard is fine for occasional use. For 8 hours of daily typing, the shallow travel and cramped layout adds up. A decent external keyboard is a $40-80 fix.
 
-{{< product name="Logitech MX Keys Mini" price="$75" rating="4.5" badge="Best Wireless Keyboard" pros="Great key feel for typing,Compact — doesn't take up much desk space,Multi-device pairing (switch between laptop, desktop, tablet),Backlit keys,Long battery life" cons="No numpad,Premium price for a keyboard,Batteries not rechargeable via USB on older models" link="https://www.amazon.com/s?k=logitech+mx+keys+mini&tag=highlowmyst0e-20" >}}
+{{< product name="Logitech MX Keys Mini" price="$75" rating="4.5" badge="Best Wireless Keyboard" pros="Great key feel for typing,Compact — doesn't take up much desk space,Multi-device pairing (switch between laptop, desktop, tablet),Backlit keys,Long battery life" cons="No numpad,Premium price for a keyboard,Batteries not rechargeable via USB on older models" link="https://www.amazon.com/s?k=logitech+mx+keys+mini&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg" >}}
 
 For mice: the Logitech MX Master 3 (~$80) is the best ergonomic mouse at any price point — scroll wheel, programmable buttons, comfortable for full-day use. If that's too much, the Logitech M705 (~$35) is reliable and ergonomically sound.
 

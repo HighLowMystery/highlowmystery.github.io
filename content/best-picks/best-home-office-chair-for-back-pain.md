@@ -43,6 +43,7 @@ The mesh back keeps airflow going during long sessions. Armrests adjust 4-ways. 
   pros="Adjustable lumbar height + depth,Breathable mesh back,4D armrests,Seat depth slider,5-year warranty"
   cons="Assembly takes 45–60 minutes,Mesh may feel firm at first,Limited color options"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
+  image="https://m.media-amazon.com/images/I/71j0BOH8jkL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Most remote workers dealing with lower back pain who want real ergonomic adjustability under $400.
@@ -67,6 +68,7 @@ It's expensive. But a refurbished Aeron from a reputable dealer runs $600–800 
   cons="High price new,Requires size selection (A/B/C),Minimal seat padding (mesh-only)"
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Premium Pick"
+  image="https://m.media-amazon.com/images/I/71sGDLa8iDL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** People who sit 8+ hours daily, have serious back issues, or want to buy once and never think about chairs again.
@@ -91,6 +93,7 @@ One caveat: the armrests only adjust height, not 4-ways. If you rest your arms a
   cons="Armrests height-only (no 4D),Less refined than C7,Assembly manual unclear"
   link="https://www.amazon.com/dp/B08R3CLQDD?tag=highlowmyst0e-20"
   badge="Best Budget"
+  image="https://m.media-amazon.com/images/I/61HMzq0GKZL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Remote workers on a tighter budget who still need real lumbar adjustability, not just a lumbar-shaped decorative bump.
@@ -115,6 +118,7 @@ Like the Aeron, look for certified refurbished units. The frame is built to last
   cons="No headrest included,Expensive new,Seat cushion may feel firm initially"
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Active Sitters"
+  image="https://m.media-amazon.com/images/I/71HNwNkVe1L._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** People who shift posture constantly and find static lumbar support chairs uncomfortable after a few hours.
@@ -139,6 +143,7 @@ It ships free and assembles in about 20 minutes — the clearest instructions I'
   cons="Less airflow than full-mesh chairs,Newer brand (less long-term data),Headrest sold separately"
   link="https://www.amazon.com/dp/B0C15B3HN1&tag=highlowmyst0e-20"
   badge="Best Value"
+  image="https://m.media-amazon.com/images/I/61YaJCnhpnL._AC_SL1500_.jpg"
 >}}
 
 **Who it's for:** Remote workers who want ergonomic adjustability and a foam seat (warmer, softer) at a price under $350.
