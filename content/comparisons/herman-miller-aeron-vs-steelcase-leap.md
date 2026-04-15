@@ -47,7 +47,7 @@ I've spent eight months in a Herman Miller Aeron (Size B) and four months in a S
 
 ## The Herman Miller Aeron
 
-{{< product name="Herman Miller Aeron Chair (Size B)" price="$1,495" rating="4.8" badge="Editor's Pick" pros="Best-in-class breathability,12-year warranty,PostureFit SL lumbar system,Proven 30-year track record,Resale value holds well" cons="Mesh seat uncomfortable for some bodies,Size system confusing,Forward tilt costs extra,Heavy to move" link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71sGDLa8iDL._AC_SL1500_.jpg" >}}
+{{< product name="Herman Miller Aeron Chair (Size B)" price="$1,495" rating="4.8" badge="Editor's Pick" pros="Best-in-class breathability,12-year warranty,PostureFit SL lumbar system,Proven 30-year track record,Resale value holds well" cons="Mesh seat uncomfortable for some bodies,Size system confusing,Forward tilt costs extra,Heavy to move" link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20" image="/images/products/herman-miller-aeron.jpg" >}}
 
 The Aeron is the reference point everything else gets compared to. The 8Z Pellicle mesh back is genuinely unlike anything else — sitting in a warm room with a laptop on your desk, it's the difference between running a fan and not running one. The lumbar support system (PostureFit SL) supports both the sacrum and lumbar simultaneously, which is uncommon and genuinely effective.
 
@@ -59,7 +59,7 @@ Honest downside: the mesh seat can create pressure points for people with less b
 
 ## The Steelcase Leap V2
 
-{{< product name="Steelcase Leap V2 Chair" price="$1,395" rating="4.7" badge="Best for Active Sitters" pros="LiveBack mimics spine movement,Natural recline feels excellent,Foam seat suits more bodies,Better for larger frames,Height range covers 6'4\"+" cons="Gets warm (foam back),No mesh option,Heavier than it looks,Less iconic design" link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71HNwNkVe1L._AC_SL1500_.jpg" >}}
+{{< product name="Steelcase Leap V2 Chair" price="$1,395" rating="4.7" badge="Best for Active Sitters" pros="LiveBack mimics spine movement,Natural recline feels excellent,Foam seat suits more bodies,Better for larger frames,Height range covers 6'4\"+" cons="Gets warm (foam back),No mesh option,Heavier than it looks,Less iconic design" link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20" image="/images/products/steelcase-leap-v2.jpg" >}}
 
 The Leap's differentiator is the LiveBack system — the backrest actually flexes to follow your spine as you shift posture through the day. If you're someone who leans, twists, and moves while working (rather than sitting rigidly), the Leap feels more natural. It adjusts to you rather than requiring you to maintain one "correct" posture.
 

@@ -60,7 +60,7 @@ The wobble at maximum height is real. At the second-highest position, it's solid
 
 **Verdict:** Best fixed aluminum stand for a clean, permanent desk setup — solid, heavy, and looks premium next to a MacBook. Fixed height means you must verify the ergonomic fit for your chair height before buying.
 
-{{< product name="Rain Design mStand" price="$43" rating="4.7" badge="Best Desk Stand" pros="Premium aluminum build,Matches MacBook aesthetic,Excellent stability,Cable management slot" cons="Only one height,No angle adjustment,Laptop slides on cheap rubber" link="https://www.amazon.com/dp/B000OOYECC?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/41lEkj6nMqL._AC_SL1000_.jpg" >}}
+{{< product name="Rain Design mStand" price="$43" rating="4.7" badge="Best Desk Stand" pros="Premium aluminum build,Matches MacBook aesthetic,Excellent stability,Cable management slot" cons="Only one height,No angle adjustment,Laptop slides on cheap rubber" link="https://www.amazon.com/dp/B000OOYECC?tag=highlowmyst0e-20" image="/images/products/rain-design-mstand.jpg" >}}
 
 Eleven inches is the only height you get. That happens to be the right height for me sitting at a standard 30-inch desk with a standard chair — your situation may vary. If it fits, nothing in this price range beats the build quality. Solid aluminum, no flex, no creak, looks like it belongs next to an Apple product because it basically does.
 
@@ -72,7 +72,7 @@ One honest issue: the rubber pads on the ramp aren't grippy enough for slick Mac
 
 **Verdict:** Best adjustable budget pick under $30 — 11 height positions and a grippy surface that holds laptops up to 17 inches. The plastic hinges work fine initially but loosen after 6–12 months of daily height adjustments.
 
-{{< product name="Nulaxy C3" price="$27" rating="4.3" badge="Budget" pros="6 height settings,Foldable,Fits 10-17.3\" laptops,Cheap" cons="Plastic build,Hinge loosens over time,No cable management" link="https://www.amazon.com/dp/B07P54RSPY?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71Y-wWIIFGL._AC_SL1500_.jpg" >}}
+{{< product name="Nulaxy C3" price="$27" rating="4.3" badge="Budget" pros="6 height settings,Foldable,Fits 10-17.3\" laptops,Cheap" cons="Plastic build,Hinge loosens over time,No cable management" link="https://www.amazon.com/dp/B07P54RSPY?tag=highlowmyst0e-20" image="/images/products/nulaxy-c3.jpg" >}}
 
 Best case scenario: you spend $27, get 18 months of daily use, and upgrade to something better when you're ready. I've recommended this to three people starting WFH setups on tight budgets and all three are still using it. The hinge loosens around the 12-month mark — tighten the screw and it's fine.
 
@@ -82,7 +82,7 @@ Best case scenario: you spend $27, get 18 months of daily use, and upgrade to so
 
 **Verdict:** Best premium stand for MacBook users who want a near-seamless aluminum aesthetic on their desk. Expensive for what it does — pay the premium only if the aesthetics genuinely matter to your workspace.
 
-{{< product name="Twelve South Curve" price="$79" rating="4.6" badge="Premium" pros="Gorgeous design,Very stable,Rear storage compartment,Lifetime warranty" cons="Expensive,$79 for a stand,Only one height,Heavy" link="https://www.amazon.com/dp/B081W9MRKG?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71RHNWAS7kL._AC_SL1500_.jpg" >}}
+{{< product name="Twelve South Curve" price="$79" rating="4.6" badge="Premium" pros="Gorgeous design,Very stable,Rear storage compartment,Lifetime warranty" cons="Expensive,$79 for a stand,Only one height,Heavy" link="https://www.amazon.com/dp/B081W9MRKG?tag=highlowmyst0e-20" image="/images/products/twelve-south-curve.jpg" >}}
 
 I wouldn't recommend this for everyone — $79 is a lot for a stand. But if you care about desk aesthetics and want something you buy once and never think about again, the Curve is the answer. The rear storage compartment is more useful than it sounds: it holds a passport, a small notebook, a few cables. And the lifetime warranty means Twelve South will actually replace it if something goes wrong.
 

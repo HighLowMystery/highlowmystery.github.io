@@ -40,7 +40,7 @@ Why it works: The C7's lumbar support adjusts both vertically (to match your lum
   cons="Assembly can take 45-60 minutes,Mesh a bit firm at first,Not many color options"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
-  image="https://m.media-amazon.com/images/I/71j0BOH8jkL._AC_SL1500_.jpg"
+  image="/images/products/flexispot-c7.jpg"
 >}}
 
 **Who it's for:** Anyone with low-to-moderate back pain who needs custom lumbar positioning but doesn't want to spend Aeron money.
@@ -63,7 +63,7 @@ Why it works: Aeron's PostureFit SL system provides the only true dual-zone supp
   cons="Very expensive new,Requires correct sizing,No foam seat (all mesh)"
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best for Committed Sitter"
-  image="https://m.media-amazon.com/images/I/71sGDLa8iDL._AC_SL1500_.jpg"
+  image="/images/products/herman-miller-aeron.jpg"
 >}}
 
 **Who it's for:** Serious back pain sufferers, or people who want the "final chair purchase ever" with zero compromises.
@@ -86,7 +86,7 @@ Why it works: The Leap's LiveBack system contours to your shape and moves with y
   cons="No headrest on base model,Seat is firm at first,Pricey new"
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Movers"
-  image="https://m.media-amazon.com/images/I/71HNwNkVe1L._AC_SL1500_.jpg"
+  image="/images/products/steelcase-leap-v2.jpg"
 >}}
 
 **Who it's for:** Restless workers who struggle with fixed-back chairs, or anyone who wants variety in seating posture.
