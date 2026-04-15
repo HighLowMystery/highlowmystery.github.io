@@ -29,7 +29,7 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
 
 ---
 
-{{< quickpicks items="SIHOO M57:Best Under $300:$279:https://www.amazon.com/dp/B0CLLRNFB8&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$339:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:$329:https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:$349:https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:$139:https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="SIHOO M57:Best Under $300:$279:https://www.amazon.com/dp/B07BDFW1Y7&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:$339:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:$329:https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:$349:https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:$139:https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" >}}
 
 ---
 
@@ -43,7 +43,7 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
   rating1="4.4"
   rating2="4.5"
   winner="2"
-  link1="https://www.amazon.com/dp/B0CLLRNFB8&tag=highlowmyst0e-20"
+  link1="https://www.amazon.com/dp/B07BDFW1Y7&tag=highlowmyst0e-20"
   link2="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   rows="Lumbar Support:Adjustable Height,Integrated|Seat Depth:17.5 in,18.1 in|Armrests:3D Adjustable,3D Adjustable|Max Height:47.6 in,49.2 in|Weight Limit:300 lbs,275 lbs|Warranty:3 Years,5 Years"
 >}}
@@ -63,7 +63,7 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
 
 **Verdict:** Best sub-$300 mesh chair with adjustable lumbar height and a moveable headrest — more than any competitor offers at this price. Armrests only adjust in height, not angle or width, which matters if you're broad-shouldered.
 
-{{< product name="SIHOO M57" price="$279" rating="4.4" badge="Budget Pick" pros="Adjustable lumbar,3D armrests,Mesh back,Easy assembly" cons="Fixed headrest,Armrests wobble,Narrow seat for big frames" link="https://www.amazon.com/dp/B0CLLRNFB8&tag=highlowmyst0e-20" image="/images/products/sihoo-m57.jpg" >}}
+{{< product name="SIHOO M57" price="$279" rating="4.4" badge="Budget Pick" pros="Adjustable lumbar,3D armrests,Mesh back,Easy assembly" cons="Fixed headrest,Armrests wobble,Narrow seat for big frames" link="https://www.amazon.com/dp/B07BDFW1Y7&tag=highlowmyst0e-20" image="/images/products/sihoo-m57.jpg" >}}
 
 If you're on a tight budget and want something actually ergonomic, the M57 is my go-to suggestion. The lumbar support actually *moves* (rare under $300), mesh feels solid, and it doesn't look out of place in a Zoom call. Downside: headrest isn't truly adjustable and wider folks will want more seat width.
 

@@ -54,7 +54,7 @@ Option B is the better starter if budget is tight. $70 total (stand + keyboard) 
 
 You're in it for 8 hours. It matters more than almost anything else on this list.
 
-{{< product name="Sihoo M57 Ergonomic Chair" price="$279" rating="4.4" badge="Best First Chair" pros="Under $300 with decent lumbar,Mesh back for breathability,Adjustable headrest included,Looks professional on video calls" cons="Lumbar position is fixed (not height adjustable),Armrests only go up/down (not 4D),Not ideal for people over 6'1" link="https://www.amazon.com/dp/B0CLLRNFB8&tag=highlowmyst0e-20" image="/images/products/sihoo-m57.jpg" >}}
+{{< product name="Sihoo M57 Ergonomic Chair" price="$279" rating="4.4" badge="Best First Chair" pros="Under $300 with decent lumbar,Mesh back for breathability,Adjustable headrest included,Looks professional on video calls" cons="Lumbar position is fixed (not height adjustable),Armrests only go up/down (not 4D),Not ideal for people over 6'1" link="https://www.amazon.com/dp/B07BDFW1Y7&tag=highlowmyst0e-20" image="/images/products/sihoo-m57.jpg" >}}
 
 {{< product name="Autonomous ErgoChair Pro" price="$349" rating="4.6" badge="Best Under $400" pros="Adjustable lumbar height AND depth,Full 4D armrests,Great for long hours,Durable mesh back" cons="Assembly takes 45+ minutes,Seat is firm for first 2-3 weeks,Controls take some learning" link="https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20" image="/images/products/autonomous-ergochair-pro.jpg" >}}
 
