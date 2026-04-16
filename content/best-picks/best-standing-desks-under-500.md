@@ -5,6 +5,7 @@ draft = false
 description = "I've owned three standing desks. Here's what actually matters — and which ones under $500 are worth buying in 2026."
 categories = ["best-picks"]
 tags = ["standing-desk", "home-office", "ergonomics", "budget"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

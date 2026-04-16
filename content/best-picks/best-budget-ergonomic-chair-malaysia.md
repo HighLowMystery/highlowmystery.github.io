@@ -6,6 +6,7 @@ draft = false
 description = "Finding a good ergonomic chair in Malaysia under RM1,500 is possible — if you know what to look for. Here are 5 genuinely ergonomic options available on Lazada, Shopee, and Amazon, ranked and honestly reviewed."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget", "malaysia"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

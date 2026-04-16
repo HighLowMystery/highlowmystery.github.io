@@ -5,6 +5,7 @@ draft = false
 description = "Two of the most popular standing desks head-to-head. Full spec table, per-category winner breakdown, and an honest verdict on who should buy which."
 categories = ["comparisons"]
 tags = ["standing-desk", "flexispot", "uplift", "comparison", "home-office", "2026"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

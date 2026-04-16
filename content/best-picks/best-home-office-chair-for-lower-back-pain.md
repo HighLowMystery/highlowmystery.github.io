@@ -6,6 +6,7 @@ draft = false
 description = "Lower back pain from desk work is almost always fixable with the right chair setup. Here are the 5 best home office chairs for lower back pain, with honest reviews and setup guidance."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "lower-back-pain", "lumbar-support"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

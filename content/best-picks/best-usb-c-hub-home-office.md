@@ -5,6 +5,7 @@ draft = false
 description = "5 USB-C hubs tested for MacBook and Windows laptops — ports breakdown, compatibility quirks, and which ones actually deliver the speeds they advertise."
 categories = ["best-picks"]
 tags = ["usb-c-hub", "home-office", "macbook", "windows", "docking-station", "2026"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

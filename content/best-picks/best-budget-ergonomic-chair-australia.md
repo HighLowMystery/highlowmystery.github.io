@@ -6,6 +6,7 @@ draft = false
 description = "The best budget ergonomic chairs in Australia under AU$600, tested and ranked. Available through Amazon AU, Officeworks, and direct — with real lumbar adjustability."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget", "australia"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

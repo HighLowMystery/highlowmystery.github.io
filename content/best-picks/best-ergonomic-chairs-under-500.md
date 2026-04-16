@@ -5,6 +5,7 @@ draft = false
 description = "After years of back pain and three bad chair purchases, I found what actually works. Here are the best ergonomic chairs under $500 — no fluff, just honest picks."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget"]
+author = "Alex Sabr"
 +++
 
 {{< quick-answer >}}

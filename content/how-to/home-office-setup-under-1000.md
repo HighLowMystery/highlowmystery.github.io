@@ -5,6 +5,7 @@ draft = false
 description = "A practical home office setup guide for remote workers on a real budget. No fluff, no $3,000 dream setups — just what you actually need."
 categories = ["how-to"]
 tags = ["home-office-setup", "budget", "ergonomics", "remote-work"]
+author = "Alex Sabr"
 +++
 
 {{< quick-answer >}}

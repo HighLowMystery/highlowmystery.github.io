@@ -5,6 +5,7 @@ draft = false
 description = "I tested 5 laptop stands over 18 months in my home office. Here's what actually works — aluminum vs plastic, adjustable vs fixed, and which to skip."
 categories = ["best-picks"]
 tags = ["laptop-stand", "home-office", "ergonomics", "neck-pain", "wfh", "2026"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

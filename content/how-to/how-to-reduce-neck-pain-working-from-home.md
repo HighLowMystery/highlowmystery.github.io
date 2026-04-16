@@ -5,6 +5,7 @@ draft = false
 description = "Neck pain from WFH is almost always a setup problem, not a you problem. Here's how to fix your monitor height, chair, and posture habits for good."
 categories = ["how-to"]
 tags = ["neck-pain", "ergonomics", "home-office", "monitor-arm", "posture", "wfh", "2026"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

@@ -5,6 +5,7 @@ draft = false
 description = "Starting your first remote job? Here's exactly what you need on your desk — and what you can skip. No fluff, real priorities."
 categories = ["best-picks"]
 tags = ["home-office", "remote-work", "desk-setup", "first-job", "essentials"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

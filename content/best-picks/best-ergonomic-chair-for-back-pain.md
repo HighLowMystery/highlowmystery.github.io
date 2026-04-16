@@ -6,6 +6,7 @@ draft = false
 description = "Back pain is the #1 complaint from remote workers - and the wrong chair is almost always the cause. Here are the five best ergonomic chairs for back pain, tested and compared."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "back-pain", "home-office", "reviews"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

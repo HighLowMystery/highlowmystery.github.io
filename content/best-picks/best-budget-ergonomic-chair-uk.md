@@ -6,6 +6,7 @@ draft = false
 description = "The best budget ergonomic chair in the UK doesn't have to cost £500. Here are 5 genuinely ergonomic chairs available on Amazon UK — tested, compared, and honestly ranked."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget", "uk"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

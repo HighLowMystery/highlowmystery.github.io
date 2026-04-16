@@ -6,6 +6,7 @@ draft = false
 description = "If your back hurts after every workday, your chair is probably the problem. Here are the 5 best home office chairs for back pain — tested, ranked, and honestly reviewed."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "lumbar-support"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

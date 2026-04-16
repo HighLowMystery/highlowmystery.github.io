@@ -5,6 +5,7 @@ draft = false
 description = "My back pain story, 5 top tested ergonomic chairs under $350, and real buying advice for true home office comfort - no fluff."
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "budget", "home-office", "back-pain", "2026"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

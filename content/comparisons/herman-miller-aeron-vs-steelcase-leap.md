@@ -5,6 +5,7 @@ draft = false
 description = "Two of the best office chairs ever made — but they're built for very different bodies and work styles. Here's an honest comparison after sitting in both for months."
 categories = ["comparisons"]
 tags = ["herman-miller", "steelcase", "ergonomic-chair", "premium-chair", "comparison", "home-office", "2026"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 

@@ -5,6 +5,7 @@ draft = false
 description = "Monitor upgrades are the most underrated home office improvement. Here are the ones actually worth buying under $300 in 2026."
 categories = ["best-picks"]
 tags = ["monitor", "home-office", "remote-work", "budget"]
+author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
 +++
 
