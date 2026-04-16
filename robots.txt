@@ -1,10 +1,14 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://highlowmystery.github.io/sitemap.xml
+# OAI-SearchBot (OpenAI search indexing — allowed)
+User-agent: OAI-SearchBot
+Allow: /
 
-# Block AI scrapers from training on our content (optional)
+# Sitemap
+Sitemap: https://ergoremote.com/sitemap.xml
+
+# Block AI training scrapers
 User-agent: GPTBot
 Disallow: /
 
