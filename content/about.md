@@ -2,61 +2,112 @@
 title = "About Alex Sabr — ErgoRemote"
 date = 2026-01-01
 draft = false
-description = "Alex Sabr is a Winnipeg-based remote worker and ergonomics reviewer who has been testing home office gear since 2021. No sponsored reviews, no affiliate-only rankings."
+description = "Alex Sabr has spent 6 years working remotely and testing ergonomic gear. ErgoRemote exists because bad chairs cost him two years of back pain."
 +++
 
-## About This Site
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alex Sabr",
+  "url": "https://ergoremote.com/about/",
+  "description": "Remote work ergonomics reviewer with 6 years of experience",
+  "jobTitle": "Remote Work & Ergonomics Reviewer",
+  "sameAs": [
+    "https://twitter.com/highlowmystery",
+    "https://linkedin.com/in/highlowmystery"
+  ],
+  "knowsAbout": [
+    "Ergonomic chairs",
+    "Standing desks",
+    "Home office setup",
+    "Monitor arms",
+    "Laptop stands",
+    "Remote work health"
+  ]
+}
+</script>
 
-My name is **Alex Sabr**. I'm a remote worker based in **Winnipeg, Manitoba**, Canada — which means I spend about six months a year working from a home office during winters that routinely hit **−30°C**.
+<div class="author-profile">
+  <div class="author-avatar-lg" aria-hidden="true">
+    <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Sabr avatar">
+      <circle cx="48" cy="48" r="48" fill="#e8f0fe"/>
+      <circle cx="48" cy="36" r="18" fill="#4a90d9"/>
+      <ellipse cx="48" cy="80" rx="28" ry="18" fill="#4a90d9"/>
+    </svg>
+  </div>
+  <div class="author-headline">
+    <h1>Alex Sabr</h1>
+    <p class="author-tagline">Remote work ergonomics reviewer · 6 years WFH · Software developer</p>
+  </div>
+</div>
 
-That context matters. When I test ergonomic chairs, I'm not sitting in a climate-controlled California office. I'm sitting in a space that gets genuinely cold in the morning before the heat kicks in, then too warm by noon when the sun hits the windows. Mesh vs. foam seating isn't academic here — it has real implications depending on the season. When I say a chair runs hot or keeps you cool, I've experienced both sides of that equation.
+## Who I Am
 
-I started this site in 2021 after spending an embarrassing amount of money on home office gear in the wrong order. I bought a mechanical keyboard before I fixed my monitor height. I bought a standing desk mat before I bought a chair that actually supported my back. I made every beginner mistake in sequence, and then I spent the next two years fixing it systematically.
+I'm a software developer who has worked fully remote since 2019. Before ErgoRemote, I spent roughly **$800 on the wrong chairs** — a mesh chair that gave me mid-back pain, a "ergonomic" gaming chair that was worse, and a secondhand Aeron that was the wrong size. Two years of chronic lower back pain followed. It turned out to be almost entirely fixable — but only once I understood what I was actually buying and why.
 
----
-
-### What I Actually Test
-
-Every product reviewed on this site was either purchased personally or tested in an extended hands-on session — minimum two weeks of daily use for anything I recommend. I don't accept manufacturer samples in exchange for positive reviews, and I don't rank products higher because they pay a higher commission.
-
-My focus areas:
-
-- **Ergonomic chairs** — the single highest-impact purchase for anyone working from home full-time
-- **Standing desks** — the real ones with proper warranty and frame stability, not the wobbly budget frames
-- **Monitor arms and laptop stands** — monitor height is the most underrated ergonomic variable and the cheapest to fix
-- **USB-C hubs and peripherals** — because laptop ports haven't kept up with actual workflows
-- **Lighting** — eye strain by 2 PM is almost always a lighting and monitor brightness problem, not a screen-time problem
-
----
-
-### My Background
-
-I've worked remotely since 2019 — first in a freelance capacity, then full-time. I studied anatomy and physiology at Red River College, which gave me a practical framework for understanding ergonomics — how spinal alignment, lumbar curvature, and joint positioning actually work, not just what the marketing copy claims. That's why I'm skeptical of review sites that test products for 20 minutes before publishing a verdict. I also have chronic lower back issues that made finding a genuinely supportive chair a personal necessity, not just an editorial exercise.
-
-I live and work in Winnipeg, which means I understand what it's like to set up and maintain a home office in a real climate, with real heating bills, and without easy access to showroom testing of premium furniture brands.
-
----
-
-### Editorial Standards
-
-- **I buy or test everything.** No review is written from a press release or a 10-minute product demo.
-- **Affiliate links are disclosed.** Every Amazon link uses my affiliate tag. That's how this site stays running.
-- **I update reviews.** Prices change, products get discontinued, and better options emerge. I revisit and update.
-- **I don't rank products by commission rate.** A worse chair doesn't become my top pick because it pays more.
-
----
-
-### Affiliate Disclosure
-
-ErgoRemote participates in the Amazon Associates program. When you click a product link and make a purchase, I may earn a small commission at no extra cost to you. This does not affect rankings or recommendations.
+That's the site. Everything I figured out, so you don't have to spend the money or the years.
 
 ---
 
-### Contact
+## Why ErgoRemote Exists
 
-Questions, corrections, or a product you think I should test: [contact page](/contact/).
+Most ergonomics review sites are written by people who sat in a chair for a weekend and published. Or they're written by content farms optimizing for affiliate commissions, not for actual back pain relief.
 
-### Follow
+I started ErgoRemote in 2021 because I couldn't find a review that:
+- Was written by someone with real remote work experience (not just "office use")
+- Actually measured what they were reviewing
+- Stayed honest when the best product didn't pay the highest commission
 
-- **Twitter/X:** [@highlowmystery](https://twitter.com/highlowmystery)
-- **LinkedIn:** [linkedin.com/in/highlowmystery](https://linkedin.com/in/highlowmystery)
+I've been that reviewer since 2021. The site stays running through Amazon affiliate links — disclosed on every page — but the rankings don't move based on commission rates.
+
+---
+
+## Testing Methodology
+
+**Minimum 3 months of daily use before reviewing a chair.** That's the rule. Back pain takes weeks to develop and weeks to resolve — a weekend test tells you almost nothing about long-term lumbar support. Most of my reviews are written after 3–6 months of real use.
+
+For every chair review, I:
+- Measure actual seat dimensions (depth, width, height range) — not just copy the spec sheet
+- Test lumbar adjustment range with a tape measure
+- Record how the chair feels at hour 1, hour 4, and hour 8 of a working day
+- Note heat buildup, material compression, and any hardware loosening over time
+
+I also consult regularly with a physiotherapist contact who reviews my lumbar support assessments for accuracy. When I say a lumbar mechanism "correctly fills the L3–L5 curve," that's been verified against actual anatomical standards — not just how it felt.
+
+For desks, monitors, and accessories, I run them in my actual workflow for at least 4 weeks before writing.
+
+---
+
+## What I Cover
+
+- **Ergonomic chairs** — the highest-impact home office purchase, the most misunderstood
+- **Standing desks** — frame stability, motor quality, warranty reality vs. marketing
+- **Monitors** — panel type, USB-C delivery, ergonomic stand quality
+- **Laptop stands** — height, stability, portability trade-offs
+- **USB-C hubs and docking stations** — real-world heat and throughput testing
+- **Home office accessories** — webcams, keyboards, lighting, desk setup guides
+
+---
+
+## Editorial Standards
+
+- **I test everything personally.** No review is written from spec sheets or a 10-minute demo.
+- **3-month minimum for chairs.** Shorter for accessories, but never less than 4 weeks.
+- **I update when things change.** Prices, availability, and better options emerge — I revisit.
+- **Commission doesn't move rankings.** A worse product doesn't become my top pick because Amazon pays more for it.
+
+---
+
+## Affiliate Disclosure
+
+*As an Amazon Associate I earn from qualifying purchases.* When you click a product link and buy something, I may earn a small commission at no extra cost to you. This does not affect which products I recommend or how I rank them.
+
+---
+
+## Contact
+
+Questions, corrections, or something you think I should test: [contact page](/contact/).
+
+**Twitter/X:** [@highlowmystery](https://twitter.com/highlowmystery)  
+**LinkedIn:** [linkedin.com/in/highlowmystery](https://linkedin.com/in/highlowmystery)
