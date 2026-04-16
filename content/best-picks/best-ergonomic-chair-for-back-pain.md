@@ -34,13 +34,13 @@ Why it works: The C7's lumbar support adjusts both vertically (to match your lum
 
 {{< product
   name="Flexispot C7 Ergonomic Chair"
-  price="$339"
+  price=""
   rating="4.7"
   pros="Lumbar adjusts height + depth,Breathable mesh,4D armrests,Seat depth slider,5-year warranty"
   cons="Assembly can take 45-60 minutes,Mesh a bit firm at first,Not many color options"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
-  image="/images/products/flexispot-c7.jpg"
+ 
 >}}
 
 **Who it's for:** Anyone with low-to-moderate back pain who needs custom lumbar positioning but doesn't want to spend Aeron money.
@@ -57,13 +57,13 @@ Why it works: Aeron's PostureFit SL system provides the only true dual-zone supp
 
 {{< product
   name="Herman Miller Aeron Chair"
-  price="$1,495 (refurb ~$700)"
+  price=""
   rating="4.9"
   pros="PostureFit SL,12-year warranty,Mesh never sags,Size choice (A/B/C),Strong used market"
   cons="Very expensive new,Requires correct sizing,No foam seat (all mesh)"
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best for Committed Sitter"
-  image="/images/products/herman-miller-aeron.jpg"
+ 
 >}}
 
 **Who it's for:** Serious back pain sufferers, or people who want the "final chair purchase ever" with zero compromises.
@@ -80,13 +80,13 @@ Why it works: The Leap's LiveBack system contours to your shape and moves with y
 
 {{< product
   name="Steelcase Leap V2 Office Chair"
-  price="$1,250 (refurb ~$520)"
+  price=""
   rating="4.8"
   pros="LiveBack flexes w/you,Lower firmness adjustment,Strong build,12-year warranty,Multiple finishes"
   cons="No headrest on base model,Seat is firm at first,Pricey new"
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Movers"
-  image="/images/products/steelcase-leap-v2.jpg"
+ 
 >}}
 
 **Who it's for:** Restless workers who struggle with fixed-back chairs, or anyone who wants variety in seating posture.
@@ -103,7 +103,7 @@ Why it works: Adjustable lumbar (not just height, also depth), 4D arms, good ret
 
 {{< product
   name="Branch Ergonomic Chair"
-  price="$329"
+  price=""
   rating="4.6"
   pros="Adjustable lumbar depth,4D armrests,Foam seat,Fast/simple assembly,5-yr warranty"
   cons="Less airflow than mesh,Barebones brand (less legacy),Headrest sold separtely"
@@ -126,7 +126,7 @@ Why it works: The minimum spend for real lumbar support. Adjustable in height (n
 
 {{< product
   name="SIHOO M57 Ergonomic Office Chair"
-  price="$279"
+  price=""
   rating="4.5"
   pros="Lumbar height adjustment,Breathable mesh,Adjustable headrest,Under $300,Good value for money"
   cons="Lumbar can't adjust depth,Armrests are 1D only,Fewer long-term durability reviews"

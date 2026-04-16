@@ -36,13 +36,13 @@ The seat depth slider is also worth calling out: it lets you sit with your back 
 
 {{< product
   name="Flexispot C7 Ergonomic Chair"
-  price="$339"
+  price=""
   rating="4.7"
   pros="Lumbar adjusts height + depth,Seat depth slider,4D armrests,Breathable mesh,5-year warranty"
   cons="Assembly 45–60 minutes,Seat cushion firm initially,Limited colors"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
-  image="/images/products/flexispot-c7.jpg"
+ 
 >}}
 
 **Best for:** Remote workers with chronic lower back pain who want real adjustability without spending $1,000+.
@@ -61,13 +61,13 @@ The PostureFit SL holds the sacrum in a neutral tilt, which naturally preserves 
 
 {{< product
   name="Herman Miller Aeron Chair"
-  price="$1,495 (refurb ~$650)"
+  price=""
   rating="4.9"
   pros="PostureFit SL: sacrum + lumbar support,Three sizes (A/B/C),12-year warranty,8Z Pellicle pressure distribution,Best resale value in category"
   cons="Expensive new,No traditional seat foam (mesh only),Requires correct size selection"
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best Lumbar Engineering"
-  image="/images/products/herman-miller-aeron.jpg"
+ 
 >}}
 
 **Best for:** People with persistent lower back pain who've tried other chairs without lasting relief, or anyone sitting 8+ hours daily.
@@ -86,13 +86,13 @@ This works particularly well for people whose lower back pain comes from sustain
 
 {{< product
   name="Steelcase Leap V2 Office Chair"
-  price="$1,250 (refurb ~$490)"
+  price=""
   rating="4.8"
   pros="LiveBack flexes with spine movement,Lower back firmness adjustable,Encourages natural posture variation,12-year warranty,Excellent for tall users"
   cons="No headrest standard,Expensive new,Seat can feel firm"
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best Dynamic Support"
-  image="/images/products/steelcase-leap-v2.jpg"
+ 
 >}}
 
 **Best for:** People who shift posture frequently and find static lumbar support chairs uncomfortable after 2–3 hours.
@@ -111,13 +111,13 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
 
 {{< product
   name="Branch Ergonomic Chair"
-  price="$329"
+  price=""
   rating="4.6"
   pros="Lumbar height + depth adjustment,4D armrests,Comfortable foam seat,5-year warranty,Fast 20-minute assembly"
   cons="Foam seat warmer than mesh,Headrest sold separately,Newer brand"
   link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value Under $350"
-  image="/images/products/branch-ergonomic.jpg"
+ 
 >}}
 
 **Best for:** Remote workers who want lumbar depth adjustment and prefer a softer foam seat over mesh at a price under $350.
@@ -136,7 +136,7 @@ For people who can't justify $330+ and are currently sitting on a dining chair o
 
 {{< product
   name="SIHOO M57 Ergonomic Office Chair"
-  price="$279"
+  price=""
   rating="4.5"
   pros="Adjustable lumbar height,Breathable mesh,Adjustable headrest,Good value,$279 entry point"
   cons="Lumbar height only (no depth),1D armrests,Assembly manual confusing"

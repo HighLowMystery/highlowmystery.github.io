@@ -44,7 +44,7 @@
         {{ with $link }}"url": "{{ . }}",{{ end }}
         "offers": {
           "@type": "Offer",
-          "price": "{{ $priceNum }}",
+          {{ if $priceNum }}"price": "{{ $priceNum }}",{{ end }}
           "priceCurrency": "USD",
           "availability": "https://schema.org/InStock",
           "url": "{{ $link }}",

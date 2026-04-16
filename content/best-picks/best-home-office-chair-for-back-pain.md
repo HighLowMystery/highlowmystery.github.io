@@ -38,12 +38,12 @@ The mesh back keeps airflow going during long sessions. Armrests adjust 4-ways. 
 
 {{< product
   name="Flexispot C7 Ergonomic Chair"
-  price="$339"
+  price=""
   rating="4.7"
   pros="Adjustable lumbar height + depth,Breathable mesh back,4D armrests,Seat depth slider,5-year warranty"
   cons="Assembly takes 45–60 minutes,Mesh may feel firm at first,Limited color options"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
-  image="/images/products/flexispot-c7.jpg"
+ 
 >}}
 
 **Who it's for:** Most remote workers dealing with lower back pain who want real ergonomic adjustability under $400.
@@ -62,13 +62,13 @@ It's expensive. But a refurbished Aeron from a reputable dealer runs $600–800 
 
 {{< product
   name="Herman Miller Aeron Chair"
-  price="$1,495 (refurb ~$650)"
+  price=""
   rating="4.9"
   pros="PostureFit SL supports sacrum + lumbar,12-year warranty,Three sizes (A/B/C) for any body type,Industry-leading build quality,Excellent resale value"
   cons="High price new,Requires size selection (A/B/C),Minimal seat padding (mesh-only)"
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Premium Pick"
-  image="/images/products/herman-miller-aeron.jpg"
+ 
 >}}
 
 **Who it's for:** People who sit 8+ hours daily, have serious back issues, or want to buy once and never think about chairs again.
@@ -87,7 +87,7 @@ One caveat: the armrests only adjust height, not 4-ways. If you rest your arms a
 
 {{< product
   name="SIHOO M57 Ergonomic Office Chair"
-  price="$279"
+  price=""
   rating="4.5"
   pros="Adjustable lumbar height,Breathable mesh,Adjustable headrest,Budget-friendly,Ships fast"
   cons="Armrests height-only (no 4D),Less refined than C7,Assembly manual unclear"
@@ -112,13 +112,13 @@ Like the Aeron, look for certified refurbished units. The frame is built to last
 
 {{< product
   name="Steelcase Leap V2 Office Chair"
-  price="$1,250 (refurb ~$475)"
+  price=""
   rating="4.8"
   pros="LiveBack system flexes with spine,12-year warranty,Ideal for active/fidgety sitters,Lower back firmness adjustment,Excellent lumbar support"
   cons="No headrest included,Expensive new,Seat cushion may feel firm initially"
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Active Sitters"
-  image="/images/products/steelcase-leap-v2.jpg"
+ 
 >}}
 
 **Who it's for:** People who shift posture constantly and find static lumbar support chairs uncomfortable after a few hours.
@@ -137,13 +137,13 @@ It ships free and assembles in about 20 minutes — the clearest instructions I'
 
 {{< product
   name="Branch Ergonomic Chair"
-  price="$329"
+  price=""
   rating="4.6"
   pros="Adjustable lumbar depth + height,4D armrests,Comfortable foam seat,Clean modern design,Fast assembly"
   cons="Less airflow than full-mesh chairs,Newer brand (less long-term data),Headrest sold separately"
   link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value"
-  image="/images/products/branch-ergonomic.jpg"
+ 
 >}}
 
 **Who it's for:** Remote workers who want ergonomic adjustability and a foam seat (warmer, softer) at a price under $350.
