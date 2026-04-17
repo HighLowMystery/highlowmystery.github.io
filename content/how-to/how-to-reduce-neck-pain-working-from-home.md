@@ -29,9 +29,9 @@ The fix wasn't complicated. It was three things I'll cover step by step.
 
 Neck pain from desk work almost always comes from one of three problems:
 
-1. **Screen too low** — you tilt your chin down to see it
+1. **Screen too low** — you tilt your chin down to see it. A [laptop stand](/best-picks/best-laptop-stand-home-office/) or [monitor](/best-picks/best-monitors-under-300/) at eye level fixes this.
 2. **Screen too far away** — you lean your whole head forward to read it
-3. **No lumbar support** — when your lower back slouches, your upper back and neck compensate
+3. **No lumbar support** — when your lower back slouches, your upper back and neck compensate. This is why the [right chair](/best-picks/best-home-office-chair-for-back-pain/) matters for neck pain too.
 
 If you've had neck pain for more than two weeks, see a physical therapist or doctor before doing anything else. This guide is for prevention and ergonomic correction, not medical treatment.
 
@@ -135,3 +135,5 @@ Neck pain went from daily to zero within three weeks. Took one afternoon to set 
 {{< callout type="verdict" >}}
 **Bottom line:** Neck pain from desk work is a setup problem. Fix the monitor height first — it's the highest-impact change and costs $30–$65. Add lumbar support in your chair and build a 20-minute movement habit. Most people are pain-free within two weeks.
 {{< /callout >}}
+
+For monitor height solutions, see the [best laptop stands](/best-picks/best-laptop-stand-home-office/) and [best monitors under $300](/best-picks/best-monitors-under-300/) guides. If lower back pain is also an issue, the [home office chair for lower back pain](/best-picks/best-home-office-chair-for-lower-back-pain/) covers lumbar setup in detail. For the full workspace build, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) shows the right purchase order.

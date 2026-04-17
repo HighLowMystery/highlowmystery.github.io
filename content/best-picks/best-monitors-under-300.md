@@ -29,7 +29,7 @@ I've been through four monitors in six years. One had terrible color. One died a
 
 Two things happen when your monitor is wrong:
 
-**Too low:** You tilt your head down to see the screen. Over eight hours, that's your neck under sustained load. Six months of that is how you end up with a physio bill.
+**Too low:** You tilt your head down to see the screen. Over eight hours, that's your neck under sustained load. Six months of that is how you end up with a physio bill. See the [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) for the full fix.
 
 **Too small:** You lean forward to read. That's compressive load on your lumbar spine every time you check your email.
 
@@ -45,9 +45,9 @@ The fix is a 24-27 inch monitor at eye level — top of screen at or just below 
 
 **Refresh rate:** 60Hz is perfectly fine for office work. Don't pay extra for 144Hz unless you game.
 
-**Connectivity:** HDMI is standard. USB-C with power delivery (65W+) is a serious quality-of-life upgrade — one cable from your laptop handles video + charging. Worth the price difference if your laptop supports it.
+**Connectivity:** HDMI is standard. USB-C with power delivery (65W+) is a serious quality-of-life upgrade — one cable from your laptop handles video + charging. Worth the price difference if your laptop supports it. If you need more ports, see the [best USB-C hubs](/best-picks/best-usb-c-hub-home-office/).
 
-**Stand adjustability:** Height adjustment is minimum. Tilt + swivel is nice. Most cheap stands are fixed height — buy a monitor arm and skip the stand entirely.
+**Stand adjustability:** Height adjustment is minimum. Tilt + swivel is nice. Most cheap stands are fixed height — buy a monitor arm and skip the stand entirely. If you're on a laptop, a [laptop stand](/best-picks/best-laptop-stand-home-office/) alongside a monitor is the best dual-display setup.
 
 ---
 
@@ -129,4 +129,6 @@ One honest note: 24 inches feels a bit small once you've used a 27-inch screen. 
 ## FAQ
 
 {{< faq items="24 inch vs 27 inch — which should I get?|27 inch if your desk has the depth (at least 24 inches from screen to eyes). 24 inch for smaller desks or tighter spaces. For side-by-side dual monitors, 24 inches each is often better than two 27s.||Do I need 4K for office work?|At 27 inches, 1440p is the sweet spot. 4K is beautiful but requires more GPU power and costs significantly more. For word processing and spreadsheets, 1440p is effectively the same at normal viewing distance.||IPS vs VA vs TN — what's the practical difference?|IPS: good color, good viewing angles, moderate contrast. VA: excellent contrast (great for dark content), average color, viewing angles are okay. TN: fast response, poor color, bad viewing angles — fine for gaming, not ideal for remote work. Buy IPS for a home office.||Is a curved monitor worth it for remote work?|For a single ultrawide (34+ inches), yes — the curve reduces eye travel. For a standard 27-inch, the curve is mostly aesthetic. I wouldn't pay extra for it. ---" >}}
+
+A monitor is only as useful as its height. Pair it with a [laptop stand](/best-picks/best-laptop-stand-home-office/) if you're using a laptop alongside it, or a USB-C hub to consolidate cables — see the [best USB-C hubs for home office](/best-picks/best-usb-c-hub-home-office/). For the ergonomic foundation, the [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) guide covers the most important purchase.
 

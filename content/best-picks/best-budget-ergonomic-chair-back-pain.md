@@ -58,6 +58,8 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
 - **Armrest adjustability**: Look for 3D or 4D armrests-at minimum, height & pivot.
 - **Mesh vs foam seat**: Good mesh breathes better, but bad mesh sags after 6 months. Dense foam can be fine if it has just enough give.
 
+If back pain is already an issue, also read the [home office chair for back pain](/best-picks/best-home-office-chair-for-back-pain/) and [home office chair for lower back pain](/best-picks/best-home-office-chair-for-lower-back-pain/) guides for setup and premium alternatives.
+
 ## Best Budget Ergonomic Chairs - Reviews
 
 ### 1. SIHOO M57 - Best Under $300
@@ -161,5 +163,7 @@ If your budget truly can't stretch to $280+, consider the used market. A used He
 ## Final Verdict
 
 {{< callout type="verdict" >}}
-**Bottom Line:** If you have to sit all day and value your back, the Flexispot C7 is my pick for tall professionals, and the SIHOO M57 for everyone else under $300. Don't believe marketing-pick based on YOUR measurements, not the company's claims. Honest comfort always beats a fancy brand.
+**Bottom Line:** If you have to sit all day and value your back, the Flexispot C7 is my pick for tall professionals, and the SIHOO M57 for everyone else under $300. Don't believe marketing—pick based on YOUR measurements, not the company's claims. Honest comfort always beats a fancy brand.
 {{< /callout >}}
+
+For a wider comparison including premium chairs, see the [best ergonomic chair for back pain](/best-picks/best-ergonomic-chair-for-back-pain/) roundup. If you're comparing the Aeron and Leap directly, the [Herman Miller vs Steelcase comparison](/comparisons/herman-miller-aeron-vs-steelcase-leap/) covers both in detail. Building out a full setup? The [home office desk essentials guide](/best-picks/best-home-office-desk-essentials-first-remote-job/) covers everything else you need.

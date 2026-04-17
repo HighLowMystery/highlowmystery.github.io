@@ -37,6 +37,8 @@ Aluminum stands last longer and look better. Plastic stands weigh less and cost 
 
 Fixed-height stands (like the mStand) lock your laptop at one specific angle. That's usually fine if your external monitor is at the right height and you're using an external keyboard. But if you're working directly on the laptop keyboard, you need adjustability — fixed height puts the screen at a perfect angle but forces you to type uphill.
 
+For the external monitor side of the equation, see the [best monitors under $300](/best-picks/best-monitors-under-300/). And once you've raised the laptop, you'll need extra ports — the [best USB-C hubs](/best-picks/best-usb-c-hub-home-office/) covers that.
+
 {{< callout type="tip" >}}
 **The rule:** If you use an external keyboard + monitor, fixed is fine. If you type directly on the laptop, get an adjustable.
 {{< /callout >}}
@@ -143,3 +145,5 @@ Don't use a stand without an external keyboard. Raising the screen and still typ
 {{< callout type="verdict" >}}
 **Bottom line:** For a permanent desk setup, the Rain Design mStand is the best $43 you'll spend on ergonomics. For a travel or flexible setup, the Nexstand K2 gives you 11 height positions and a bag-friendly fold at $35. Either way — pair it with an external keyboard. Non-negotiable.
 {{< /callout >}}
+
+Once the laptop is at eye level, the rest of the ergonomic stack matters too: see the [best monitors under $300](/best-picks/best-monitors-under-300/) if you're adding a second screen, and the [best USB-C hubs](/best-picks/best-usb-c-hub-home-office/) to handle the extra connections. The [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) explains exactly why screen height is the biggest variable. For the full setup picture, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) ties it all together.

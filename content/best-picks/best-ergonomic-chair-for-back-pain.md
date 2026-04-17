@@ -19,7 +19,7 @@ The best ergonomic chair for back pain is the **Flexispot C7** - it combines rea
 
 My first bout of back pain hit two weeks into remote work. The trigger was simple: the office chair I bought on sale had a fixed lumbar bulge that shoved into the wrong part of my back. Day by day the ache got worse until it was hard to focus on anything but finding an excuse to stand.
 
-This article is what I wish I'd had back then: a list of chairs with support that adjusts *to you*, not just looks good on paper. Here are the five best ergonomic chairs for back pain in 2026.
+This article is what I wish I'd had back then: a list of chairs with support that adjusts *to you*, not just looks good on paper. Here are the five best ergonomic chairs for back pain in 2026. If you're on a tighter budget, also check our [best budget ergonomic chairs for back pain](/best-picks/best-budget-ergonomic-chair-back-pain/).
 
 ---
 
@@ -172,9 +172,11 @@ I bought my first proper ergonomic chair after three months of lower back pain t
 
 If I were buying today for the first time, I'd get the **Flexispot C7**. Not the cheapest, not the most expensive — but the best combination of real adjustability (lumbar height *and* depth, 4D arms, seat slider) and a price I don't have to justify for a week. I've sat in it for 8-hour days and it holds up.
 
-If money is tight, the **SIHOO M57** is where I'd start. Yes, you lose lumbar depth and get basic armrests, but it's a genuine ergonomic step up from any standard office chair — and at $279, you can afford to upgrade later.
+If money is tight, the **SIHOO M57** is where I'd start. Yes, you lose lumbar depth and get basic armrests, but it's a genuine ergonomic step up from any standard office chair — and at $279, you can afford to upgrade later. For a wider comparison, see our full [budget ergonomic chair roundup](/best-picks/best-budget-ergonomic-chair-back-pain/).
 
-If back pain is serious and persistent, the **Herman Miller Aeron** or **Steelcase Leap V2 refurb** are the honest answers. I've sat in both. The PostureFit SL on the Aeron is different from every other lumbar system I've tried. Worth the price if you're spending 40+ hours a week in a chair.
+If back pain is serious and persistent, the **Herman Miller Aeron** or **Steelcase Leap V2 refurb** are the honest answers. I've sat in both. The PostureFit SL on the Aeron is different from every other lumbar system I've tried. Worth the price if you're spending 40+ hours a week in a chair. For a head-to-head breakdown, read the [Herman Miller Aeron vs Steelcase Leap comparison](/comparisons/herman-miller-aeron-vs-steelcase-leap/).
+
+Once the chair is sorted, the next biggest ergonomic wins are monitor height and desk setup. Our [home office chair guide for back pain](/best-picks/best-home-office-chair-for-back-pain/) covers setup tips, and if you're building a full workspace, the [home office setup under $1,000 guide](/how-to/home-office-setup-under-1000/) is worth reading next. Neck pain from a low monitor? The [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) has the fix.
 
 ---
 

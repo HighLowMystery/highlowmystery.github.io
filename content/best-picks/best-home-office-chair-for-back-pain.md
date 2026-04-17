@@ -21,7 +21,7 @@ I've owned five office chairs in the last six years. Three of them gave me back 
 
 The difference wasn't brand name or price — it was lumbar support that you can actually *adjust*. A fixed lumbar bump that hits the wrong spot is worse than no lumbar at all. The chairs below all have one thing in common: real, functional support where your spine needs it.
 
-Here's what I found after testing, researching, and comparing dozens of options.
+Here's what I found after testing, researching, and comparing dozens of options. If you're also comparing the two gold-standard premium options, see the [Herman Miller Aeron vs Steelcase Leap head-to-head](/comparisons/herman-miller-aeron-vs-steelcase-leap/).
 
 ---
 
@@ -159,7 +159,7 @@ Most desk back pain comes from one of three things:
 
 **2. Wrong seat depth.** If the seat is too deep, you either sit on the edge (no back support) or your knees can't bend past 90° (pressure on thighs). Seat depth adjustment lets you set it so your back is against the support *and* your knees clear the edge.
 
-**3. Monitor too low.** This is the neck-and-upper-back killer, not the chair. If your monitor is below eye level, you tilt your head forward — adding 40+ lbs of effective force to your cervical spine. A monitor arm or laptop stand fixes this independently of the chair.
+**3. Monitor too low.** This is the neck-and-upper-back killer, not the chair. If your monitor is below eye level, you tilt your head forward — adding 40+ lbs of effective force to your cervical spine. A [laptop stand](/best-picks/best-laptop-stand-home-office/) or [monitor arm](/best-picks/best-monitors-under-300/) fixes this independently of the chair.
 
 ---
 
@@ -190,4 +190,6 @@ Getting setup right matters as much as the chair itself.
 ## FAQ
 
 {{< faq items="What chair is best for lower back pain specifically?|The Flexispot C7 for under $400, or the Herman Miller Aeron for a premium buy. Both support the lumbar curve specifically. The key feature to look for is adjustable lumbar depth — not just a fixed bump.||Can a $200 chair fix back pain?|Rarely. Under $200, corners get cut on the lumbar mechanism. You'll get a chair-shaped object, not ergonomic support. The minimum for genuine adjustable support is around $250–280 (SIHOO M57 territory).||How long should I sit before taking a break?|The research consensus is 45–50 minutes of sitting followed by a 5–10 minute movement break. Even the best ergonomic chair doesn't eliminate the need to move — it just makes the sitting portion less damaging.||Is a used Herman Miller Aeron worth buying?|Yes — one of the best value plays in home office gear. A certified refurbished Aeron from a reputable dealer runs $500–700, lasts decades, and the PostureFit SL support is still better than most new chairs at $500. Confirm it comes with a warranty before buying.||Does chair material matter for back pain?|Mesh breathes better (less heat buildup) and maintains its support shape longer than foam. Foam can be more comfortable short-term but compresses over time. For back pain specifically, the lumbar adjustment matters far more than seat material." >}}
+
+For more chair options across all price points, see the [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) and our [lower back pain focused picks](/best-picks/best-home-office-chair-for-lower-back-pain/). If neck pain is also an issue, the [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) covers monitor and posture fixes. For a full workspace build, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) is a good next read.
 

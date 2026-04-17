@@ -19,7 +19,7 @@ The best USB-C hub for most home offices is the Anker 555 8-in-1 ($50) — it ru
 
 My MacBook Pro has two USB-C ports. My monitor needs DisplayPort. My keyboard and mouse are USB-A. My Ethernet cable is... not USB-C. The math doesn't work without a hub, and the first two hubs I bought were, in descending order of frustration: one that throttled my SSD speeds in half, and one that ran so hot I was afraid to leave it unattended.
 
-So I tested five of them systematically — same MacBook M3 Pro, same Windows Dell XPS 15, same use-case (4K monitor + keyboard + mouse + Ethernet + charging), and here's what actually works.
+So I tested five of them systematically — same MacBook M3 Pro, same Windows Dell XPS 15, same use-case (4K monitor + keyboard + mouse + Ethernet + charging), and here's what actually works. If you're also deciding on the monitor to connect, see the [best monitors under $300](/best-picks/best-monitors-under-300/) guide.
 
 ---
 
@@ -137,3 +137,5 @@ Tested on two Windows machines (Dell XPS 15 and a ThinkPad). Dual monitor suppor
 {{< callout type="verdict" >}}
 **Bottom line:** The Anker 555 is the pick for most people — it runs cool, handles 4K, passes 100W charging, and costs $50. If you're on a MacBook and care how your desk looks, pay the extra $10 for the Satechi Slim V2. If you need Thunderbolt-level bandwidth, the CalDigit TS4 is worth every penny of its premium. Windows users: the j5create has drivers Windows actually trusts.
 {{< /callout >}}
+
+A USB-C hub is most useful when you have a [monitor](/best-picks/best-monitors-under-300/) and [laptop stand](/best-picks/best-laptop-stand-home-office/) to connect it to. For the full workspace picture, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) shows how all the pieces fit together. And if you're still sorting your chair, the [ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) guide is the right place to start.

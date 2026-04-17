@@ -29,7 +29,7 @@ The difference between a good $400 desk and a bad $400 desk isn't marketing. It'
 
 If you're working from home and your back or neck aches by 3 PM, a standing desk helps — but only if you actually use it. The research says alternating sitting and standing every 30-60 minutes reduces back pain. Not standing all day (that's worse). Alternating.
 
-If you're just buying one because it looks cool on video calls, a $200 fixed desk is fine. If you genuinely want the ergonomic benefit, this guide is for you.
+If you're just buying one because it looks cool on video calls, a $200 fixed desk is fine. If you genuinely want the ergonomic benefit, this guide is for you. For a full Flexispot vs Uplift breakdown, see the [Flexispot E7 vs Uplift V2 comparison](/comparisons/flexispot-e7-vs-uplift-v2/).
 
 ---
 
@@ -129,4 +129,6 @@ The controls are simpler than the E7 (no memory presets on the base model), whic
 ## FAQ
 
 {{< faq items="Are standing desks actually worth it for back pain?|Yes — but only if you alternate sitting and standing. Set a timer for 45-60 minutes. When it goes off, stand for 20-30 minutes. The benefit comes from movement, not from standing all day. Standing all day is worse than sitting all day.||Do I need a dual-motor desk?|If you're putting more than 50 lbs on the desktop (two monitors + accessories), dual-motor stability is worth it. For laptop-only setups, single motor is fine.||What height should my standing desk be?|Your elbows should be at roughly 90 degrees when your hands are on the keyboard. For most people this is 39-45 inches standing, 27-30 inches sitting.||How long do standing desks last?|A quality standing desk frame (Flexispot, Uplift, Autonomous) lasts 5-10+ years. The cheap Amazon brands often have motor failures in year 1-2. Warranty tells you a lot: a 10-year frame warranty means the company believes in the product. ---" >}}
+
+For a detailed Flexispot vs Uplift comparison, see the [Flexispot E7 vs Uplift V2](/comparisons/flexispot-e7-vs-uplift-v2/) head-to-head. A standing desk works best paired with a good [ergonomic chair](/best-picks/best-ergonomic-chairs-under-500/) and a properly positioned [monitor](/best-picks/best-monitors-under-300/). For a full budget workspace build, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) guide is the logical next step.
 

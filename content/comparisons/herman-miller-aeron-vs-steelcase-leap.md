@@ -19,7 +19,7 @@ The Herman Miller Aeron is the better choice for most people — its mesh constr
 
 These are the two most recommended premium office chairs in every WFH forum, ergonomics subreddit, and corporate procurement list. They're both excellent. They're also both around $1,500 new, which means choosing wrong is an expensive mistake.
 
-I've spent eight months in a Herman Miller Aeron (Size B) and four months in a Steelcase Leap V2. Different bodies will get different results, but here's what the actual differences look like in daily use.
+I've spent eight months in a Herman Miller Aeron (Size B) and four months in a Steelcase Leap V2. Different bodies will get different results, but here's what the actual differences look like in daily use. If you're not yet ready to spend $1,000+, see the [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) first.
 
 ---
 
@@ -106,3 +106,5 @@ At $500 for a used version, either chair beats a new $400 budget chair in every 
 {{< callout type="verdict" >}}
 **Bottom line:** I sit in the Aeron — the breathability is the deciding factor for my warm home office setup. But if you're taller than 6'1", move around constantly, or hate mesh seating, the Leap V2 is the better fit. Both have 12-year warranties. Both will outlast three cheaper chairs combined. Buy used if budget is the sticking point.
 {{< /callout >}}
+
+For back-pain-focused chair picks at every price point, see [best ergonomic chair for back pain](/best-picks/best-ergonomic-chair-for-back-pain/) and [best home office chair for lower back pain](/best-picks/best-home-office-chair-for-lower-back-pain/). Not sure whether to spend on a chair or a standing desk first? The [home office setup under $1,000](/how-to/home-office-setup-under-1000/) answers that in order of priority. Neck pain? The [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) is the next read.
