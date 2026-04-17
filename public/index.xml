@@ -208,8 +208,42 @@
 &lt;hr&gt;
 &lt;h3 id="information-we-collect"&gt;Information We Collect&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Automatically collected:&lt;/strong&gt; Like most websites, we collect standard web analytics data — pages visited, time on site, browser type, and referring URL. This is aggregated and anonymous.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;You provide directly:&lt;/strong&gt; If you contact us via email, we store only what you send.&lt;/p&gt;</description></item><item><title>About Alex Sabr — ErgoRemote</title><link>https://ergoremote.com/about/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ergoremote.com/about/</guid><description>&lt;h2 id="about-this-site"&gt;About This Site&lt;/h2&gt;
-&lt;p&gt;My name is &lt;strong&gt;Alex Sabr&lt;/strong&gt;. I&amp;rsquo;m a remote worker based in &lt;strong&gt;Winnipeg, Manitoba&lt;/strong&gt;, Canada — which means I spend about six months a year working from a home office during winters that routinely hit &lt;strong&gt;−30°C&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;That context matters. When I test ergonomic chairs, I&amp;rsquo;m not sitting in a climate-controlled California office. I&amp;rsquo;m sitting in a space that gets genuinely cold in the morning before the heat kicks in, then too warm by noon when the sun hits the windows. Mesh vs. foam seating isn&amp;rsquo;t academic here — it has real implications depending on the season. When I say a chair runs hot or keeps you cool, I&amp;rsquo;ve experienced both sides of that equation.&lt;/p&gt;</description></item><item><title>Affiliate Disclaimer</title><link>https://ergoremote.com/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ergoremote.com/disclaimer/</guid><description>&lt;h2 id="affiliate-disclosure"&gt;Affiliate Disclosure&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;You provide directly:&lt;/strong&gt; If you contact us via email, we store only what you send.&lt;/p&gt;</description></item><item><title>About Alex Sabr — ErgoRemote</title><link>https://ergoremote.com/about/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ergoremote.com/about/</guid><description>&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "Person",
+ "name": "Alex Sabr",
+ "url": "https://ergoremote.com/about/",
+ "description": "Remote work ergonomics reviewer with 6 years of experience",
+ "jobTitle": "Remote Work &amp; Ergonomics Reviewer",
+ "sameAs": [
+ "https://twitter.com/highlowmystery",
+ "https://linkedin.com/in/highlowmystery"
+ ],
+ "knowsAbout": [
+ "Ergonomic chairs",
+ "Standing desks",
+ "Home office setup",
+ "Monitor arms",
+ "Laptop stands",
+ "Remote work health"
+ ]
+}
+&lt;/script&gt;
+&lt;div class="author-profile"&gt;
+ &lt;div class="author-avatar-lg" aria-hidden="true"&gt;
+ &lt;svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Sabr avatar"&gt;
+ &lt;circle cx="48" cy="48" r="48" fill="#e8f0fe"/&gt;
+ &lt;circle cx="48" cy="36" r="18" fill="#4a90d9"/&gt;
+ &lt;ellipse cx="48" cy="80" rx="28" ry="18" fill="#4a90d9"/&gt;
+ &lt;/svg&gt;
+ &lt;/div&gt;
+ &lt;div class="author-headline"&gt;
+ &lt;h1&gt;Alex Sabr&lt;/h1&gt;
+ &lt;p class="author-tagline"&gt;Remote work ergonomics reviewer · 6 years WFH · Software developer&lt;/p&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="who-i-am"&gt;Who I Am&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a software developer who has worked fully remote since 2019. Before ErgoRemote, I spent roughly &lt;strong&gt;$800 on the wrong chairs&lt;/strong&gt; — a mesh chair that gave me mid-back pain, a &amp;ldquo;ergonomic&amp;rdquo; gaming chair that was worse, and a secondhand Aeron that was the wrong size. Two years of chronic lower back pain followed. It turned out to be almost entirely fixable — but only once I understood what I was actually buying and why.&lt;/p&gt;</description></item><item><title>Affiliate Disclaimer</title><link>https://ergoremote.com/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ergoremote.com/disclaimer/</guid><description>&lt;h2 id="affiliate-disclosure"&gt;Affiliate Disclosure&lt;/h2&gt;
 &lt;p&gt;ErgoRemote participates in affiliate marketing programs, including the &lt;strong&gt;Amazon Services LLC Associates Program&lt;/strong&gt;, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.&lt;/p&gt;
 &lt;p&gt;When you click a link on this site and make a purchase, we may receive a small commission. This comes at &lt;strong&gt;no additional cost to you&lt;/strong&gt; — you pay the same price you would if you went directly to Amazon or the brand&amp;rsquo;s site.&lt;/p&gt;</description></item></channel></rss>
