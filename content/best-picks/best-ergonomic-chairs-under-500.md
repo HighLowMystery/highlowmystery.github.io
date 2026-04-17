@@ -6,6 +6,11 @@ description = "After years of back pain and three bad chair purchases, I found w
 categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget"]
 author = "Alex Sabr"
+[cover]
+  image = "https://images.unsplash.com/photo-1524678714210-9917a6c619c2?w=800&q=80"
+  alt = "Best ergonomic chairs under 500 dollars"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

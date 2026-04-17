@@ -7,6 +7,11 @@ categories = ["comparisons"]
 tags = ["herman-miller", "steelcase", "ergonomic-chair", "premium-chair", "comparison", "home-office", "2026"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+  alt = "Herman Miller Aeron vs Steelcase Leap chair comparison"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

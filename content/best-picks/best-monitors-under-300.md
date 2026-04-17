@@ -7,6 +7,11 @@ categories = ["best-picks"]
 tags = ["monitor", "home-office", "remote-work", "budget"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=800&q=80"
+  alt = "Monitor setup for home office"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

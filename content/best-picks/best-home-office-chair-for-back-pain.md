@@ -8,6 +8,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "lumbar-support"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+  alt = "Home office chair setup for back pain"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

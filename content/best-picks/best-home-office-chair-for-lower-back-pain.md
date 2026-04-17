@@ -8,6 +8,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "lower-back-pain", "lumbar-support"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80"
+  alt = "Person with lower back pain at desk"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

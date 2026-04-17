@@ -7,6 +7,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "budget", "home-office", "back-pain", "2026"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80"
+  alt = "Budget ergonomic chair for back pain"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

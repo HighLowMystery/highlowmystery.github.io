@@ -7,6 +7,11 @@ categories = ["best-picks"]
 tags = ["laptop-stand", "home-office", "ergonomics", "neck-pain", "wfh", "2026"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80"
+  alt = "Laptop on stand at desk"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

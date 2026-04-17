@@ -6,6 +6,11 @@ description = "A practical home office setup guide for remote workers on a real 
 categories = ["how-to"]
 tags = ["home-office-setup", "budget", "ergonomics", "remote-work"]
 author = "Alex Sabr"
+[cover]
+  image = "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=800&q=80"
+  alt = "Home office setup under 1000 dollars"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

@@ -8,6 +8,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "back-pain", "home-office", "reviews"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1593642634367-d91a135587b5?w=800&q=80"
+  alt = "Ergonomic office chair for back pain relief"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

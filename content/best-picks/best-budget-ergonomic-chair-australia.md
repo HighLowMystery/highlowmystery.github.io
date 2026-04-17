@@ -8,6 +8,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget", "australia"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=80"
+  alt = "Budget ergonomic chair Australia"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

@@ -8,6 +8,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget", "uk"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1527515545081-5db817172677?w=800&q=80"
+  alt = "Budget ergonomic chair UK"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

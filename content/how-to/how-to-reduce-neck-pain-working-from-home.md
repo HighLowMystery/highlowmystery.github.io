@@ -7,6 +7,11 @@ categories = ["how-to"]
 tags = ["neck-pain", "ergonomics", "home-office", "monitor-arm", "posture", "wfh", "2026"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1571019613576-2b22c76fd955?w=800&q=80"
+  alt = "Neck pain relief working from home"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

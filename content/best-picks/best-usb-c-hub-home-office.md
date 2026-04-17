@@ -7,6 +7,11 @@ categories = ["best-picks"]
 tags = ["usb-c-hub", "home-office", "macbook", "windows", "docking-station", "2026"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+  alt = "USB-C hub and desk accessories"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

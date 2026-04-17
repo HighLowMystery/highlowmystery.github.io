@@ -8,6 +8,11 @@ categories = ["best-picks"]
 tags = ["ergonomic-chair", "home-office", "back-pain", "budget", "malaysia"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+  alt = "Budget ergonomic chair Malaysia"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

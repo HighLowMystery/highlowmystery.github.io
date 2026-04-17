@@ -7,6 +7,11 @@ categories = ["comparisons"]
 tags = ["standing-desk", "flexispot", "uplift", "comparison", "home-office", "2026"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=800&q=80"
+  alt = "Flexispot E7 vs Uplift V2 standing desk comparison"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

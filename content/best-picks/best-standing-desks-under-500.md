@@ -7,6 +7,11 @@ categories = ["best-picks"]
 tags = ["standing-desk", "home-office", "ergonomics", "budget"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80"
+  alt = "Standing desk home office setup"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

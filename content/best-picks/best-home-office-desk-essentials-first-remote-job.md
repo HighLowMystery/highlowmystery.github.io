@@ -7,6 +7,11 @@ categories = ["best-picks"]
 tags = ["home-office", "remote-work", "desk-setup", "first-job", "essentials"]
 author = "Alex Sabr"
 amazonTag = "highlowmyst0e-20"
+[cover]
+  image = "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80"
+  alt = "Home office desk essentials for remote work"
+  caption = ""
+
 +++
 
 {{< quick-answer >}}

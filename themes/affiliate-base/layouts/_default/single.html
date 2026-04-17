@@ -20,6 +20,15 @@
 
     {{/* ── Article header ── */}}
     <header class="post-header">
+      {{/* ── Cover image ── */}}
+      {{ with .Params.cover }}
+      {{ with .image }}
+      <div class="post-cover">
+        <img src="{{ . }}" alt="{{ $.Params.cover.alt | default $.Title }}" loading="eager" width="800" height="450" itemprop="image">
+        {{ with $.Params.cover.caption }}<p class="cover-caption">{{ . }}</p>{{ end }}
+      </div>
+      {{ end }}
+      {{ end }}
       <div class="post-meta">
         <span class="post-category">{{ .Section | humanize }}</span>
         <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
