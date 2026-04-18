@@ -66,6 +66,7 @@
 
 {{/* ── JSON-LD: Article (post pages only) ── */}}
 {{ if and .IsPage (not .IsHome) }}
+{{ partial "author_schema.html" . }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

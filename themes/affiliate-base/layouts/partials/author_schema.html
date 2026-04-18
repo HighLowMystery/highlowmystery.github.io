@@ -1,0 +1,12 @@
+{{ $author := .Params.author | default "Alex Sabr" }}
+{{ $authorUrl := "about" | absURL }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ $author | jsonify }},
+  "url": {{ $authorUrl | jsonify }},
+  "description": "Alex Sabr is a remote work ergonomics reviewer with 5+ years of WFH experience and hands-on testing across chairs, desks, monitors, and accessories.",
+  "sameAs": []
+}
+</script>

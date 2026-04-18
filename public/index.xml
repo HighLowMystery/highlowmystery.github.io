@@ -231,12 +231,8 @@
 }
 &lt;/script&gt;
 &lt;div class="author-profile"&gt;
- &lt;div class="author-avatar-lg" aria-hidden="true"&gt;
- &lt;svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Sabr avatar"&gt;
- &lt;circle cx="48" cy="48" r="48" fill="#e8f0fe"/&gt;
- &lt;circle cx="48" cy="36" r="18" fill="#4a90d9"/&gt;
- &lt;ellipse cx="48" cy="80" rx="28" ry="18" fill="#4a90d9"/&gt;
- &lt;/svg&gt;
+ &lt;div class="author-avatar-lg"&gt;
+ &lt;img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=480&amp;q=80" alt="Professional headshot placeholder for Alex Sabr" width="160" height="160" style="border-radius:50%;object-fit:cover;"&gt;
  &lt;/div&gt;
  &lt;div class="author-headline"&gt;
  &lt;h1&gt;Alex Sabr&lt;/h1&gt;
@@ -244,6 +240,6 @@
  &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id="who-i-am"&gt;Who I Am&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a software developer who has worked fully remote since 2019. Before ErgoRemote, I spent roughly &lt;strong&gt;$800 on the wrong chairs&lt;/strong&gt; — a mesh chair that gave me mid-back pain, a &amp;ldquo;ergonomic&amp;rdquo; gaming chair that was worse, and a secondhand Aeron that was the wrong size. Two years of chronic lower back pain followed. It turned out to be almost entirely fixable — but only once I understood what I was actually buying and why.&lt;/p&gt;</description></item><item><title>Affiliate Disclaimer</title><link>https://ergoremote.com/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ergoremote.com/disclaimer/</guid><description>&lt;h2 id="affiliate-disclosure"&gt;Affiliate Disclosure&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Alex Sabr — a software developer, ergonomics enthusiast, and full-time remote worker since 2019. Over the last 5+ years of working from home, I&amp;rsquo;ve tested dozens of chairs, desks, monitors, and accessories in a real day-to-day setup. At this point I&amp;rsquo;ve worked through &lt;strong&gt;50+ chairs and desk setups&lt;/strong&gt; directly, either through personal purchases, long-term testing, or extended hands-on comparisons.&lt;/p&gt;</description></item><item><title>Affiliate Disclaimer</title><link>https://ergoremote.com/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ergoremote.com/disclaimer/</guid><description>&lt;h2 id="affiliate-disclosure"&gt;Affiliate Disclosure&lt;/h2&gt;
 &lt;p&gt;ErgoRemote participates in affiliate marketing programs, including the &lt;strong&gt;Amazon Services LLC Associates Program&lt;/strong&gt;, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.&lt;/p&gt;
 &lt;p&gt;When you click a link on this site and make a purchase, we may receive a small commission. This comes at &lt;strong&gt;no additional cost to you&lt;/strong&gt; — you pay the same price you would if you went directly to Amazon or the brand&amp;rsquo;s site.&lt;/p&gt;</description></item></channel></rss>

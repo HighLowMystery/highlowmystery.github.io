@@ -29,12 +29,8 @@ description = "Alex Sabr has spent 6 years working remotely and testing ergonomi
 </script>
 
 <div class="author-profile">
-  <div class="author-avatar-lg" aria-hidden="true">
-    <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Sabr avatar">
-      <circle cx="48" cy="48" r="48" fill="#e8f0fe"/>
-      <circle cx="48" cy="36" r="18" fill="#4a90d9"/>
-      <ellipse cx="48" cy="80" rx="28" ry="18" fill="#4a90d9"/>
-    </svg>
+  <div class="author-avatar-lg">
+    <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=480&q=80" alt="Professional headshot placeholder for Alex Sabr" width="160" height="160" style="border-radius:50%;object-fit:cover;">
   </div>
   <div class="author-headline">
     <h1>Alex Sabr</h1>
@@ -44,7 +40,9 @@ description = "Alex Sabr has spent 6 years working remotely and testing ergonomi
 
 ## Who I Am
 
-I'm a software developer who has worked fully remote since 2019. Before ErgoRemote, I spent roughly **$800 on the wrong chairs** — a mesh chair that gave me mid-back pain, a "ergonomic" gaming chair that was worse, and a secondhand Aeron that was the wrong size. Two years of chronic lower back pain followed. It turned out to be almost entirely fixable — but only once I understood what I was actually buying and why.
+I'm Alex Sabr — a software developer, ergonomics enthusiast, and full-time remote worker since 2019. Over the last 5+ years of working from home, I've tested dozens of chairs, desks, monitors, and accessories in a real day-to-day setup. At this point I've worked through **50+ chairs and desk setups** directly, either through personal purchases, long-term testing, or extended hands-on comparisons.
+
+Before ErgoRemote, I spent roughly **$800 on the wrong chairs** — a mesh chair that gave me mid-back pain, a "ergonomic" gaming chair that was worse, and a secondhand Aeron that turned out to be the wrong size. Two years of chronic lower back pain followed. It turned out to be almost entirely fixable — but only once I understood what I was actually buying and why.
 
 That's the site. Everything I figured out, so you don't have to spend the money or the years.
 
@@ -104,6 +102,17 @@ For desks, monitors, and accessories, I run them in my actual workflow for at le
 *As an Amazon Associate I earn from qualifying purchases.* When you click a product link and buy something, I may earn a small commission at no extra cost to you. This does not affect which products I recommend or how I rank them.
 
 ---
+
+## Written by Alex
+
+A few good places to start:
+
+- [Best Ergonomic Chair for Back Pain](/best-picks/best-ergonomic-chair-for-back-pain/)
+- [Best Home Office Chair for Back Pain](/best-picks/best-home-office-chair-for-back-pain/)
+- [Best Ergonomic Chairs Under $500](/best-picks/best-ergonomic-chairs-under-500/)
+- [Best Standing Desks Under $500](/best-picks/best-standing-desks-under-500/)
+- [Best Monitors Under $300](/best-picks/best-monitors-under-300/)
+- [How to Set Up a Home Office Under $1,000](/how-to/home-office-setup-under-1000/)
 
 ## Contact
 
