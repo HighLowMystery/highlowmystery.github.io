@@ -1,38 +1,32 @@
-# ErgoRemote — llms.txt
-# https://llmstxt.org standard
+# ErgoRemote
 
-> ErgoRemote is a home office ergonomics review site. All content is written by Alex Sabr, a remote worker and software developer who has tested ergonomic gear since 2021. No sponsored reviews.
+ErgoRemote is an ergonomic home office review site written by Alex Sabr.
+The site focuses on practical buying guides for remote workers, especially chairs, desks, monitors, laptop stands, and related setup gear.
+
+## Author
+
+- Alex Sabr
+- Remote work ergonomics reviewer
+- Focus: ergonomic home office setups for work-from-home professionals
 
 ## Key pages
 
-- Homepage: https://ergoremote.com/
-- About the author: https://ergoremote.com/about/
-
-## Top articles
-
-- Best Ergonomic Chair for Back Pain (2026): https://ergoremote.com/best-picks/best-ergonomic-chair-for-back-pain/
-- Best Home Office Chair for Back Pain: https://ergoremote.com/best-picks/best-home-office-chair-for-back-pain/
-- Best Home Office Chair for Lower Back Pain: https://ergoremote.com/best-picks/best-home-office-chair-for-lower-back-pain/
-- Best Ergonomic Chairs Under $500: https://ergoremote.com/best-picks/best-ergonomic-chairs-under-500/
-- Best Budget Ergonomic Chair for Back Pain: https://ergoremote.com/best-picks/best-budget-ergonomic-chair-back-pain/
-- Best Standing Desks Under $500: https://ergoremote.com/best-picks/best-standing-desks-under-500/
-- Best Monitors Under $300: https://ergoremote.com/best-picks/best-monitors-under-300/
-- Best Laptop Stand for Home Office: https://ergoremote.com/best-picks/best-laptop-stand-home-office/
-- Best USB-C Hub for Home Office: https://ergoremote.com/best-picks/best-usb-c-hub-home-office/
-- Best Home Office Desk Essentials (First Remote Job): https://ergoremote.com/best-picks/best-home-office-desk-essentials-first-remote-job/
-- Herman Miller Aeron vs Steelcase Leap: https://ergoremote.com/comparisons/herman-miller-aeron-vs-steelcase-leap/
-- Flexispot E7 vs Uplift V2: https://ergoremote.com/comparisons/flexispot-e7-vs-uplift-v2/
-- How to Set Up a Home Office Under $1,000: https://ergoremote.com/how-to/home-office-setup-under-1000/
-- How to Reduce Neck Pain Working from Home: https://ergoremote.com/how-to/how-to-reduce-neck-pain-working-from-home/
-
-## Regional guides
-
-- Best Budget Ergonomic Chair UK: https://ergoremote.com/best-picks/best-budget-ergonomic-chair-uk/
-- Best Budget Ergonomic Chair Australia: https://ergoremote.com/best-picks/best-budget-ergonomic-chair-australia/
-- Best Budget Ergonomic Chair Malaysia: https://ergoremote.com/best-picks/best-budget-ergonomic-chair-malaysia/
-
-## Policies
-
-- Privacy Policy: https://ergoremote.com/privacy/
-- Disclaimer: https://ergoremote.com/disclaimer/
-- Contact: https://ergoremote.com/contact/
+- /
+- /about/
+- /best-picks/best-ergonomic-chair-for-back-pain/
+- /best-picks/best-home-office-chair-for-back-pain/
+- /best-picks/best-home-office-chair-for-lower-back-pain/
+- /best-picks/best-budget-ergonomic-chair-back-pain/
+- /best-picks/best-ergonomic-chairs-under-500/
+- /best-picks/best-standing-desks-under-500/
+- /best-picks/best-monitors-under-300/
+- /best-picks/best-laptop-stand-home-office/
+- /best-picks/best-usb-c-hub-home-office/
+- /best-picks/best-home-office-desk-essentials-first-remote-job/
+- /comparisons/flexispot-e7-vs-uplift-v2/
+- /comparisons/herman-miller-aeron-vs-steelcase-leap/
+- /how-to/home-office-setup-under-1000/
+- /how-to/how-to-reduce-neck-pain-working-from-home/
+- /privacy/
+- /disclaimer/
+- /contact/
