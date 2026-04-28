@@ -49,7 +49,7 @@ The 5-year warranty is significantly longer than the 2–3 years typical of comp
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall MY"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Malaysian remote workers who want the most adjustability under RM1,500 and plan to use the chair for 4–5+ years.
 
@@ -124,7 +124,7 @@ The support and warranty experience is consistently well-reviewed by Malaysian c
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Local Support"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Malaysian buyers who prioritise local warranty support and want confidence that returns and replacements won't require international shipping.
 
@@ -189,7 +189,7 @@ One practical tip: check whether the seller ships from a Malaysian warehouse. Ch
 
 ## FAQ
 
-{{< faq items="What is the best ergonomic chair under RM1,000 in Malaysia?|The SIHOO M57 at around RM849 on Lazada or Shopee. It has adjustable lumbar height, a breathable mesh back, and an independently moveable headrest — significantly more than most chairs at this price. The only trade-off is basic armrests (height-only).||Is it safe to buy ergonomic chairs from Lazada and Shopee?|Yes, if you buy from official brand stores. Both platforms have verified official stores for SIHOO, Flexispot, and Hbada. Check the store badge and warranty terms before purchasing.||Do Malaysian ergonomic chairs come with warranty support locally?|It depends on the brand. Ergotune has local Malaysian support. Flexispot MY ships from Malaysian warehouses. SIHOO and Hbada typically handle warranty via Lazada/Shopee seller support — less streamlined but functional for most issues.||Which chair is best for Malaysia's hot climate?|Any of the full-mesh chairs on this list: Flexispot C7, SIHOO M57, Hbada E3 Pro, or Ergotune Supreme. Mesh backs allow airflow and are significantly cooler than PU leather or fabric upholstery after extended sitting sessions.||Is a gaming chair a good ergonomic chair for work?|Generally no. Gaming chairs are designed for comfort during reclined gaming sessions, not for proper lumbar support during upright desk work. The bolstered sides can restrict natural posture adjustment, and the lumbar cushion placement is often too high. For desk work, a proper ergonomic chair with adjustable lumbar is a better investment." >}}
+{{< faq items="What is the best ergonomic chair under RM1,000 in Malaysia?|The SIHOO M57 at around RM849 on Lazada or Shopee. It has adjustable lumbar height, a breathable mesh back, and an independently moveable headrest — significantly more than most chairs at this price. The only trade-off is basic armrests (height-only).||Is it safe to buy ergonomic chairs from Lazada and Shopee?|Yes, if you buy from official brand stores. Both platforms have verified official stores for SIHOO, Flexispot, and Hbada. Check the store badge and warranty terms before purchasing.||Do Malaysian ergonomic chairs come with warranty support locally?|It depends on the brand. Ergotune has local Malaysian support. Flexispot MY ships from Malaysian warehouses. SIHOO and Hbada typically handle warranty via Lazada/Shopee seller support — less streamlined but functional for most issues.||Which chair is best for Malaysia's hot climate?|Any of the full-mesh chairs on this list: Flexispot C7, SIHOO M57, Hbada E3 Pro, or Ergotune Supreme. Mesh backs allow airflow and are significantly cooler than PU leather or fabric upholstery after extended sitting sessions.||Is a gaming chair a good ergonomic chair for work?|Generally no. Gaming chairs are designed for comfort during reclined gaming sessions, not for proper lumbar support during upright desk work. The bolstered sides can restrict natural posture adjustment, and the lumbar cushion placement is often too high. For desk work, a proper ergonomic chair with adjustable lumbar is a better investment." >}}}
 
 For the full ergonomic picture, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) covers desk, monitor, and accessories together. The [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) has US-market comparisons worth referencing. If you're experiencing neck or back pain, see the [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) for setup fixes.
 

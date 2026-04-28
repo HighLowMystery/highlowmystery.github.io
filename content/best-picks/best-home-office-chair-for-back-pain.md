@@ -50,7 +50,7 @@ The mesh back keeps airflow going during long sessions. Armrests adjust 4-ways. 
   cons="Assembly takes 45–60 minutes,Mesh may feel firm at first,Limited color options"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Most remote workers dealing with lower back pain who want real ergonomic adjustability under $400.
 
@@ -75,7 +75,7 @@ It's expensive. But a refurbished Aeron from a reputable dealer runs $600–800 
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Premium Pick"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** People who sit 8+ hours daily, have serious back issues, or want to buy once and never think about chairs again.
 
@@ -125,7 +125,7 @@ Like the Aeron, look for certified refurbished units. The frame is built to last
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Active Sitters"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** People who shift posture constantly and find static lumbar support chairs uncomfortable after a few hours.
 
@@ -150,7 +150,7 @@ It ships free and assembles in about 20 minutes — the clearest instructions I'
   link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C15B3HN1&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Remote workers who want ergonomic adjustability and a foam seat (warmer, softer) at a price under $350.
 
@@ -194,7 +194,7 @@ Getting setup right matters as much as the chair itself.
 
 ## FAQ
 
-{{< faq items="What chair is best for lower back pain specifically?|The Flexispot C7 for under $400, or the Herman Miller Aeron for a premium buy. Both support the lumbar curve specifically. The key feature to look for is adjustable lumbar depth — not just a fixed bump.||Can a $200 chair fix back pain?|Rarely. Under $200, corners get cut on the lumbar mechanism. You'll get a chair-shaped object, not ergonomic support. The minimum for genuine adjustable support is around $250–280 (SIHOO M57 territory).||How long should I sit before taking a break?|The research consensus is 45–50 minutes of sitting followed by a 5–10 minute movement break. Even the best ergonomic chair doesn't eliminate the need to move — it just makes the sitting portion less damaging.||Is a used Herman Miller Aeron worth buying?|Yes — one of the best value plays in home office gear. A certified refurbished Aeron from a reputable dealer runs $500–700, lasts decades, and the PostureFit SL support is still better than most new chairs at $500. Confirm it comes with a warranty before buying.||Does chair material matter for back pain?|Mesh breathes better (less heat buildup) and maintains its support shape longer than foam. Foam can be more comfortable short-term but compresses over time. For back pain specifically, the lumbar adjustment matters far more than seat material." >}}
+{{< faq items="What chair is best for lower back pain specifically?|The Flexispot C7 for under $400, or the Herman Miller Aeron for a premium buy. Both support the lumbar curve specifically. The key feature to look for is adjustable lumbar depth — not just a fixed bump.||Can a $200 chair fix back pain?|Rarely. Under $200, corners get cut on the lumbar mechanism. You'll get a chair-shaped object, not ergonomic support. The minimum for genuine adjustable support is around $250–280 (SIHOO M57 territory).||How long should I sit before taking a break?|The research consensus is 45–50 minutes of sitting followed by a 5–10 minute movement break. Even the best ergonomic chair doesn't eliminate the need to move — it just makes the sitting portion less damaging.||Is a used Herman Miller Aeron worth buying?|Yes — one of the best value plays in home office gear. A certified refurbished Aeron from a reputable dealer runs $500–700, lasts decades, and the PostureFit SL support is still better than most new chairs at $500. Confirm it comes with a warranty before buying.||Does chair material matter for back pain?|Mesh breathes better (less heat buildup) and maintains its support shape longer than foam. Foam can be more comfortable short-term but compresses over time. For back pain specifically, the lumbar adjustment matters far more than seat material." >}}}
 
 For more chair options across all price points, see the [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) and our [lower back pain focused picks](/best-picks/best-home-office-chair-for-lower-back-pain/). If neck pain is also an issue, the [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/) covers monitor and posture fixes. For a full workspace build, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) is a good next read.
 

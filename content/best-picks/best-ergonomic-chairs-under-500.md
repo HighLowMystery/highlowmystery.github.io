@@ -27,7 +27,7 @@ So I started researching properly. Not just reading the Amazon listing — actua
 
 Here's what I learned.
 
-{{< quickpicks items="Autonomous ErgoChair Pro:Best Overall Under $500:https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20,Sihoo M57:Best Budget Pick Under $300:https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20,HAG Capisco (Used):Best for Standing Desk Users:https://www.amazon.com/s?k=HAG+Capisco+chair&tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty Under $500:https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Autonomous ErgoChair Pro:Best Overall Under $500:https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20,Sihoo M57:Best Budget Pick Under $300:https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20,HAG Capisco (Used):Best for Standing Desk Users:https://www.amazon.com/s?k=HAG+Capisco+chair&tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty Under $500:https://www.amazon.com/s?k=branch+ergonomic+chair&tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20" >}}}
 
 ---
 
@@ -51,7 +51,7 @@ Before the reviews, let me save you from the marketing fluff:
 
 **Breathable material.** Cheap foam seats turn into sweat traps by hour three. Mesh seats aren't always better (bad mesh sags), but good mesh beats foam every time.
 
-{{< callout type="tip" >}}
+{{< callout type="tip" >}}}
 **The 90/90/90 rule:** Hips at 90°, knees at 90°, elbows at 90° when typing. Your chair should make this position *easy*, not something you have to force.
 {{< /callout >}}
 
@@ -63,7 +63,7 @@ Before the reviews, let me save you from the marketing fluff:
 
 **Verdict:** Best overall under $500 with adjustable lumbar, 4D armrests, and a breathable mesh back in one package. Assembly takes 45+ minutes and the lumbar dial requires trial and error to dial in correctly.
 
-{{< product name="Autonomous ErgoChair Pro" price="" rating="4.6" badge="Best Overall" pros="Adjustable lumbar height and depth,4D armrests included,Breathable mesh back,Recline with tension control" cons="Assembly takes 45+ minutes,Seat cushion is firm (softens over time),Lumbar adjustment takes trial and error" link="https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20" >}}
+{{< product name="Autonomous ErgoChair Pro" price="" rating="4.6" badge="Best Overall" pros="Adjustable lumbar height and depth,4D armrests included,Breathable mesh back,Recline with tension control" cons="Assembly takes 45+ minutes,Seat cushion is firm (softens over time),Lumbar adjustment takes trial and error" link="https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0FL2JGMK5&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 I've been in this chair for eight months. The lumbar support is what sold me — you can move it up and down about 3 inches AND adjust the depth. That combination is rare under $500. Herman Miller chairs do it. Most $200 chairs don't.
 
@@ -77,7 +77,7 @@ The biggest downside: assembly. Budget an hour, not 20 minutes. The instructions
 
 **Verdict:** Best sub-$300 mesh chair with adjustable lumbar height and a moveable headrest — more than any competitor offers at this price. Armrests only adjust in height, not angle or width, which matters if you're broad-shouldered.
 
-{{< product name="Sihoo M57" price="" rating="4.4" badge="Best Budget" pros="Under $300,Decent lumbar support,Adjustable headrest,Looks good on camera" cons="Armrests only adjust in height (not 4D),Lumbar support can't be fine-tuned,Not great for people over 6'1" link="https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20" >}}
+{{< product name="Sihoo M57" price="" rating="4.4" badge="Best Budget" pros="Under $300,Decent lumbar support,Adjustable headrest,Looks good on camera" cons="Armrests only adjust in height (not 4D),Lumbar support can't be fine-tuned,Not great for people over 6'1" link="https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BDFW1Y7&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 For under $300, the Sihoo M57 punches above its weight. The lumbar support is fixed position (not adjustable height) which is a legitimate downside, but for most average-height people, it sits in the right spot.
 
@@ -122,7 +122,7 @@ What I'd skip it for: if you're tall (over 6'1") or if back pain is a real issue
 - Lumbar pillow attached to the back with a strap (not built-in support)
 - No weight capacity listed
 
-{{< callout type="warning" >}}
+{{< callout type="warning" >}}}
 Avoid chairs that only list "ergonomic design" in the specs without actual adjustment measurements. That's marketing, not ergonomics.
 {{< /callout >}}
 
@@ -130,7 +130,7 @@ Avoid chairs that only list "ergonomic design" in the specs without actual adjus
 
 ## FAQ
 
-{{< faq items="How much should I spend on an ergonomic chair?|For 6+ hours/day, spend at least $300. Under that, you're buying aesthetics, not ergonomics. If budget is real constraint, buy used — a $200 used Herman Miller Aeron will beat a $200 new no-name chair every time.||Is mesh or foam better?|Good mesh beats cheap foam. Bad mesh sags within a year. The ErgoChair Pro has good mesh. When in doubt, read 1-year-out reviews on Reddit, not the product page.||How long until a new chair feels comfortable?|Give any chair 2-3 weeks. Your body adapts to its old chair, bad habits and all. The new chair forces correct posture, which feels weird at first.||What if my back still hurts after a new chair?|Check your monitor height (top of screen should be at or just below eye level) and keyboard position (elbows at 90°, wrists neutral). A great chair can't fix a bad overall setup. ---" >}}
+{{< faq items="How much should I spend on an ergonomic chair?|For 6+ hours/day, spend at least $300. Under that, you're buying aesthetics, not ergonomics. If budget is real constraint, buy used — a $200 used Herman Miller Aeron will beat a $200 new no-name chair every time.||Is mesh or foam better?|Good mesh beats cheap foam. Bad mesh sags within a year. The ErgoChair Pro has good mesh. When in doubt, read 1-year-out reviews on Reddit, not the product page.||How long until a new chair feels comfortable?|Give any chair 2-3 weeks. Your body adapts to its old chair, bad habits and all. The new chair forces correct posture, which feels weird at first.||What if my back still hurts after a new chair?|Check your monitor height (top of screen should be at or just below eye level) and keyboard position (elbows at 90°, wrists neutral). A great chair can't fix a bad overall setup. ---" >}}}
 
 For back-pain-specific picks, see our [best ergonomic chair for back pain](/best-picks/best-ergonomic-chair-for-back-pain/) and [home office chair for back pain](/best-picks/best-home-office-chair-for-back-pain/) guides. To compare the two best premium options, check the [Herman Miller Aeron vs Steelcase Leap](/comparisons/herman-miller-aeron-vs-steelcase-leap/) breakdown. Building a full desk setup? The [best standing desks under $500](/best-picks/best-standing-desks-under-500/) and [desk essentials guide](/best-picks/best-home-office-desk-essentials-first-remote-job/) are good next reads.
 

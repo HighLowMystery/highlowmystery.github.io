@@ -51,7 +51,7 @@ Your chair is the single most impactful purchase. You're in it for 6-8 hours a d
 
 **What to skip:** Any chair with a lumbar pillow attached by a strap. That's not ergonomics, that's a decoration.
 
-{{< callout type="tip" >}}
+{{< callout type="tip" >}}}
 If your budget is very tight, buy a used Herman Miller Aeron or Steelcase Leap before buying a new $200 no-name chair. eBay and Facebook Marketplace regularly have them for $150-250. A 20-year-old Herman Miller beats a new budget chair every time.
 {{< /callout >}}
 
@@ -150,7 +150,7 @@ If I had to cut to $700: chair ($280), desk frame + IKEA top ($380), use your la
 
 ## FAQ
 
-{{< faq items="Should I get a standing desk first or a chair?|Chair first. Always. You sit more than you stand, and a bad chair causes more cumulative damage than a missing standing desk. Once your chair is sorted, add a standing desk.||Is a monitor arm necessary?|Not strictly necessary, but worth the $25-35. It frees up desk space, lets you position the screen precisely, and lasts forever. Buy it the same time as the monitor.||My back hurts even with a good chair. What's wrong?|Check three things: (1) Is the lumbar support hitting your L4-L5 vertebrae specifically? (2) Are your hips slightly higher than your knees? (3) Is your screen at eye level? If all three check out and your back still hurts, see a physical therapist — gear can't fix a structural issue.||Can I make a cheap chair feel better?|Sometimes. A lumbar roll ($15-20) can help with lower back support. A seat cushion helps if the seat is too firm. But these are band-aids — if you're in serious pain, spend the money on a real chair. ---" >}}
+{{< faq items="Should I get a standing desk first or a chair?|Chair first. Always. You sit more than you stand, and a bad chair causes more cumulative damage than a missing standing desk. Once your chair is sorted, add a standing desk.||Is a monitor arm necessary?|Not strictly necessary, but worth the $25-35. It frees up desk space, lets you position the screen precisely, and lasts forever. Buy it the same time as the monitor.||My back hurts even with a good chair. What's wrong?|Check three things: (1) Is the lumbar support hitting your L4-L5 vertebrae specifically? (2) Are your hips slightly higher than your knees? (3) Is your screen at eye level? If all three check out and your back still hurts, see a physical therapist — gear can't fix a structural issue.||Can I make a cheap chair feel better?|Sometimes. A lumbar roll ($15-20) can help with lower back support. A seat cushion helps if the seat is too firm. But these are band-aids — if you're in serious pain, spend the money on a real chair. ---" >}}}
 
 For deeper dives on each category: [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/), [best standing desks under $500](/best-picks/best-standing-desks-under-500/), [best monitors under $300](/best-picks/best-monitors-under-300/), and [best laptop stands](/best-picks/best-laptop-stand-home-office/). If back pain is the main issue, the [home office chair for back pain guide](/best-picks/best-home-office-chair-for-back-pain/) covers setup in detail. Neck pain after setup? See the [neck pain working from home guide](/how-to/how-to-reduce-neck-pain-working-from-home/).
 

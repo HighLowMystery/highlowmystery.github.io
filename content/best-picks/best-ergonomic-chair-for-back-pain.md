@@ -47,7 +47,7 @@ Why it works: The C7's lumbar support adjusts both vertically (to match your lum
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Anyone with low-to-moderate back pain who needs custom lumbar positioning but doesn't want to spend Aeron money.
 
@@ -70,7 +70,7 @@ Why it works: Aeron's PostureFit SL system provides the only true dual-zone supp
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best for Committed Sitter"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Serious back pain sufferers, or people who want the "final chair purchase ever" with zero compromises.
 
@@ -93,7 +93,7 @@ Why it works: The Leap's LiveBack system contours to your shape and moves with y
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Movers"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Who it's for:** Restless workers who struggle with fixed-back chairs, or anyone who wants variety in seating posture.
 
@@ -187,5 +187,5 @@ Once the chair is sorted, the next biggest ergonomic wins are monitor height and
 
 ## FAQ
 
-{{< faq items="What's the #1 cause of back pain from office chairs?|Lack of adjustable lumbar support — most office chairs have none, or a fixed bump that can worsen pain for some people.||Should I get mesh or padded seats for back pain?|Mesh keeps you cooler and tends to maintain support shape longer. Padded seats can be more comfortable at first but may compress. For back pain, lumbar fit is more important than seat material.||What's the best chair under $300 for back pain relief?|The SIHOO M57 at $279. It has real lumbar height adjustment, mesh support, and is a major upgrade over standard office/kitchen chairs.||Are secondhand premium chairs worth it?|Absolutely if bought from a reputable dealer. Used Aerons and Leap V2s still outperform most new chairs at half the price. Check for warranty and frame integrity.||Does chair fit or monitor height matter more?|For back pain, chair fit (especially lumbar contact) is king — but monitor height is #2. Low screens force forward-head posture, which loads the whole spine including lower and mid back. Ideally fix both." >}}
+{{< faq items="What's the #1 cause of back pain from office chairs?|Lack of adjustable lumbar support — most office chairs have none, or a fixed bump that can worsen pain for some people.||Should I get mesh or padded seats for back pain?|Mesh keeps you cooler and tends to maintain support shape longer. Padded seats can be more comfortable at first but may compress. For back pain, lumbar fit is more important than seat material.||What's the best chair under $300 for back pain relief?|The SIHOO M57 at $279. It has real lumbar height adjustment, mesh support, and is a major upgrade over standard office/kitchen chairs.||Are secondhand premium chairs worth it?|Absolutely if bought from a reputable dealer. Used Aerons and Leap V2s still outperform most new chairs at half the price. Check for warranty and frame integrity.||Does chair fit or monitor height matter more?|For back pain, chair fit (especially lumbar contact) is king — but monitor height is #2. Low screens force forward-head posture, which loads the whole spine including lower and mid back. Ideally fix both." >}}}
 

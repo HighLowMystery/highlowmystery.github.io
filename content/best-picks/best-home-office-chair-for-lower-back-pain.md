@@ -49,7 +49,7 @@ The seat depth slider is also worth calling out: it lets you sit with your back 
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Best for:** Remote workers with chronic lower back pain who want real adjustability without spending $1,000+. See also: [best home office chair for back pain](/best-picks/best-home-office-chair-for-back-pain/) for a broader view.
 
@@ -74,7 +74,7 @@ The PostureFit SL holds the sacrum in a neutral tilt, which naturally preserves 
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best Lumbar Engineering"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Best for:** People with persistent lower back pain who've tried other chairs without lasting relief, or anyone sitting 8+ hours daily.
 
@@ -99,7 +99,7 @@ This works particularly well for people whose lower back pain comes from sustain
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best Dynamic Support"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Best for:** People who shift posture frequently and find static lumbar support chairs uncomfortable after 2–3 hours.
 
@@ -124,7 +124,7 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
   link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value Under $350"
  
->}}
+ image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C15B3HN1&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 **Best for:** Remote workers who want lumbar depth adjustment and prefer a softer foam seat over mesh at a price under $350.
 
@@ -197,7 +197,7 @@ One thing I'd stress: no chair fixes lower back pain on its own. You need the ch
 
 ## FAQ
 
-{{< faq items="What type of chair is best for lower back pain?|A chair with adjustable lumbar support (height and ideally depth), correct seat depth for your leg length, and the ability to recline slightly past 90°. The lumbar support must actually contact your lower back — if there's a gap between your back and the support, the chair isn't helping regardless of its specs.||Can the wrong chair cause lower back pain?|Yes, directly. A chair with no lumbar support causes the lumbar muscles to work constantly against gravity, leading to fatigue and pain within hours. A chair with a fixed lumbar bump in the wrong position can actively worsen posture. Incorrect seat depth causes the pelvis to tilt backward, flattening the lumbar curve.||How long does it take for a new chair to fix back pain?|Most people notice improvement within 1–2 weeks of correct setup. If pain persists after 2–3 weeks with proper adjustment, the issue may be disc-related rather than postural — consult a physiotherapist before attributing it to the chair.||Is a standing desk better than an ergonomic chair for lower back pain?|They address different problems. An ergonomic chair reduces compression and muscle fatigue during seated time. A standing desk reduces total seated time. The combination — sit with proper support, stand occasionally, move regularly — is better than either alone. If forced to choose one, fix the chair first (you'll always spend more time seated than standing).||What's the difference between lumbar support and back support?|Back support refers to the entire backrest. Lumbar support specifically refers to the region of the lower spine (roughly L1–L5, at belt level). Good lumbar support targets this specific zone. Chairs that only offer a full backrest without targeted lumbar positioning often miss the exact area that needs support." >}}
+{{< faq items="What type of chair is best for lower back pain?|A chair with adjustable lumbar support (height and ideally depth), correct seat depth for your leg length, and the ability to recline slightly past 90°. The lumbar support must actually contact your lower back — if there's a gap between your back and the support, the chair isn't helping regardless of its specs.||Can the wrong chair cause lower back pain?|Yes, directly. A chair with no lumbar support causes the lumbar muscles to work constantly against gravity, leading to fatigue and pain within hours. A chair with a fixed lumbar bump in the wrong position can actively worsen posture. Incorrect seat depth causes the pelvis to tilt backward, flattening the lumbar curve.||How long does it take for a new chair to fix back pain?|Most people notice improvement within 1–2 weeks of correct setup. If pain persists after 2–3 weeks with proper adjustment, the issue may be disc-related rather than postural — consult a physiotherapist before attributing it to the chair.||Is a standing desk better than an ergonomic chair for lower back pain?|They address different problems. An ergonomic chair reduces compression and muscle fatigue during seated time. A standing desk reduces total seated time. The combination — sit with proper support, stand occasionally, move regularly — is better than either alone. If forced to choose one, fix the chair first (you'll always spend more time seated than standing).||What's the difference between lumbar support and back support?|Back support refers to the entire backrest. Lumbar support specifically refers to the region of the lower spine (roughly L1–L5, at belt level). Good lumbar support targets this specific zone. Chairs that only offer a full backrest without targeted lumbar positioning often miss the exact area that needs support." >}}}
 
 For a broader chair comparison, see the [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/) or the [Herman Miller Aeron vs Steelcase Leap](/comparisons/herman-miller-aeron-vs-steelcase-leap/) head-to-head. If you're also battling neck pain, the [neck pain guide](/how-to/how-to-reduce-neck-pain-working-from-home/) covers monitor height fixes. For the full workspace picture, check the [home office setup under $1,000](/how-to/home-office-setup-under-1000/).
 

@@ -35,7 +35,7 @@ Fast-forward to today: I've owned and tested more budget ergonomic chairs than I
 
 ---
 
-{{< quickpicks items="SIHOO M57:Best Under $300:https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="SIHOO M57:Best Under $300:https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20,Flexispot C7:Best for Tall People:https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20,Branch Ergonomic Chair:Best Warranty:https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20,NOUHAUS Ergo3D:Most Adjustable:https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20,ComHoma Office Chair:Best Under $150:https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" >}}}
 
 ---
 
@@ -71,7 +71,7 @@ If back pain is already an issue, also read the [home office chair for back pain
 
 **Verdict:** Best sub-$300 mesh chair with adjustable lumbar height and a moveable headrest — more than any competitor offers at this price. Armrests only adjust in height, not angle or width, which matters if you're broad-shouldered.
 
-{{< product name="SIHOO M57" price="" rating="4.4" badge="Budget Pick" pros="Adjustable lumbar,3D armrests,Mesh back,Easy assembly" cons="Fixed headrest,Armrests wobble,Narrow seat for big frames" link="https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20" >}}
+{{< product name="SIHOO M57" price="" rating="4.4" badge="Budget Pick" pros="Adjustable lumbar,3D armrests,Mesh back,Easy assembly" cons="Fixed headrest,Armrests wobble,Narrow seat for big frames" link="https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BDFW1Y7&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 If you're on a tight budget and want something actually ergonomic, the M57 is my go-to suggestion. The lumbar support actually *moves* (rare under $300), mesh feels solid, and it doesn't look out of place in a Zoom call. Downside: headrest isn't truly adjustable and wider folks will want more seat width.
 
@@ -79,7 +79,7 @@ If you're on a tight budget and want something actually ergonomic, the M57 is my
 
 **Verdict:** Best all-around budget ergonomic chair for people who sit 6+ hours a day — real lumbar depth adjustment at a non-premium price. The fabric seat wears faster than mesh, but the 5-year warranty has you covered.
 
-{{< product name="Flexispot C7" price="" rating="4.5" badge="Tall Pick" pros="Super tall seat range,Strong mesh,Good lumbar,5-year warranty" cons="Max height may be *too* tall for some,Not great for small rooms" link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20" >}}
+{{< product name="Flexispot C7" price="" rating="4.5" badge="Tall Pick" pros="Super tall seat range,Strong mesh,Good lumbar,5-year warranty" cons="Max height may be *too* tall for some,Not great for small rooms" link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 I'm 6'2" and struggled to find a chair that felt like it fit my legs. The C7 was the first where I didn't feel bunched up. Mesh is surprisingly supportive for the price. Honest catch: max height is overkill if you're under 5'8".
 
@@ -87,7 +87,7 @@ I'm 6'2" and struggled to find a chair that felt like it fit my legs. The C7 was
 
 **Verdict:** Best warranty-per-dollar on the market at $329 — 5-year coverage on a chair that actually adjusts lumbar height and depth. The foam seat runs firm, which some people love and others hate; sit in it for 30 minutes before committing.
 
-{{< product name="Branch Ergonomic Chair" price="" rating="4.3" badge="Warranty" pros="5-year warranty,Easy recline,Breathable back,Good support" cons="Seat cushion a bit stiff,Assembly takes 45+ min" link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20" >}}
+{{< product name="Branch Ergonomic Chair" price="" rating="4.3" badge="Warranty" pros="5-year warranty,Easy recline,Breathable back,Good support" cons="Seat cushion a bit stiff,Assembly takes 45+ min" link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C15B3HN1&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 This is the only chair here with a true 5-year full warranty. That alone is rare territory under $400. Everything is *decent*-support, feel, build-but the seat will need a break-in period. Not plush, not hard, just...firm.
 
@@ -95,13 +95,13 @@ This is the only chair here with a true 5-year full warranty. That alone is rare
 
 **Verdict:** Most adjustment points under $300 — elbow rests, recline tension, and seat slide all move independently. Build quality feels closer to $200 than $300; tighten all bolts at assembly and re-check at 6 months.
 
-{{< product name="NOUHAUS Ergo3D" price="" rating="4.4" badge="Adjustability" pros="Max lumbar range,4D arms,Strong mesh,Good for tall & short users" cons="Wobbly arms at max height,Heavy frame" link="https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20" >}}
+{{< product name="NOUHAUS Ergo3D" price="" rating="4.4" badge="Adjustability" pros="Max lumbar range,4D arms,Strong mesh,Good for tall & short users" cons="Wobbly arms at max height,Heavy frame" link="https://www.amazon.com/dp/B07L4ZQMDX?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07L4ZQMDX&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 You want *maximum* tweakability? The NOUHAUS wins for sheer number of adjustments. True 4D armrests (very rare at this price), mesh holds up well over time. Drawbacks: arms & headrest wobble under stress, visually a bit bulky.
 
 ### 5. ComHoma Office Chair - Best Pick Under $150
 
-{{< product name="ComHoma Office Chair" price="" rating="4.2" badge="Ultra Budget" pros="Price,Simple adjustability,Quieter casters,Small room friendly" cons="Limited lumbar,Thin seat,Short warranty" link="https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71JwTNIioOL._AC_SL1500_.jpg" >}}
+{{< product name="ComHoma Office Chair" price="" rating="4.2" badge="Ultra Budget" pros="Price,Simple adjustability,Quieter casters,Small room friendly" cons="Limited lumbar,Thin seat,Short warranty" link="https://www.amazon.com/s?k=COMHOMA+ergonomic+office+chair&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71JwTNIioOL._AC_SL1500_.jpg" >}}}
 
 For truly ultra-budget buyers (<$150), ComHoma is the only chair I'd steer you toward. Can't match the support or features above, but it is actually comfortable for 3–5 hour stints at a desk. Set your expectations. One specific thing it does right: the casters are surprisingly quiet on hardwood — a small thing that matters when you share a space.
 
@@ -119,7 +119,7 @@ Not all back pain is the same. Here's how to match the chair to your specific is
 
 **Tailbone / coccyx pain:** Mesh seats can be harder on sensitive tailbones. The ComHoma's foam seat is gentler. Alternatively, add a coccyx seat cushion ($25–40) to any mesh chair.
 
-{{< callout type="warning" >}}
+{{< callout type="warning" >}}}
 If you have a diagnosed spinal condition (herniated disc, sciatica, scoliosis), get a recommendation from a physical therapist before buying any chair. No guide can replace that assessment.
 {{< /callout >}}
 
@@ -137,7 +137,7 @@ Buying the right chair is step one. Setting it up correctly is step two - and mo
 
 **4. Check seat depth.** You should have 2-3 fingers of space between the front edge of the seat and the back of your knees. If the seat is too deep, you can't sit against the back without compressing the back of your legs - which forces you to slouch.
 
-{{< callout type="tip" >}}
+{{< callout type="tip" >}}}
 **The 90-90-90 check:** Hips at 90°, knees at 90°, elbows at 90°. Everything else follows from those three angles.
 {{< /callout >}}
 
@@ -161,13 +161,13 @@ If your budget truly can't stretch to $280+, consider the used market. A used He
 
 ## FAQ
 
-{{< faq items="How much should I spend on a budget ergonomic chair?|If you're working 6+ hours/day, spend at least $220. Anything below $150 is just a temporary solution.||Is mesh or foam better for long hours?|Mesh is better for airflow and summer. Good foam can be comfier for long days, but bad foam will wear fast.||What if my back still hurts after upgrading?|Check your monitor height - top of screen just below eye level, elbows at 90 degrees, feet flat. No chair alone will fix posture.||Can you get a good ergonomic chair for under $200?|Yes, but with trade-offs. You lose adjustability and warranty. Look at ComHoma for short stints, but plan to upgrade.||Are gaming chairs ergonomic?|99%: no. They look cool, but lack lumbar support and real adjustability. Get a real task chair for actual work." >}}
+{{< faq items="How much should I spend on a budget ergonomic chair?|If you're working 6+ hours/day, spend at least $220. Anything below $150 is just a temporary solution.||Is mesh or foam better for long hours?|Mesh is better for airflow and summer. Good foam can be comfier for long days, but bad foam will wear fast.||What if my back still hurts after upgrading?|Check your monitor height - top of screen just below eye level, elbows at 90 degrees, feet flat. No chair alone will fix posture.||Can you get a good ergonomic chair for under $200?|Yes, but with trade-offs. You lose adjustability and warranty. Look at ComHoma for short stints, but plan to upgrade.||Are gaming chairs ergonomic?|99%: no. They look cool, but lack lumbar support and real adjustability. Get a real task chair for actual work." >}}}
 
 ---
 
 ## Final Verdict
 
-{{< callout type="verdict" >}}
+{{< callout type="verdict" >}}}
 **Bottom Line:** If you have to sit all day and value your back, the Flexispot C7 is my pick for tall professionals, and the SIHOO M57 for everyone else under $300. Don't believe marketing—pick based on YOUR measurements, not the company's claims. Honest comfort always beats a fancy brand.
 {{< /callout >}}
 

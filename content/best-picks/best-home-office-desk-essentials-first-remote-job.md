@@ -26,7 +26,7 @@ My first remote job started on a dining table. Laptop balanced on a stack of boo
 
 This guide is what I wish someone had handed me on day one.
 
-{{< quickpicks items="Monitor + stand:Single biggest productivity upgrade:https://www.amazon.com/s?k=27+inch+monitor+home+office&tag=highlowmyst0e-20,Ergonomic chair:Single biggest comfort upgrade:https://www.amazon.com/s?k=ergonomic+office+chair+home&tag=highlowmyst0e-20,Laptop stand + keyboard:Fixes your neck immediately:https://www.amazon.com/dp/B01HHYQBB8?tag=highlowmyst0e-20,Good webcam:Makes you look professional on day one:https://www.amazon.com/s?k=1080p+webcam+home+office&tag=highlowmyst0e-20,Desk lamp or key light:Transforms video call quality:https://www.amazon.com/s?k=key+light+desk+lamp&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Monitor + stand:Single biggest productivity upgrade:https://www.amazon.com/s?k=27+inch+monitor+home+office&tag=highlowmyst0e-20,Ergonomic chair:Single biggest comfort upgrade:https://www.amazon.com/s?k=ergonomic+office+chair+home&tag=highlowmyst0e-20,Laptop stand + keyboard:Fixes your neck immediately:https://www.amazon.com/dp/B01HHYQBB8?tag=highlowmyst0e-20,Good webcam:Makes you look professional on day one:https://www.amazon.com/s?k=1080p+webcam+home+office&tag=highlowmyst0e-20,Desk lamp or key light:Transforms video call quality:https://www.amazon.com/s?k=key+light+desk+lamp&tag=highlowmyst0e-20" >}}}
 
 ---
 
@@ -50,7 +50,7 @@ The single worst thing about laptop-only setups is the screen position. The lapt
 
 **Option B — Laptop stand + external keyboard ($40-80):** If you travel, move between home and office, or can't afford a monitor yet, a laptop stand raises the screen and a cheap Bluetooth keyboard keeps your hands at the right height. The Rain Design mStand ($43) or a Nexstand K2 ($30) both work. Pair with the Logitech K380 keyboard (~$40).
 
-{{< callout type="tip" >}}
+{{< callout type="tip" >}}}
 Option B is the better starter if budget is tight. $70 total (stand + keyboard) fixes your neck immediately. Add the monitor later when you know you're staying remote.
 {{< /callout >}}
 
@@ -60,9 +60,9 @@ Option B is the better starter if budget is tight. $70 total (stand + keyboard) 
 
 You're in it for 8 hours. It matters more than almost anything else on this list.
 
-{{< product name="Sihoo M57 Ergonomic Chair" price="" rating="4.4" badge="Best First Chair" pros="Under $300 with decent lumbar,Mesh back for breathability,Adjustable headrest included,Looks professional on video calls" cons="Lumbar position is fixed (not height adjustable),Armrests only go up/down (not 4D),Not ideal for people over 6'1" link="https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20" >}}
+{{< product name="Sihoo M57 Ergonomic Chair" price="" rating="4.4" badge="Best First Chair" pros="Under $300 with decent lumbar,Mesh back for breathability,Adjustable headrest included,Looks professional on video calls" cons="Lumbar position is fixed (not height adjustable),Armrests only go up/down (not 4D),Not ideal for people over 6'1" link="https://www.amazon.com/dp/B07BDFW1Y7?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BDFW1Y7&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
-{{< product name="Autonomous ErgoChair Pro" price="" rating="4.6" badge="Best Under $400" pros="Adjustable lumbar height AND depth,Full 4D armrests,Great for long hours,Durable mesh back" cons="Assembly takes 45+ minutes,Seat is firm for first 2-3 weeks,Controls take some learning" link="https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20" >}}
+{{< product name="Autonomous ErgoChair Pro" price="" rating="4.6" badge="Best Under $400" pros="Adjustable lumbar height AND depth,Full 4D armrests,Great for long hours,Durable mesh back" cons="Assembly takes 45+ minutes,Seat is firm for first 2-3 weeks,Controls take some learning" link="https://www.amazon.com/dp/B0FL2JGMK5?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0FL2JGMK5&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 If you're spending 6+ hours sitting daily and your company isn't reimbursing equipment, the ErgoChair Pro is the move. The adjustable lumbar depth is what separates it from everything else at this price.
 
@@ -74,7 +74,7 @@ If your company has a home office stipend (many do — ask HR), use it on this f
 
 Your laptop's built-in webcam is probably fine for casual calls. It becomes a problem when you're meeting with external clients, interviewing, or presenting. A $65 external webcam immediately makes you look more professional — better framing, better low-light performance, better image quality.
 
-{{< product name="Logitech C920x HD Pro Webcam" price="" rating="4.6" badge="Best Value Webcam" pros="Sharp 1080p image,Good low-light performance,Works on every platform,Clip mounts on any monitor" cons="Fixed focus (not ideal for macro close-ups),No 4K,Cable is permanently attached" link="https://www.amazon.com/s?k=logitech+c920+webcam&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71mk2HNMLEL._AC_SL1500_.jpg" >}}
+{{< product name="Logitech C920x HD Pro Webcam" price="" rating="4.6" badge="Best Value Webcam" pros="Sharp 1080p image,Good low-light performance,Works on every platform,Clip mounts on any monitor" cons="Fixed focus (not ideal for macro close-ups),No 4K,Cable is permanently attached" link="https://www.amazon.com/s?k=logitech+c920+webcam&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71mk2HNMLEL._AC_SL1500_.jpg" >}}}
 
 One honest tip: lighting matters more than the camera. A $65 webcam with a decent light beats a $150 webcam in a dark room every time.
 
@@ -94,7 +94,7 @@ This is the highest-ROI purchase most people ignore. Position a light source in 
 
 Your laptop keyboard is fine for occasional use. For 8 hours of daily typing, the shallow travel and cramped layout adds up. A decent external keyboard is a $40-80 fix.
 
-{{< product name="Logitech MX Keys Mini" price="" rating="4.5" badge="Best Wireless Keyboard" pros="Great key feel for typing,Compact — doesn't take up much desk space,Multi-device pairing (switch between laptop, desktop, tablet),Backlit keys,Long battery life" cons="No numpad,Premium price for a keyboard,Batteries not rechargeable via USB on older models" link="https://www.amazon.com/s?k=logitech+mx+keys+mini&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg" >}}
+{{< product name="Logitech MX Keys Mini" price="" rating="4.5" badge="Best Wireless Keyboard" pros="Great key feel for typing,Compact — doesn't take up much desk space,Multi-device pairing (switch between laptop, desktop, tablet),Backlit keys,Long battery life" cons="No numpad,Premium price for a keyboard,Batteries not rechargeable via USB on older models" link="https://www.amazon.com/s?k=logitech+mx+keys+mini&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg" >}}}
 
 For mice: the Logitech MX Master 3 (~$80) is the best ergonomic mouse at any price point — scroll wheel, programmable buttons, comfortable for full-day use. If that's too much, the Logitech M705 (~$35) is reliable and ergonomically sound.
 
@@ -158,7 +158,7 @@ Your laptop's built-in mic picks up keyboard noise, room echo, and background so
 
 ## FAQ
 
-{{< faq items="Does my company cover home office equipment?|Many do. Ask HR about a home office stipend before buying anything. Common amounts: $200-500 one-time or $50-100/month. Some companies will even ship you equipment directly.||What order should I buy things in?|Chair → neck fix (monitor or laptop stand) → webcam → everything else. Comfort and appearance on calls matter most, in that order.||Is a standing desk worth it for a first remote job?|Not as your first purchase. Get the chair right, establish your sitting habits, and add a standing desk in 3-6 months if you're still feeling the desire to stand during the day.||How much desk space do I actually need?|Minimum 48 inches wide for a proper setup. 55-60 inches is comfortable. If you're stuck with less, prioritize a laptop stand setup over a large monitor — it takes less horizontal space.||What if I work from a small space?|A folding desk or wall-mounted desk plus a quality chair can fit in surprisingly tight spaces. The chair is still the non-negotiable — everything else can adapt to the space constraints. ---" >}}
+{{< faq items="Does my company cover home office equipment?|Many do. Ask HR about a home office stipend before buying anything. Common amounts: $200-500 one-time or $50-100/month. Some companies will even ship you equipment directly.||What order should I buy things in?|Chair → neck fix (monitor or laptop stand) → webcam → everything else. Comfort and appearance on calls matter most, in that order.||Is a standing desk worth it for a first remote job?|Not as your first purchase. Get the chair right, establish your sitting habits, and add a standing desk in 3-6 months if you're still feeling the desire to stand during the day.||How much desk space do I actually need?|Minimum 48 inches wide for a proper setup. 55-60 inches is comfortable. If you're stuck with less, prioritize a laptop stand setup over a large monitor — it takes less horizontal space.||What if I work from a small space?|A folding desk or wall-mounted desk plus a quality chair can fit in surprisingly tight spaces. The chair is still the non-negotiable — everything else can adapt to the space constraints. ---" >}}}
 
 For deeper dives on each category: [best ergonomic chairs under $500](/best-picks/best-ergonomic-chairs-under-500/), [best standing desks under $500](/best-picks/best-standing-desks-under-500/), [best monitors under $300](/best-picks/best-monitors-under-300/), [best laptop stands](/best-picks/best-laptop-stand-home-office/), and [best USB-C hubs](/best-picks/best-usb-c-hub-home-office/). If back pain is already an issue, the [ergonomic chair for back pain guide](/best-picks/best-ergonomic-chair-for-back-pain/) covers the most important purchase in detail.
 

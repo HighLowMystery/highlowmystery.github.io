@@ -26,7 +26,7 @@ I bought my first standing desk in 2021. It wobbled when I typed. The motor died
 
 The difference between a good $400 desk and a bad $400 desk isn't marketing. It's frame construction, motor quality, and whether the company actually answers support tickets. I've sorted that out for you.
 
-{{< quickpicks items="Flexispot E7:Best Overall Under $500:https://www.amazon.com/s?k=Flexispot+E7+standing+desk&tag=highlowmyst0e-20,Vivo Electric 55x24:Best Budget Under $300:https://www.amazon.com/s?k=Vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20,Uplift V2 (used/refurb):Best Premium Under $500:https://www.amazon.com/s?k=UPLIFT+V2+standing+desk&tag=highlowmyst0e-20,Flexispot EC1:Best for Small Spaces:https://www.amazon.com/dp/B08KXW53KY?tag=highlowmyst0e-20,Fezibo Triple Motor:Most Stable Budget Pick:https://www.amazon.com/s?k=Fezibo+triple+motor+standing+desk&tag=highlowmyst0e-20" >}}
+{{< quickpicks items="Flexispot E7:Best Overall Under $500:https://www.amazon.com/s?k=Flexispot+E7+standing+desk&tag=highlowmyst0e-20,Vivo Electric 55x24:Best Budget Under $300:https://www.amazon.com/s?k=Vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20,Uplift V2 (used/refurb):Best Premium Under $500:https://www.amazon.com/s?k=UPLIFT+V2+standing+desk&tag=highlowmyst0e-20,Flexispot EC1:Best for Small Spaces:https://www.amazon.com/dp/B08KXW53KY?tag=highlowmyst0e-20,Fezibo Triple Motor:Most Stable Budget Pick:https://www.amazon.com/s?k=Fezibo+triple+motor+standing+desk&tag=highlowmyst0e-20" >}}}
 
 ---
 
@@ -48,7 +48,7 @@ If you're just buying one because it looks cool on video calls, a $200 fixed des
 
 **Programmable presets.** Non-negotiable. If you have to hold a button to raise and lower the desk, you won't use it. One-touch presets make it a habit.
 
-{{< callout type="tip" >}}
+{{< callout type="tip" >}}}
 **The anti-fatigue mat rule:** A standing desk without an anti-fatigue mat is like a good chair without cushioning. Budget $30-50 for one. The Topo by Ergodriven is the benchmark. Your feet will thank you by day three.
 {{< /callout >}}
 
@@ -60,7 +60,7 @@ If you're just buying one because it looks cool on video calls, a $200 fixed des
 
 **Verdict:** Best overall standing desk under $500 — dual-motor, 355 lb capacity, and a 10-year frame warranty that competitors don't match. The control box sits under the desk and can feel cluttered; plan your cable management before assembling.
 
-{{< product name="Flexispot E7 Pro Standing Desk" price="" rating="4.7" badge="Best Overall" pros="Dual-motor insanely stable,450 lb weight capacity,4 memory presets,Anti-collision protection,10-year frame warranty" cons="Top not included (add $80-120),Assembly takes 90 minutes,Control panel on the basic side" link="https://www.amazon.com/s?k=flexispot+e7+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71f3mknFTXL._AC_SL1500_.jpg" >}}
+{{< product name="Flexispot E7 Pro Standing Desk" price="" rating="4.7" badge="Best Overall" pros="Dual-motor insanely stable,450 lb weight capacity,4 memory presets,Anti-collision protection,10-year frame warranty" cons="Top not included (add $80-120),Assembly takes 90 minutes,Control panel on the basic side" link="https://www.amazon.com/s?k=flexispot+e7+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71f3mknFTXL._AC_SL1500_.jpg" >}}}
 
 The E7 is what I'd buy if I were starting over. The dual-motor setup makes it dramatically more stable than single-motor competitors at this price — I've had both, and the difference is noticeable the moment you start typing at standing height.
 
@@ -76,7 +76,7 @@ Assembly genuinely takes 90 minutes the first time. Watch the YouTube guide, not
 
 **Verdict:** Best budget electric standing desk under $300 for people who just want to stand occasionally without spending serious money. Single motor and narrower frame means slight wobble at full height — acceptable for typing, noticeable for mousing.
 
-{{< product name="Vivo Electric Height Adjustable Desk 55x24" price="" rating="4.3" badge="Best Budget" pros="Under $250 with top included,Decent stability for the price,3 memory presets,Good warranty for the price" cons="Single motor wobbles more than dual at full height,Lower weight capacity (110 lbs),Motor is louder than premium options,Customer support is slow" link="https://www.amazon.com/s?k=vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71HsAVOUHfL._AC_SL1500_.jpg" >}}
+{{< product name="Vivo Electric Height Adjustable Desk 55x24" price="" rating="4.3" badge="Best Budget" pros="Under $250 with top included,Decent stability for the price,3 memory presets,Good warranty for the price" cons="Single motor wobbles more than dual at full height,Lower weight capacity (110 lbs),Motor is louder than premium options,Customer support is slow" link="https://www.amazon.com/s?k=vivo+electric+standing+desk+55x24&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71HsAVOUHfL._AC_SL1500_.jpg" >}}}
 
 For under $250 with the top included, the Vivo is hard to beat. It's not as stable as the Flexispot at max height, but if you're a laptop-and-one-monitor person, it's more than enough.
 
@@ -90,7 +90,7 @@ Don't buy it if you have a heavy dual-monitor setup. Two 27-inch monitors plus a
 
 **Verdict:** Best compact standing desk for small spaces — fits a 48x24 surface in a studio apartment or shared office corner. Lighter-duty than the E7; fine for a monitor and laptop, but don't expect it to hold dual monitors plus peripherals without sway.
 
-{{< product name="Flexispot EC1 Standing Desk 48x24" price="" rating="4.5" badge="Best Small Space" pros="48x24 footprint fits tighter setups,Single motor but cross-beam stability,Decent 154 lb capacity,Straightforward controls" cons="No programmable presets on base model,48 inches wide limits some dual-monitor setups,Single motor — less smooth than E7" link="https://www.amazon.com/s?k=flexispot+EC1+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71D9z8K0oeL._AC_SL1500_.jpg" >}}
+{{< product name="Flexispot EC1 Standing Desk 48x24" price="" rating="4.5" badge="Best Small Space" pros="48x24 footprint fits tighter setups,Single motor but cross-beam stability,Decent 154 lb capacity,Straightforward controls" cons="No programmable presets on base model,48 inches wide limits some dual-monitor setups,Single motor — less smooth than E7" link="https://www.amazon.com/s?k=flexispot+EC1+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71D9z8K0oeL._AC_SL1500_.jpg" >}}}
 
 If your home office is tight — a spare bedroom or a corner of a room — the EC1's 48-inch width is a legitimate advantage. I've seen people try to squeeze a 60-inch desk into a space that needed 48 and regret it immediately.
 
@@ -125,7 +125,7 @@ The controls are simpler than the E7 (no memory presets on the base model), whic
 
 **Anti-collision:** All desks on this list have it. If a desk you're considering doesn't mention anti-collision protection, skip it.
 
-{{< callout type="warning" >}}
+{{< callout type="warning" >}}}
 **Avoid** desks that only list "ergonomic" without a height range spec. You need to know the max height in inches. If they don't publish it, that's a red flag.
 {{< /callout >}}
 
@@ -133,7 +133,7 @@ The controls are simpler than the E7 (no memory presets on the base model), whic
 
 ## FAQ
 
-{{< faq items="Are standing desks actually worth it for back pain?|Yes — but only if you alternate sitting and standing. Set a timer for 45-60 minutes. When it goes off, stand for 20-30 minutes. The benefit comes from movement, not from standing all day. Standing all day is worse than sitting all day.||Do I need a dual-motor desk?|If you're putting more than 50 lbs on the desktop (two monitors + accessories), dual-motor stability is worth it. For laptop-only setups, single motor is fine.||What height should my standing desk be?|Your elbows should be at roughly 90 degrees when your hands are on the keyboard. For most people this is 39-45 inches standing, 27-30 inches sitting.||How long do standing desks last?|A quality standing desk frame (Flexispot, Uplift, Autonomous) lasts 5-10+ years. The cheap Amazon brands often have motor failures in year 1-2. Warranty tells you a lot: a 10-year frame warranty means the company believes in the product. ---" >}}
+{{< faq items="Are standing desks actually worth it for back pain?|Yes — but only if you alternate sitting and standing. Set a timer for 45-60 minutes. When it goes off, stand for 20-30 minutes. The benefit comes from movement, not from standing all day. Standing all day is worse than sitting all day.||Do I need a dual-motor desk?|If you're putting more than 50 lbs on the desktop (two monitors + accessories), dual-motor stability is worth it. For laptop-only setups, single motor is fine.||What height should my standing desk be?|Your elbows should be at roughly 90 degrees when your hands are on the keyboard. For most people this is 39-45 inches standing, 27-30 inches sitting.||How long do standing desks last?|A quality standing desk frame (Flexispot, Uplift, Autonomous) lasts 5-10+ years. The cheap Amazon brands often have motor failures in year 1-2. Warranty tells you a lot: a 10-year frame warranty means the company believes in the product. ---" >}}}
 
 For a detailed Flexispot vs Uplift comparison, see the [Flexispot E7 vs Uplift V2](/comparisons/flexispot-e7-vs-uplift-v2/) head-to-head. A standing desk works best paired with a good [ergonomic chair](/best-picks/best-ergonomic-chairs-under-500/) and a properly positioned [monitor](/best-picks/best-monitors-under-300/). For a full budget workspace build, the [home office setup under $1,000](/how-to/home-office-setup-under-1000/) guide is the logical next step.
 

@@ -34,7 +34,7 @@ Here's the honest comparison — not marketing copy.
 
 For most remote workers on a budget, the E7 is the call. For people who want to buy once and never think about it again, Uplift is worth the premium. Either way, pair your desk with a solid [ergonomic chair](/best-picks/best-ergonomic-chairs-under-500/) and a [well-positioned monitor](/best-picks/best-monitors-under-300/) for the full ergonomic stack.
 
-{{< callout type="verdict" >}}
+{{< callout type="verdict" >}}}
 **Default pick:** [Flexispot E7](https://www.amazon.com/s?k=flexispot+e7+pro+standing+desk&tag=highlowmyst0e-20) (~$449 frame). **Premium pick:** [Uplift V2](https://www.amazon.com/s?k=uplift+v2+standing+desk&tag=highlowmyst0e-20) (~$599–699 frame).
 {{< /callout >}}
 
@@ -119,7 +119,7 @@ One practical difference: Uplift ships faster if you're in the US — they opera
 
 ### Flexispot E7 Pro
 
-{{< product name="Flexispot E7 Pro Standing Desk" price="~$449" rating="4.7" badge="Best Value" pros="450 lb weight capacity,4 memory presets,Anti-collision detection,Excellent price-to-performance,5-year parts warranty" cons="10-year frame warranty (vs Uplift 15),Slower shipping from China,Limited customization options,Customer service can be slow on warranty claims" link="https://www.amazon.com/s?k=flexispot+e7+pro+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71f3mknFTXL._AC_SL1500_.jpg" >}}
+{{< product name="Flexispot E7 Pro Standing Desk" price="~$449" rating="4.7" badge="Best Value" pros="450 lb weight capacity,4 memory presets,Anti-collision detection,Excellent price-to-performance,5-year parts warranty" cons="10-year frame warranty (vs Uplift 15),Slower shipping from China,Limited customization options,Customer service can be slow on warranty claims" link="https://www.amazon.com/s?k=flexispot+e7+pro+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71f3mknFTXL._AC_SL1500_.jpg" >}}}
 
 I bought my E7 in late 2024 and it's been on my desk every working day since. The frame is solid steel, the dual motors are quiet, and the memory presets mean I actually use the standing function — I'm not hunting for the right height, just pressing a button. The 450 lb weight capacity means I don't have to think about what I'm putting on it.
 
@@ -127,7 +127,7 @@ The honest downside: I've seen customer service complaints from E7 owners that a
 
 ### Uplift V2 Commercial
 
-{{< product name="Uplift V2 Commercial Standing Desk" price="~$699" rating="4.8" badge="Premium Pick" pros="15-year frame warranty,Excellent US-based support,51.1 in max height (great for tall users),Extensive customization,Fast US shipping" cons="$200+ more than E7,355 lb weight limit (lower than E7),Max height overkill for most users" link="https://www.amazon.com/s?k=uplift+v2+commercial+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71WJRVe27wL._AC_SL1500_.jpg" >}}
+{{< product name="Uplift V2 Commercial Standing Desk" price="~$699" rating="4.8" badge="Premium Pick" pros="15-year frame warranty,Excellent US-based support,51.1 in max height (great for tall users),Extensive customization,Fast US shipping" cons="$200+ more than E7,355 lb weight limit (lower than E7),Max height overkill for most users" link="https://www.amazon.com/s?k=uplift+v2+commercial+standing+desk&tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/71WJRVe27wL._AC_SL1500_.jpg" >}}}
 
 At a colleague's home office I spent a full day working at her Uplift V2 Commercial. The build quality is noticeably premium — the frame finish, the control panel, the way the desk moves. It's a different feel from budget standing desks. The 51.1-inch max height cleared her 6'4" partner without adjustment drama. The warranty documentation she received was thorough and clear.
 
@@ -164,11 +164,11 @@ The legitimate knock is the lower weight capacity at 355 lbs — fine for typica
 
 ---
 
-{{< faq items="Is the Flexispot E7 worth it in 2026?|Yes. It's still the best standing desk under $500 for most people. The dual motor, memory presets, and 450 lb capacity are genuinely useful, and the price-to-performance is unmatched at the budget tier.||Is the Uplift V2 worth the extra money?|If you plan to keep it for 10+ years and want responsive US support, yes. The 15-year frame warranty and Uplift's customer service reputation justify the premium for buyers who prioritize long-term reliability.||Do I need a standing desk mat?|Yes, if you stand for more than 30 minutes at a time. Anti-fatigue mats like the Topo by Ergodriven ($99) are the standard recommendation. Standing on bare floor for hours is genuinely fatiguing.||Should I buy a desktop from the desk brand or separately?|Separately, usually. Bamboo and solid hardwood tops from third-party suppliers are often cheaper and better quality than bundled tops from desk brands. IKEA Karlby countertops are a popular pairing with the E7 frame.||How long do standing desk motors last?|Most modern dual-motor standing desks last 7–15 years of daily use. Motor failure before year 7 is rare. Buy from a brand with a warranty that covers you through the typical lifespan." >}}
+{{< faq items="Is the Flexispot E7 worth it in 2026?|Yes. It's still the best standing desk under $500 for most people. The dual motor, memory presets, and 450 lb capacity are genuinely useful, and the price-to-performance is unmatched at the budget tier.||Is the Uplift V2 worth the extra money?|If you plan to keep it for 10+ years and want responsive US support, yes. The 15-year frame warranty and Uplift's customer service reputation justify the premium for buyers who prioritize long-term reliability.||Do I need a standing desk mat?|Yes, if you stand for more than 30 minutes at a time. Anti-fatigue mats like the Topo by Ergodriven ($99) are the standard recommendation. Standing on bare floor for hours is genuinely fatiguing.||Should I buy a desktop from the desk brand or separately?|Separately, usually. Bamboo and solid hardwood tops from third-party suppliers are often cheaper and better quality than bundled tops from desk brands. IKEA Karlby countertops are a popular pairing with the E7 frame.||How long do standing desk motors last?|Most modern dual-motor standing desks last 7–15 years of daily use. Motor failure before year 7 is rare. Buy from a brand with a warranty that covers you through the typical lifespan." >}}}
 
 ---
 
-{{< callout type="verdict" >}}
+{{< callout type="verdict" >}}}
 **Bottom line:** Buy the Flexispot E7 if you need a great standing desk under $500. Buy the Uplift V2 if budget isn't the constraint and you want the best long-term package — warranty, support, customization. Don't buy either without also budgeting for a standing mat and 2-3 weeks to build the actual standing habit.
 {{< /callout >}}
 

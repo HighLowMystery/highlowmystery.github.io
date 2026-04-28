@@ -53,7 +53,7 @@ I've spent eight months in a Herman Miller Aeron (Size B) and four months in a S
 
 ## The Herman Miller Aeron
 
-{{< product name="Herman Miller Aeron Chair (Size B)" price="" rating="4.8" badge="Editor's Pick" pros="Best-in-class breathability,12-year warranty,PostureFit SL lumbar system,Proven 30-year track record,Resale value holds well" cons="Mesh seat uncomfortable for some bodies,Size system confusing,Forward tilt costs extra,Heavy to move" link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20" >}}
+{{< product name="Herman Miller Aeron Chair (Size B)" price="" rating="4.8" badge="Editor's Pick" pros="Best-in-class breathability,12-year warranty,PostureFit SL lumbar system,Proven 30-year track record,Resale value holds well" cons="Mesh seat uncomfortable for some bodies,Size system confusing,Forward tilt costs extra,Heavy to move" link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 The Aeron is the reference point everything else gets compared to. The 8Z Pellicle mesh back is genuinely unlike anything else — sitting in a warm room with a laptop on your desk, it's the difference between running a fan and not running one. The lumbar support system (PostureFit SL) supports both the sacrum and lumbar simultaneously, which is uncommon and genuinely effective.
 
@@ -65,7 +65,7 @@ Honest downside: the mesh seat can create pressure points for people with less b
 
 ## The Steelcase Leap V2
 
-{{< product name="Steelcase Leap V2 Chair" price="" rating="4.7" badge="Best for Active Sitters" pros="LiveBack mimics spine movement,Natural recline feels excellent,Foam seat suits more bodies,Better for larger frames,Height range covers 6'4\"+" cons="Gets warm (foam back),No mesh option,Heavier than it looks,Less iconic design" link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20" >}}
+{{< product name="Steelcase Leap V2 Chair" price="" rating="4.7" badge="Best for Active Sitters" pros="LiveBack mimics spine movement,Natural recline feels excellent,Foam seat suits more bodies,Better for larger frames,Height range covers 6'4\"+" cons="Gets warm (foam back),No mesh option,Heavier than it looks,Less iconic design" link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
 
 The Leap's differentiator is the LiveBack system — the backrest actually flexes to follow your spine as you shift posture through the day. If you're someone who leans, twists, and moves while working (rather than sitting rigidly), the Leap feels more natural. It adjusts to you rather than requiring you to maintain one "correct" posture.
 
@@ -104,11 +104,11 @@ At $500 for a used version, either chair beats a new $400 budget chair in every 
 
 ---
 
-{{< faq items="Which chair is better for back pain?|Both are excellent. The Aeron's PostureFit SL is better for lower back support in a static position. The Leap's dynamic back is better if you shift posture frequently. Test both if possible.||Is the Herman Miller Aeron worth $1,500?|If you sit 6+ hours daily for years, yes. Amortized over 10 years, it's $150/year. That said, a used Aeron at $500 delivers 95% of the value.||Which is better for tall people?|The Steelcase Leap V2. The Aeron Size C technically fits tall users but the proportions are better on the Leap for 6'2\"+ users.||Can I try these chairs before buying?|Herman Miller has showrooms in most major cities. Steelcase dealers exist but are harder to find. OfficeDepot/Staples occasionally stocks Aeron demos. Worth an hour to sit in both.||Are there cheaper alternatives that are nearly as good?|The Autonomous ErgoChair Pro ($449) and Humanscale Freedom ($800+) are the most cited alternatives. Neither quite matches the Aeron or Leap, but both beat everything under $400." >}}
+{{< faq items="Which chair is better for back pain?|Both are excellent. The Aeron's PostureFit SL is better for lower back support in a static position. The Leap's dynamic back is better if you shift posture frequently. Test both if possible.||Is the Herman Miller Aeron worth $1,500?|If you sit 6+ hours daily for years, yes. Amortized over 10 years, it's $150/year. That said, a used Aeron at $500 delivers 95% of the value.||Which is better for tall people?|The Steelcase Leap V2. The Aeron Size C technically fits tall users but the proportions are better on the Leap for 6'2\"+ users.||Can I try these chairs before buying?|Herman Miller has showrooms in most major cities. Steelcase dealers exist but are harder to find. OfficeDepot/Staples occasionally stocks Aeron demos. Worth an hour to sit in both.||Are there cheaper alternatives that are nearly as good?|The Autonomous ErgoChair Pro ($449) and Humanscale Freedom ($800+) are the most cited alternatives. Neither quite matches the Aeron or Leap, but both beat everything under $400." >}}}
 
 ---
 
-{{< callout type="verdict" >}}
+{{< callout type="verdict" >}}}
 **Bottom line:** I sit in the Aeron — the breathability is the deciding factor for my warm home office setup. But if you're taller than 6'1", move around constantly, or hate mesh seating, the Leap V2 is the better fit. Both have 12-year warranties. Both will outlast three cheaper chairs combined. Buy used if budget is the sticking point.
 {{< /callout >}}
 

@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://ergoremote.com/sitemap.xml
+
+# Block AI training scrapers we do not want indexing/training from
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /

@@ -53,7 +53,7 @@ Most people have their monitor too low — especially laptop users. The fix depe
 ### Laptop Users
 You need to raise the screen. A laptop stand + external keyboard is the cheapest ergonomic upgrade you can make.
 
-{{< callout type="tip" >}}
+{{< callout type="tip" >}}}
 A $30 laptop stand + $25 keyboard = the best $55 you'll spend on your home office.
 {{< /callout >}}
 
@@ -94,7 +94,7 @@ When your lower back slouches, your thoracic spine rounds forward, and your head
 - Seat height set so your hips are at 90° or slightly open (hips slightly higher than knees)
 - Feet flat on the floor
 
-{{< callout type="warning" >}}
+{{< callout type="warning" >}}}
 If your lumbar support is a detachable pillow held on by a strap, it doesn't count. It'll migrate to the wrong position within an hour.
 {{< /callout >}}
 
@@ -133,11 +133,11 @@ Neck pain went from daily to zero within three weeks. Took one afternoon to set 
 
 ---
 
-{{< faq items="How long until my neck pain improves after fixing my setup?|Most people notice improvement within 1–2 weeks of consistent correct posture. Severe or long-standing pain may take longer — see a physiotherapist if it doesn't improve.||Is a standing desk good for neck pain?|A standing desk helps if you alternate sitting and standing — not if you stand for 8 hours instead of sitting for 8. The key is movement variety.||Can a pillow fix my neck pain at my desk?|Temporarily, maybe. The real fix is monitor height and lumbar support. Pillows migrate and don't address the root cause.||Should I use a headrest on my chair?|A headrest is useful for relaxing during breaks, not for active work. If you're leaning into a headrest while working, your chair height or monitor position needs adjustment.||Is neck pain from WFH serious?|Usually it's a posture and setup issue, not a structural problem. But if you have numbness, tingling, or pain radiating into your arms, see a doctor — that could indicate nerve involvement." >}}
+{{< faq items="How long until my neck pain improves after fixing my setup?|Most people notice improvement within 1–2 weeks of consistent correct posture. Severe or long-standing pain may take longer — see a physiotherapist if it doesn't improve.||Is a standing desk good for neck pain?|A standing desk helps if you alternate sitting and standing — not if you stand for 8 hours instead of sitting for 8. The key is movement variety.||Can a pillow fix my neck pain at my desk?|Temporarily, maybe. The real fix is monitor height and lumbar support. Pillows migrate and don't address the root cause.||Should I use a headrest on my chair?|A headrest is useful for relaxing during breaks, not for active work. If you're leaning into a headrest while working, your chair height or monitor position needs adjustment.||Is neck pain from WFH serious?|Usually it's a posture and setup issue, not a structural problem. But if you have numbness, tingling, or pain radiating into your arms, see a doctor — that could indicate nerve involvement." >}}}
 
 ---
 
-{{< callout type="verdict" >}}
+{{< callout type="verdict" >}}}
 **Bottom line:** Neck pain from desk work is a setup problem. Fix the monitor height first — it's the highest-impact change and costs $30–$65. Add lumbar support in your chair and build a 20-minute movement habit. Most people are pain-free within two weeks.
 {{< /callout >}}
 
