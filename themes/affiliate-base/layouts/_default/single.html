@@ -39,10 +39,12 @@
         </time>
         <span class="post-readtime">{{ .ReadingTime }} min read</span>
         <span class="post-wordcount">{{ .WordCount }} words</span>
-        <a href="{{ "about" | relURL }}" class="post-author-link" rel="author" itemprop="author"
-           itemscope itemtype="https://schema.org/Person">
-          <span itemprop="name">{{ .Params.author | default "Alex Sabr" }}</span>
-        </a>
+        <span class="post-byline">By 
+          <a href="{{ "about" | relURL }}" class="post-author-link" rel="author" itemprop="author"
+             itemscope itemtype="https://schema.org/Person">
+            <span itemprop="name">{{ .Params.author | default "Alex Sabr" }}</span>
+          </a>
+        </span>
       </div>
       <h1 class="post-title" itemprop="headline">{{ .Title }}</h1>
       {{ with .Description }}<p class="post-desc" itemprop="description">{{ . }}</p>{{ end }}

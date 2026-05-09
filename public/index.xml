@@ -213,33 +213,21 @@
  "@context": "https://schema.org",
  "@type": "Person",
  "name": "Alex Sabr",
+ "jobTitle": "Ergonomics &amp; Home Office Specialist",
  "url": "https://ergoremote.com/about/",
- "description": "Remote work ergonomics reviewer with 6 years of experience",
- "jobTitle": "Remote Work &amp; Ergonomics Reviewer",
- "sameAs": [
- "https://twitter.com/highlowmystery",
- "https://linkedin.com/in/highlowmystery"
- ],
- "knowsAbout": [
- "Ergonomic chairs",
- "Standing desks",
- "Home office setup",
- "Monitor arms",
- "Laptop stands",
- "Remote work health"
- ]
+ "sameAs": []
 }
 &lt;/script&gt;
 &lt;div class="author-profile"&gt;
  &lt;div class="author-avatar-lg"&gt;
- &lt;img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=480&amp;q=80" alt="Professional headshot placeholder for Alex Sabr" width="160" height="160" style="border-radius:50%;object-fit:cover;"&gt;
+ &lt;img src="https://via.placeholder.com/320x320?text=Alex+Sabr" alt="Photo placeholder for Alex Sabr" width="160" height="160" style="border-radius:50%;object-fit:cover;"&gt;
  &lt;/div&gt;
  &lt;div class="author-headline"&gt;
  &lt;h1&gt;Alex Sabr&lt;/h1&gt;
- &lt;p class="author-tagline"&gt;Remote work ergonomics reviewer · 6 years WFH · Software developer&lt;/p&gt;
+ &lt;p class="author-tagline"&gt;Ergonomics enthusiast · Home office specialist · 5+ years of remote work&lt;/p&gt;
  &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2 id="who-i-am"&gt;Who I Am&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m Alex Sabr — a software developer, ergonomics enthusiast, and full-time remote worker since 2019. Over the last 5+ years of working from home, I&amp;rsquo;ve tested dozens of chairs, desks, monitors, and accessories in a real day-to-day setup. At this point I&amp;rsquo;ve worked through &lt;strong&gt;50+ chairs and desk setups&lt;/strong&gt; directly, either through personal purchases, long-term testing, or extended hands-on comparisons.&lt;/p&gt;</description></item><item><title>Affiliate Disclaimer</title><link>https://ergoremote.com/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ergoremote.com/disclaimer/</guid><description>&lt;h2 id="affiliate-disclosure"&gt;Affiliate Disclosure&lt;/h2&gt;
+&lt;h2 id="hi-im-alex"&gt;Hi, I&amp;rsquo;m Alex&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Alex Sabr, the person behind ErgoRemote. I&amp;rsquo;m an ergonomics enthusiast, a home office specialist, and someone who&amp;rsquo;s spent the last 5+ years working remotely in a real day-to-day setup — not a showroom, not a test lab, and definitely not a content farm pretending to have used the gear.&lt;/p&gt;</description></item><item><title>Affiliate Disclaimer</title><link>https://ergoremote.com/disclaimer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ergoremote.com/disclaimer/</guid><description>&lt;h2 id="affiliate-disclosure"&gt;Affiliate Disclosure&lt;/h2&gt;
 &lt;p&gt;ErgoRemote participates in affiliate marketing programs, including the &lt;strong&gt;Amazon Services LLC Associates Program&lt;/strong&gt;, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.&lt;/p&gt;
 &lt;p&gt;When you click a link on this site and make a purchase, we may receive a small commission. This comes at &lt;strong&gt;no additional cost to you&lt;/strong&gt; — you pay the same price you would if you went directly to Amazon or the brand&amp;rsquo;s site.&lt;/p&gt;</description></item></channel></rss>
