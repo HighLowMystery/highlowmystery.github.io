@@ -1,32 +1,36 @@
 # ErgoRemote
 
-ErgoRemote is an ergonomic home office review site written by Alex Sabr.
-The site focuses on practical buying guides for remote workers, especially chairs, desks, monitors, laptop stands, and related setup gear.
+ErgoRemote is an independent editorial site covering ergonomic gear, home office setup, remote work accessories, and practical buying guides for work-from-home professionals.
 
-## Author
+Canonical URL: https://ergoremote.com/
+Site description: Honest reviews and guides for remote workers, home office builders, and ergonomics nerds.
+Author: Alex Sabr
+Author URL: https://ergoremote.com/about/
 
-- Alex Sabr
-- Remote work ergonomics reviewer
-- Focus: ergonomic home office setups for work-from-home professionals
+## Main sections
+- Best Picks: https://ergoremote.com/best-picks/
+- Comparisons: https://ergoremote.com/comparisons/
+- How To: https://ergoremote.com/how-to/
+- About: https://ergoremote.com/about/
+- Contact: https://ergoremote.com/contact/
 
-## Key pages
+## Editorial scope
+ErgoRemote publishes original content about:
+- ergonomic chairs
+- standing desks
+- laptop stands
+- monitors
+- docking stations and USB-C hubs
+- home office accessories
+- remote work setup and comfort
 
-- /
-- /about/
-- /best-picks/best-ergonomic-chair-for-back-pain/
-- /best-picks/best-home-office-chair-for-back-pain/
-- /best-picks/best-home-office-chair-for-lower-back-pain/
-- /best-picks/best-budget-ergonomic-chair-back-pain/
-- /best-picks/best-ergonomic-chairs-under-500/
-- /best-picks/best-standing-desks-under-500/
-- /best-picks/best-monitors-under-300/
-- /best-picks/best-laptop-stand-home-office/
-- /best-picks/best-usb-c-hub-home-office/
-- /best-picks/best-home-office-desk-essentials-first-remote-job/
-- /comparisons/flexispot-e7-vs-uplift-v2/
-- /comparisons/herman-miller-aeron-vs-steelcase-leap/
-- /how-to/home-office-setup-under-1000/
-- /how-to/how-to-reduce-neck-pain-working-from-home/
-- /privacy/
-- /disclaimer/
-- /contact/
+## Author information
+Alex Sabr is a Canada-based remote worker and home office specialist with 5+ years of work-from-home experience. Content is written in a practical first-person editorial style focused on real use, ergonomics, comfort, and buying decisions for home office setups.
+
+## Content and monetization note
+Content on ErgoRemote is original editorial content. The site is affiliate-monetized, including Amazon affiliate links, and may earn a commission from qualifying purchases at no additional cost to the reader. Monetization does not change the stated editorial intent of the content.
+
+## Preferred canonical references
+- Homepage: https://ergoremote.com/
+- Sitemap: https://ergoremote.com/sitemap.xml
+- About the author: https://ergoremote.com/about/
