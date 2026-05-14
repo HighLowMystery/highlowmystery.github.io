@@ -4,15 +4,15 @@
   Spec: THEME-SPEC-v2.md §3 Person Schema / E-E-A-T Entity Verification
 */}}
 {{ $author     := .Params.author | default "Alex Sabr" }}
-{{ $authorUrl  := "about" | absURL }}
+{{ $authorUrl  := printf "%sabout/" .Site.BaseURL }}
 
 {{/* ── Person JSON-LD — sameAs entity verification ── */}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": {{ $author | jsonify }},
-  "url": {{ $authorUrl | jsonify }},
+  "name": {{ printf "%q" $author | safeJS }},
+  "url": {{ printf "%q" $authorUrl | safeJS }},
   "sameAs": [
     "https://twitter.com/highlowmystery",
     "https://linkedin.com/in/highlowmystery"

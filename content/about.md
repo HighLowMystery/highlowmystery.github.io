@@ -3,6 +3,7 @@ title = "About Alex Sabr — ErgoRemote"
 date = 2026-01-01
 draft = false
 description = "Meet Alex Sabr, the ergonomics enthusiast and home office specialist behind ErgoRemote, with 5+ years of remote work experience."
+layout = "standalone"
 +++
 
 <script type="application/ld+json">
@@ -80,3 +81,5 @@ You can also reach out here for editorial questions or corrections:
 
 - **Site:** [ergoremote.com/about/](https://ergoremote.com/about/)
 - **Contact:** [ergoremote.com/contact/](https://ergoremote.com/contact/)
+- **Twitter/X:** `@alexsabr` (placeholder)
+- **LinkedIn:** `linkedin.com/in/alexsabr` (placeholder)

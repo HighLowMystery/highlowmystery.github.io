@@ -1,12 +1,12 @@
 {{ $author := .Params.author | default "Alex Sabr" }}
-{{ $authorUrl := "about" | absURL }}
+{{ $authorUrl := printf "%sabout/" .Site.BaseURL }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": {{ $author | jsonify }},
+  "name": {{ printf "%q" $author | safeJS }},
   "jobTitle": "Ergonomics & Home Office Specialist",
-  "url": {{ $authorUrl | jsonify }},
+  "url": {{ printf "%q" $authorUrl | safeJS }},
   "description": "Alex Sabr is the ergonomics enthusiast and home office specialist behind ErgoRemote, with 5+ years of remote work experience.",
   "sameAs": []
 }
