@@ -49,7 +49,7 @@ The 5-year warranty is significantly longer than the 2–3 years typical of comp
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall MY"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61ysicChmLL._AC_SX522_.jpg" >}}
 
 **Who it's for:** Malaysian remote workers who want the most adjustability under RM1,500 and plan to use the chair for 4–5+ years.
 
@@ -124,7 +124,7 @@ The support and warranty experience is consistently well-reviewed by Malaysian c
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Local Support"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61ysicChmLL._AC_SX522_.jpg" >}}
 
 **Who it's for:** Malaysian buyers who prioritise local warranty support and want confidence that returns and replacements won't require international shipping.
 

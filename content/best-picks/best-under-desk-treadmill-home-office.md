@@ -38,7 +38,7 @@ If you're pairing one with a sit-stand desk, start with our guide to the [best s
 
 **Verdict:** Best under-desk treadmill for serious home office use. It costs more than the typical walking pad, but it feels like office equipment instead of fitness gear pretending to be office equipment.
 
-{{< product name="LifeSpan TR1200-DT3 Under Desk Treadmill" price="" rating="4.7" badge="Best Overall" pros="Built specifically for desk work,Stable belt and frame,Quiet enough for meetings,Good long-session comfort,Trusted treadmill-desk brand" cons="Expensive,Heavy to move,Not a compact budget walking pad" link="https://www.amazon.ca/dp/B009QHLWUK?tag=highlowmyst0e-20" image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009QHLWUK&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}}
+{{< product name="LifeSpan TR1200-DT3 Under Desk Treadmill" price="" rating="4.7" badge="Best Overall" pros="Built specifically for desk work,Stable belt and frame,Quiet enough for meetings,Good long-session comfort,Trusted treadmill-desk brand" cons="Expensive,Heavy to move,Not a compact budget walking pad" link="https://www.amazon.ca/dp/B009QHLWUK?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/516WOvX8rdL._AC_SX466_.jpg" >}}}
 
 This is the one I’d recommend to someone who knows they’re actually going to use a treadmill under their desk 4-5 days a week. LifeSpan has been in the treadmill-desk category longer than most of the random Amazon brands, and it shows in the basics: smoother speed transitions, less rattling, and a more planted feel underfoot.
 
@@ -62,7 +62,7 @@ For Canadian buyers, the problem is availability more than quality. Direct Amazo
 
 **Verdict:** Best budget under-desk treadmill for most people who want to test the walking-while-working habit without spending premium treadmill-desk money. Good value, compact footprint, and easy to stash after work.
 
-{{< product name="UREVO Under Desk Treadmill" price="" rating="4.4" badge="Best Budget" pros="Affordable,Compact and easy to store,Simple remote operation,Good fit for apartments,Enough speed for work walking" cons="Not as stable as premium models,Shorter walking surface,Less durable for heavy daily use,More footstep noise" link="https://www.amazon.ca/dp/B0C61SJVZM?tag=highlowmyst0e-20" image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C61SJVZM&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}}
+{{< product name="UREVO Under Desk Treadmill" price="" rating="4.4" badge="Best Budget" pros="Affordable,Compact and easy to store,Simple remote operation,Good fit for apartments,Enough speed for work walking" cons="Not as stable as premium models,Shorter walking surface,Less durable for heavy daily use,More footstep noise" link="https://www.amazon.ca/dp/B0C61SJVZM?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/61oPSKw8rNL._AC_SX522_.jpg" >}}}
 
 UREVO makes a lot of sense if you’re treadmill-curious but not yet treadmill-committed. It’s much easier to live with in a condo or smaller office, and it doesn’t ask you to spend LifeSpan money to find out whether you actually like walking during email blocks and admin work.
 
@@ -74,7 +74,7 @@ The tradeoff is exactly what you’d expect: smaller deck, lighter frame, and le
 
 **Verdict:** Best under-desk treadmill for small home offices where storage matters as much as performance. It’s not as refined as the premium desk-first models, but the foldable design is practical if your office is also your living space.
 
-{{< product name="Goplus 2-in-1 Treadmill" price="" rating="4.3" badge="Small Space Pick" pros="Foldable design,Saves space,Works for walking and light jogging,Easy to roll away,Good value for mixed-use homes" cons="Bulkier than slim walking pads,More moving parts,Not as quiet as office-grade models,Handle design adds complexity" link="https://www.amazon.ca/dp/B0DXZWBJB8?tag=highlowmyst0e-20" image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DXZWBJB8&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}}
+{{< product name="Goplus 2-in-1 Treadmill" price="" rating="4.3" badge="Small Space Pick" pros="Foldable design,Saves space,Works for walking and light jogging,Easy to roll away,Good value for mixed-use homes" cons="Bulkier than slim walking pads,More moving parts,Not as quiet as office-grade models,Handle design adds complexity" link="https://www.amazon.ca/dp/B0DXZWBJB8?tag=highlowmyst0e-20" image="https://m.media-amazon.com/images/I/61ce8+YiEML._AC_SX522_.jpg" >}}}
 
 This is the one I’d look at if your office is really a corner of a bedroom, basement, or condo living room. The folding format makes it more livable than a full treadmill-desk base, especially if you need to clear the room after work.
 

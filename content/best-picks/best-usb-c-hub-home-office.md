@@ -52,7 +52,7 @@ Most USB-C hubs work on both platforms — the ports are the same. The differenc
 
 **Verdict:** Best overall USB-C hub for Windows and Mac users who need reliable 10Gbps transfers and 100W passthrough without proprietary lock-in. Runs warm under sustained load — keep it in open air, not buried under cables.
 
-{{< product name="Anker 555 USB-C Hub (8-in-1)" price="" rating="4.6" badge="Best Overall" pros="Runs cool,100W PD passthrough,4K@30Hz HDMI,Fast USB-A ports,Ethernet works great" cons="4K limited to 30Hz (not 60Hz),No SD card reader,Somewhat bulky dongle" link="https://www.amazon.com/dp/B094912VBT?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B094912VBT&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+{{< product name="Anker 555 USB-C Hub (8-in-1)" price="" rating="4.6" badge="Best Overall" pros="Runs cool,100W PD passthrough,4K@30Hz HDMI,Fast USB-A ports,Ethernet works great" cons="4K limited to 30Hz (not 60Hz),No SD card reader,Somewhat bulky dongle" link="https://www.amazon.com/dp/B094912VBT?tag=highlowmyst0e-20"  image="https://m.media-amazon.com/images/I/51hwrmtkjjL._AC_SX425_.jpg" >}}
 
 I've had this plugged into my MacBook M3 Pro for four months straight. It runs cool — actual skin-temperature cool, not "don't leave this on carpet" warm. The 100W power passthrough keeps even the 16-inch MBP charged under load. USB-A speeds test at around 450MB/s which is close to spec.
 
@@ -64,7 +64,7 @@ The real limitation: 4K@30Hz only on the HDMI port. Fine for most office use; de
 
 **Verdict:** Best premium Thunderbolt 4 dock for power users who need 18 ports, 98W laptop charging, and true 40Gbps throughput. At $300+ it's only worth it if you're connecting dual 4K monitors and multiple high-speed peripherals daily.
 
-{{< product name="CalDigit TS4 Thunderbolt 4 Dock" price="" rating="4.7" badge="Premium" pros="18 ports total,98W charging,Dual 4K@60Hz or single 8K,Zero thermal throttle,5-year warranty" cons="$249,Requires Thunderbolt 4 port,Large desktop footprint,Overkill for basic use" link="https://www.amazon.com/dp/B09GK8LBWS?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09GK8LBWS&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+{{< product name="CalDigit TS4 Thunderbolt 4 Dock" price="" rating="4.7" badge="Premium" pros="18 ports total,98W charging,Dual 4K@60Hz or single 8K,Zero thermal throttle,5-year warranty" cons="$249,Requires Thunderbolt 4 port,Large desktop footprint,Overkill for basic use" link="https://www.amazon.com/dp/B09GK8LBWS?tag=highlowmyst0e-20"  image="https://m.media-amazon.com/images/I/61RBOqHLI0L._AC_SY300_SX300_QL70_FMwebp_.jpg" >}}
 
 If you have a Thunderbolt 4-equipped MacBook or Windows laptop and work is paying for it — or you just want to buy once and forget it for five years — the CalDigit TS4 is what serious setups run on. Eighteen ports, dual 4K@60Hz, and 98W charging that actually holds up under maximum load. I wouldn't spend $249 of my own money on a hub unless I was doing video/audio work. For general WFH? The Anker is enough.
 
@@ -74,7 +74,7 @@ If you have a Thunderbolt 4-equipped MacBook or Windows laptop and work is payin
 
 **Verdict:** Best slim hub for MacBook users who want a clean aluminum finish that looks like it shipped with the laptop. Passthrough charging tops out at 60W — not enough for 16-inch MacBook Pro at full load.
 
-{{< product name="Satechi Slim Aluminum Multi-Port Adapter V2" price="" rating="4.4" badge="MacBook Pick" pros="Silver matches MacBook finish,Compact design,4K HDMI,SD + MicroSD readers" cons="Only 85W PD passthrough,USB-A speeds capped at USB 3.0,Gets warm under sustained use" link="https://www.amazon.com/dp/B07F7J76HB?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07F7J76HB&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+{{< product name="Satechi Slim Aluminum Multi-Port Adapter V2" price="" rating="4.4" badge="MacBook Pick" pros="Silver matches MacBook finish,Compact design,4K HDMI,SD + MicroSD readers" cons="Only 85W PD passthrough,USB-A speeds capped at USB 3.0,Gets warm under sustained use" link="https://www.amazon.com/dp/B07F7J76HB?tag=highlowmyst0e-20"  image="https://m.media-amazon.com/images/I/71l+pr5tnjL._AC_SX425_.jpg" >}}
 
 It's designed to sit flush with the MacBook like it belongs there — and it does. If you care about your desk aesthetic and want something that looks intentional rather than plugged-in, this is it. Functional caveat: 85W PD passthrough is fine for 13/14-inch MacBooks but will slow-charge the 16-inch under load. USB-A tops out at USB 3.0 speeds (~130MB/s), not 3.2.
 
@@ -92,7 +92,7 @@ For pure port count at the lowest price, the UGREEN wins. VGA + HDMI simultaneou
 
 ### 5. j5create JCD397 — Best for Windows Laptops
 
-{{< product name="j5create JCD397 USB-C Universal Docking Station" price="" rating="4.3" badge="Windows Pick" pros="Windows-optimised drivers,Dual monitor support,Gigabit Ethernet,100W PD" cons="Driver install required on first use,Bulkier than competitors,Occasional Windows update conflicts" link="https://www.amazon.com/dp/B0B12KHLF8?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B12KHLF8&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+{{< product name="j5create JCD397 USB-C Universal Docking Station" price="" rating="4.3" badge="Windows Pick" pros="Windows-optimised drivers,Dual monitor support,Gigabit Ethernet,100W PD" cons="Driver install required on first use,Bulkier than competitors,Occasional Windows update conflicts" link="https://www.amazon.com/dp/B0B12KHLF8?tag=highlowmyst0e-20"  image="https://m.media-amazon.com/images/I/51ZSUCDCGDL._AC_SX425_.jpg" >}}
 
 Tested on two Windows machines (Dell XPS 15 and a ThinkPad). Dual monitor support worked reliably where other hubs didn't — j5create has a tight Windows driver relationship that shows. First-time setup requires a driver install, which is annoying once but then invisible forever. I'd still take the Anker 555 on a Mac; on Windows, this is my pick.
 

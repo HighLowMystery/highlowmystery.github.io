@@ -50,7 +50,7 @@ The mesh back keeps airflow going during long sessions. Armrests adjust 4-ways. 
   cons="Assembly takes 45–60 minutes,Mesh may feel firm at first,Limited color options"
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61ysicChmLL._AC_SX522_.jpg" >}}
 
 **Who it's for:** Most remote workers dealing with lower back pain who want real ergonomic adjustability under $400.
 
@@ -75,7 +75,7 @@ It's expensive. But a refurbished Aeron from a reputable dealer runs $600–800 
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Premium Pick"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61pGv7rjd-L._AC_SX522_.jpg" >}}
 
 **Who it's for:** People who sit 8+ hours daily, have serious back issues, or want to buy once and never think about chairs again.
 
@@ -125,7 +125,7 @@ Like the Aeron, look for certified refurbished units. The frame is built to last
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Active Sitters"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61wqDMCm6KL._AC_SX522_.jpg" >}}
 
 **Who it's for:** People who shift posture constantly and find static lumbar support chairs uncomfortable after a few hours.
 
@@ -150,7 +150,7 @@ It ships free and assembles in about 20 minutes — the clearest instructions I'
   link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C15B3HN1&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/51gBkvJDl6L._AC_SX569_.jpg" >}}
 
 **Who it's for:** Remote workers who want ergonomic adjustability and a foam seat (warmer, softer) at a price under $350.
 

@@ -62,7 +62,7 @@ The fix is a 24-27 inch monitor at eye level — top of screen at or just below 
 
 **Verdict:** Best overall 27-inch home office monitor under $200 — IPS panel, height adjustment, and USB-C for a single-cable laptop setup. No USB-C on this model; you'll need a separate hub if your laptop is USB-C only.
 
-{{< product name="LG 27MN60T-B 27-Inch FHD IPS Monitor" price="" rating="4.5" badge="Best Overall" pros="IPS panel with good color accuracy,HDMI + DisplayPort inputs,75Hz (smoother than 60Hz for scrolling),Decent contrast for IPS,FreeSync support" cons="No USB-C,Stand only adjusts tilt (not height — buy a monitor arm),Bezels aren't slim" link="https://www.amazon.com/dp/B08FC6FFL4?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FC6FFL4&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+{{< product name="LG 27MN60T-B 27-Inch FHD IPS Monitor" price="" rating="4.5" badge="Best Overall" pros="IPS panel with good color accuracy,HDMI + DisplayPort inputs,75Hz (smoother than 60Hz for scrolling),Decent contrast for IPS,FreeSync support" cons="No USB-C,Stand only adjusts tilt (not height — buy a monitor arm),Bezels aren't slim" link="https://www.amazon.com/dp/B08FC6FFL4?tag=highlowmyst0e-20"  image="https://m.media-amazon.com/images/I/61F4CRT9k4L._AC_SX425_.jpg" >}}
 
 This is the monitor I'd recommend to someone building their first real home office setup. At $189, the IPS panel delivers good color accuracy and wide viewing angles — important for both work and video calls where you want accurate skin tones.
 
@@ -76,7 +76,7 @@ No USB-C is the real limitation. If your laptop charges via USB-C and you want a
 
 **Verdict:** Best USB-C monitor under $300 for MacBook and Dell laptop users — single cable carries power and video simultaneously. The 75Hz refresh rate is fine for productivity but noticeable if you game on the side.
 
-{{< product name="Dell S2722DC 27-Inch USB-C Monitor" price="" rating="4.6" badge="Best USB-C Pick" pros="USB-C with 65W power delivery (one cable setup),QHD 1440p resolution,Height-adjustable stand included,Solid IPS color" cons="At $279 it's at the top of this guide's budget,USB-C only delivers 65W (some laptops need 90W+),Speakers are underwhelming" link="https://www.amazon.com/dp/B08FRJ1QCN?tag=highlowmyst0e-20"  image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FRJ1QCN&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+{{< product name="Dell S2722DC 27-Inch USB-C Monitor" price="" rating="4.6" badge="Best USB-C Pick" pros="USB-C with 65W power delivery (one cable setup),QHD 1440p resolution,Height-adjustable stand included,Solid IPS color" cons="At $279 it's at the top of this guide's budget,USB-C only delivers 65W (some laptops need 90W+),Speakers are underwhelming" link="https://www.amazon.com/dp/B08FRJ1QCN?tag=highlowmyst0e-20"  image="https://m.media-amazon.com/images/I/71q2giQ22IL._AC_SX425_.jpg" >}}
 
 If you have a MacBook, Dell XPS, or any modern laptop that charges via USB-C, the S2722DC is a genuine quality-of-life upgrade. One USB-C cable: video signal + 65W charging. Clean desk, no adapter clutter.
 

@@ -49,7 +49,7 @@ The seat depth slider is also worth calling out: it lets you sit with your back 
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61ysicChmLL._AC_SX522_.jpg" >}}
 
 **Best for:** Remote workers with chronic lower back pain who want real adjustability without spending $1,000+. See also: [best home office chair for back pain](/best-picks/best-home-office-chair-for-back-pain/) for a broader view.
 
@@ -74,7 +74,7 @@ The PostureFit SL holds the sacrum in a neutral tilt, which naturally preserves 
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best Lumbar Engineering"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61pGv7rjd-L._AC_SX522_.jpg" >}}
 
 **Best for:** People with persistent lower back pain who've tried other chairs without lasting relief, or anyone sitting 8+ hours daily.
 
@@ -99,7 +99,7 @@ This works particularly well for people whose lower back pain comes from sustain
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best Dynamic Support"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61wqDMCm6KL._AC_SX522_.jpg" >}}
 
 **Best for:** People who shift posture frequently and find static lumbar support chairs uncomfortable after 2–3 hours.
 
@@ -124,7 +124,7 @@ The trade-off for the foam seat: it holds more heat than mesh, which matters in 
   link="https://www.amazon.com/dp/B0C15B3HN1?tag=highlowmyst0e-20"
   badge="Best Value Under $350"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C15B3HN1&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/51gBkvJDl6L._AC_SX569_.jpg" >}}
 
 **Best for:** Remote workers who want lumbar depth adjustment and prefer a softer foam seat over mesh at a price under $350.
 

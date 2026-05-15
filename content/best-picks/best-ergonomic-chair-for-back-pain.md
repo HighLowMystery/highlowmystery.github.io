@@ -47,7 +47,7 @@ Why it works: The C7's lumbar support adjusts both vertically (to match your lum
   link="https://www.amazon.com/dp/B0DQSQHK1M?tag=highlowmyst0e-20"
   badge="Best Overall"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DQSQHK1M&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61ysicChmLL._AC_SX522_.jpg" >}}
 
 **Who it's for:** Anyone with low-to-moderate back pain who needs custom lumbar positioning but doesn't want to spend Aeron money.
 
@@ -70,7 +70,7 @@ Why it works: Aeron's PostureFit SL system provides the only true dual-zone supp
   link="https://www.amazon.com/dp/B07NH3QT3D?tag=highlowmyst0e-20"
   badge="Best for Committed Sitter"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NH3QT3D&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61pGv7rjd-L._AC_SX522_.jpg" >}}
 
 **Who it's for:** Serious back pain sufferers, or people who want the "final chair purchase ever" with zero compromises.
 
@@ -93,7 +93,7 @@ Why it works: The Leap's LiveBack system contours to your shape and moves with y
   link="https://www.amazon.com/dp/B006H1QYBA?tag=highlowmyst0e-20"
   badge="Best for Movers"
  
- image="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006H1QYBA&Format=_SL250_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=highlowmyst0e-20" >}}
+ image="https://m.media-amazon.com/images/I/61wqDMCm6KL._AC_SX522_.jpg" >}}
 
 **Who it's for:** Restless workers who struggle with fixed-back chairs, or anyone who wants variety in seating posture.
 
